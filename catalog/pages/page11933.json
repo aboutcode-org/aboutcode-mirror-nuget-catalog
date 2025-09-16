@@ -1,0 +1,4369 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page11933.json",
+  "@type": "CatalogPage",
+  "commitId": "10bca0d4-cb29-4a2e-ad79-ac33835d63b7",
+  "commitTimeStamp": "2021-02-15T02:50:05.1145503Z",
+  "count": 542,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.50.05/traderr.services.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "10bca0d4-cb29-4a2e-ad79-ac33835d63b7",
+      "commitTimeStamp": "2021-02-15T02:50:05.1145503Z",
+      "nuget:id": "Traderr.Services",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.49.12/traderr.infrastructure.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "978d03b7-3b17-467a-a66c-20c0cd649c8d",
+      "commitTimeStamp": "2021-02-15T02:49:12.2232449Z",
+      "nuget:id": "Traderr.Infrastructure",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.48.19/traderr.next.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c012460-85c2-452c-82a7-09dbea2cd356",
+      "commitTimeStamp": "2021-02-15T02:48:19.7694786Z",
+      "nuget:id": "Traderr.Next",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.47.58/traderr.next.shared.1.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a15f66a9-0284-4bbd-808c-627c19a6bcf5",
+      "commitTimeStamp": "2021-02-15T02:47:58.0660545Z",
+      "nuget:id": "Traderr.Next.Shared",
+      "nuget:version": "1.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.47.03/stl.interception.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a23bd23-ee5d-4367-a24b-0f1f46496c78",
+      "commitTimeStamp": "2021-02-15T02:47:03.8465809Z",
+      "nuget:id": "Stl.Interception",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.47.03/stl.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a23bd23-ee5d-4367-a24b-0f1f46496c78",
+      "commitTimeStamp": "2021-02-15T02:47:03.8465809Z",
+      "nuget:id": "Stl",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.testing.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Testing",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.fusion.blazor.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Fusion.Blazor",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.net.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Net",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.fusion.entityframework.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Fusion.EntityFramework",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.fusion.server.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Fusion.Server",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/stl.fusion.client.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Stl.Fusion.Client",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.41/traderr.dto.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b37049fe-0d6d-4bfb-9fb5-12ec0bc861da",
+      "commitTimeStamp": "2021-02-15T02:46:41.2524528Z",
+      "nuget:id": "Traderr.Dto",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.20/stl.commandr.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62b48efc-f80b-4fcc-85ee-33a96f79b80a",
+      "commitTimeStamp": "2021-02-15T02:46:20.0176929Z",
+      "nuget:id": "Stl.CommandR",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.46.20/stl.fusion.0.9.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62b48efc-f80b-4fcc-85ee-33a96f79b80a",
+      "commitTimeStamp": "2021-02-15T02:46:20.0176929Z",
+      "nuget:id": "Stl.Fusion",
+      "nuget:version": "0.9.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.45.59/traderr.domain.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "06bdb2ad-6e78-460c-bae9-074e2b55d66c",
+      "commitTimeStamp": "2021-02-15T02:45:59.9235711Z",
+      "nuget:id": "Traderr.Domain",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.45.06/traderr.datacontext.mongo.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "501db856-7201-4c27-96a4-a53b806a0e93",
+      "commitTimeStamp": "2021-02-15T02:45:06.9069657Z",
+      "nuget:id": "Traderr.DataContext.Mongo",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.44.13/traderr.polygon.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "34ddf1c9-9eaf-4523-ad28-f5a225323bac",
+      "commitTimeStamp": "2021-02-15T02:44:13.0466036Z",
+      "nuget:id": "Traderr.Polygon",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.43.53/traderr.iqfeed.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3615b270-5029-4efc-a243-97882e196bef",
+      "commitTimeStamp": "2021-02-15T02:43:53.7025093Z",
+      "nuget:id": "Traderr.IQFeed",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.43.33/traderr.brokerage.robinhood.1.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a115b4d-c8cf-4f7f-89f9-487bdea677c0",
+      "commitTimeStamp": "2021-02-15T02:43:33.8896453Z",
+      "nuget:id": "Traderr.Brokerage.Robinhood",
+      "nuget:version": "1.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.42.40/traderr.brokerage.etrade.1.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0db848ca-3ba2-4e7a-ba37-7faacf8e057a",
+      "commitTimeStamp": "2021-02-15T02:42:40.6230985Z",
+      "nuget:id": "Traderr.Brokerage.ETrade",
+      "nuget:version": "1.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.41.48/rednilianauth.1.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "994aabc1-f8d7-4faa-8842-c3e8a7e4d7e4",
+      "commitTimeStamp": "2021-02-15T02:41:48.7783441Z",
+      "nuget:id": "RednilianAuth",
+      "nuget:version": "1.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.41.48/traderr.prices.core.1.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "994aabc1-f8d7-4faa-8842-c3e8a7e4d7e4",
+      "commitTimeStamp": "2021-02-15T02:41:48.7783441Z",
+      "nuget:id": "Traderr.Prices.Core",
+      "nuget:version": "1.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.38.15/exponential.base.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1120db6-7f88-4fb2-a895-e35ff79a0d4e",
+      "commitTimeStamp": "2021-02-15T02:38:15.0556857Z",
+      "nuget:id": "eXponential.base",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.37.54/exponential.base.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8fb589d-ca15-4089-8820-6ac798c62d29",
+      "commitTimeStamp": "2021-02-15T02:37:54.5865649Z",
+      "nuget:id": "eXponential.base",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.35.56/traderr.core.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "96ddd394-4337-487a-93be-f83bcbc06af5",
+      "commitTimeStamp": "2021-02-15T02:35:56.9125274Z",
+      "nuget:id": "Traderr.Core",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.35.56/exponential.base.1.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "96ddd394-4337-487a-93be-f83bcbc06af5",
+      "commitTimeStamp": "2021-02-15T02:35:56.9125274Z",
+      "nuget:id": "eXponential.base",
+      "nuget:version": "1.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.34.31/cityonhill.entityframeworkcore.extensions.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58eb9d33-033e-4ffe-84f1-2492f6e5d6b9",
+      "commitTimeStamp": "2021-02-15T02:34:31.5359638Z",
+      "nuget:id": "Cityonhill.EntityFrameworkCore.Extensions",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.34.11/cityonhill.entityframeworkcore.extensions.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea46c5c0-6d95-460c-ac74-dcbda8b4e001",
+      "commitTimeStamp": "2021-02-15T02:34:11.1137218Z",
+      "nuget:id": "Cityonhill.EntityFrameworkCore.Extensions",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.34.11/cityonhill.entityframeworkcore.extensions.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea46c5c0-6d95-460c-ac74-dcbda8b4e001",
+      "commitTimeStamp": "2021-02-15T02:34:11.1137218Z",
+      "nuget:id": "Cityonhill.EntityFrameworkCore.Extensions",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.34.11/cityonhill.entityframeworkcore.extensions.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ea46c5c0-6d95-460c-ac74-dcbda8b4e001",
+      "commitTimeStamp": "2021-02-15T02:34:11.1137218Z",
+      "nuget:id": "Cityonhill.EntityFrameworkCore.Extensions",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.33.18/generatemediator.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7425f6d-2940-4110-a970-a3192e5a3977",
+      "commitTimeStamp": "2021-02-15T02:33:18.2533901Z",
+      "nuget:id": "GenerateMediator",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.30.47/govau.notify.2.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8fa3c089-95b3-4895-b9e6-1c1dc381ecfc",
+      "commitTimeStamp": "2021-02-15T02:30:47.751409Z",
+      "nuget:id": "GovAU.Notify",
+      "nuget:version": "2.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.30.47/dotnet-sdk-extensions.1.0.4-alpha.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8fa3c089-95b3-4895-b9e6-1c1dc381ecfc",
+      "commitTimeStamp": "2021-02-15T02:30:47.751409Z",
+      "nuget:id": "DotNet-Sdk-Extensions",
+      "nuget:version": "1.0.4-alpha"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.30.47/dotnet-sdk-extensions-testing.1.0.4-alpha.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8fa3c089-95b3-4895-b9e6-1c1dc381ecfc",
+      "commitTimeStamp": "2021-02-15T02:30:47.751409Z",
+      "nuget:id": "DotNet-Sdk-Extensions-Testing",
+      "nuget:version": "1.0.4-alpha"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.30.28/test.upload.notify.2.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d2cc4f3c-193e-4f1d-899f-3bc945775a05",
+      "commitTimeStamp": "2021-02-15T02:30:28.4386726Z",
+      "nuget:id": "Test.Upload.Notify",
+      "nuget:version": "2.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.25.15/cosmos.abstracts.1.0.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c2dc028-aa16-4384-8aea-3c57ff6ee2a3",
+      "commitTimeStamp": "2021-02-15T02:25:15.6518944Z",
+      "nuget:id": "Cosmos.Abstracts",
+      "nuget:version": "1.0.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.24.54/atcoderanalyzer.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57cd47f3-3c4a-4fd0-b075-efb6897d65f0",
+      "commitTimeStamp": "2021-02-15T02:24:54.8702695Z",
+      "nuget:id": "AtCoderAnalyzer",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.24.33/ac-library-csharp.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "608ce75f-b4b7-4c29-9685-53f6935da82f",
+      "commitTimeStamp": "2021-02-15T02:24:33.1980055Z",
+      "nuget:id": "ac-library-csharp",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.22.34/eml.mefdependencyresolver.mvc.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9241ee53-93ac-4587-9cfb-636101808488",
+      "commitTimeStamp": "2021-02-15T02:22:34.945834Z",
+      "nuget:id": "Eml.MefDependencyResolver.Mvc",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.22.13/eml.mefdependencyresolver.api.2.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1290b5d3-212a-4765-8382-60b8b083b71b",
+      "commitTimeStamp": "2021-02-15T02:22:13.1798415Z",
+      "nuget:id": "Eml.MefDependencyResolver.Api",
+      "nuget:version": "2.2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.22.13/eml.mefdependencyresolver.api.2.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1290b5d3-212a-4765-8382-60b8b083b71b",
+      "commitTimeStamp": "2021-02-15T02:22:13.1798415Z",
+      "nuget:id": "Eml.MefDependencyResolver.Api",
+      "nuget:version": "2.2.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.21.52/pnp.framework.1.2.4-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97769d5a-4326-4bb1-a9db-96090a178edd",
+      "commitTimeStamp": "2021-02-15T02:21:52.7888426Z",
+      "nuget:id": "PnP.Framework",
+      "nuget:version": "1.2.4-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.21.52/eml.mefdependencyresolver.api.2.2.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "97769d5a-4326-4bb1-a9db-96090a178edd",
+      "commitTimeStamp": "2021-02-15T02:21:52.7888426Z",
+      "nuget:id": "Eml.MefDependencyResolver.Api",
+      "nuget:version": "2.2.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.59/csharpfunctionalextensions.2.14.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75819a38-6940-4355-84f4-2ed247bb99f1",
+      "commitTimeStamp": "2021-02-15T02:20:59.2253747Z",
+      "nuget:id": "CSharpFunctionalExtensions",
+      "nuget:version": "2.14.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.59/eml.entitybaseclasses.2.2.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75819a38-6940-4355-84f4-2ed247bb99f1",
+      "commitTimeStamp": "2021-02-15T02:20:59.2253747Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.20.38/eml.entitybaseclasses.2.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e41601a1-74c6-4580-a54d-db57d260dff5",
+      "commitTimeStamp": "2021-02-15T02:20:38.4281205Z",
+      "nuget:id": "Eml.EntityBaseClasses",
+      "nuget:version": "2.2.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.19.44/eml.controllerbase.mvc.1.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c68347f6-d1d8-452a-8407-af2106b17293",
+      "commitTimeStamp": "2021-02-15T02:19:44.5209037Z",
+      "nuget:id": "Eml.ControllerBase.Mvc",
+      "nuget:version": "1.2.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.19.44/eml.controllerbase.mvc.1.2.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c68347f6-d1d8-452a-8407-af2106b17293",
+      "commitTimeStamp": "2021-02-15T02:19:44.5209037Z",
+      "nuget:id": "Eml.ControllerBase.Mvc",
+      "nuget:version": "1.2.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.19.44/eml.controllerbase.mvc.1.2.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c68347f6-d1d8-452a-8407-af2106b17293",
+      "commitTimeStamp": "2021-02-15T02:19:44.5209037Z",
+      "nuget:id": "Eml.ControllerBase.Mvc",
+      "nuget:version": "1.2.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.19.44/eml.controllerbase.mvc.1.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c68347f6-d1d8-452a-8407-af2106b17293",
+      "commitTimeStamp": "2021-02-15T02:19:44.5209037Z",
+      "nuget:id": "Eml.ControllerBase.Mvc",
+      "nuget:version": "1.2.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.19.44/eml.controllerbase.mvc.1.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c68347f6-d1d8-452a-8407-af2106b17293",
+      "commitTimeStamp": "2021-02-15T02:19:44.5209037Z",
+      "nuget:id": "Eml.ControllerBase.Mvc",
+      "nuget:version": "1.2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.18.53/eml.controllerbase.2.2.0.54.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58a17056-ca3b-4fb3-ab4f-d57156d2a1a3",
+      "commitTimeStamp": "2021-02-15T02:18:53.5668599Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.54"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.18.53/eml.controllerbase.2.2.0.53.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58a17056-ca3b-4fb3-ab4f-d57156d2a1a3",
+      "commitTimeStamp": "2021-02-15T02:18:53.5668599Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.53"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.59/eml.controllerbase.2.2.0.85.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7a03293-228c-419b-b280-44c8308a45b7",
+      "commitTimeStamp": "2021-02-15T02:17:59.8627559Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.85"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.59/eml.controllerbase.2.2.0.87.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7a03293-228c-419b-b280-44c8308a45b7",
+      "commitTimeStamp": "2021-02-15T02:17:59.8627559Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.87"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.59/eml.controllerbase.2.2.0.89.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7a03293-228c-419b-b280-44c8308a45b7",
+      "commitTimeStamp": "2021-02-15T02:17:59.8627559Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.89"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.59/eml.controllerbase.2.2.0.86.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7a03293-228c-419b-b280-44c8308a45b7",
+      "commitTimeStamp": "2021-02-15T02:17:59.8627559Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.86"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.59/eml.controllerbase.2.2.0.88.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7a03293-228c-419b-b280-44c8308a45b7",
+      "commitTimeStamp": "2021-02-15T02:17:59.8627559Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.88"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.83.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.83"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.82.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.82"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.77.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.77"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.80.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.80"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.84.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.84"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.37/eml.controllerbase.2.2.0.78.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "76fcc33d-ae1d-433c-a38a-44eb16284eba",
+      "commitTimeStamp": "2021-02-15T02:17:37.2217118Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.78"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.68.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.68"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.74.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.74"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.76.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.76"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.71.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.71"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.73.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.73"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.17.14/eml.controllerbase.2.2.0.67.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eddcaecd-6074-40e6-97f9-96f4b026a61e",
+      "commitTimeStamp": "2021-02-15T02:17:14.9713144Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.67"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.64.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.64"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.60.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.60"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.65.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.65"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.63.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.63"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.61.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.61"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.53/eml.controllerbase.2.2.0.66.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "735924e7-a815-4d3a-ae6b-914034c4cc83",
+      "commitTimeStamp": "2021-02-15T02:16:53.8146868Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.66"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.32/eml.controllerbase.2.2.0.56.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d1a22b-e325-4f30-9843-0525099ababe",
+      "commitTimeStamp": "2021-02-15T02:16:32.4705522Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.56"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.32/eml.controllerbase.2.2.0.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d1a22b-e325-4f30-9843-0525099ababe",
+      "commitTimeStamp": "2021-02-15T02:16:32.4705522Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.32/eml.controllerbase.2.2.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d1a22b-e325-4f30-9843-0525099ababe",
+      "commitTimeStamp": "2021-02-15T02:16:32.4705522Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.32/eml.controllerbase.2.2.0.55.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d1a22b-e325-4f30-9843-0525099ababe",
+      "commitTimeStamp": "2021-02-15T02:16:32.4705522Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.55"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.32/eml.controllerbase.2.2.0.59.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d1a22b-e325-4f30-9843-0525099ababe",
+      "commitTimeStamp": "2021-02-15T02:16:32.4705522Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.59"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.10/eml.controllerbase.2.2.0.50.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "509e059d-6927-4262-8f62-85a61e3f3c88",
+      "commitTimeStamp": "2021-02-15T02:16:10.6264117Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.50"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.10/eml.controllerbase.2.2.0.52.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "509e059d-6927-4262-8f62-85a61e3f3c88",
+      "commitTimeStamp": "2021-02-15T02:16:10.6264117Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.52"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.16.10/eml.controllerbase.2.2.0.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "509e059d-6927-4262-8f62-85a61e3f3c88",
+      "commitTimeStamp": "2021-02-15T02:16:10.6264117Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.49/eml.controllerbase.2.2.0.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "261ea5c0-8942-4c07-b421-ccff157e5bd6",
+      "commitTimeStamp": "2021-02-15T02:15:49.8135851Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.49"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.49/eml.controllerbase.2.2.0.46.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "261ea5c0-8942-4c07-b421-ccff157e5bd6",
+      "commitTimeStamp": "2021-02-15T02:15:49.8135851Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.46"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.49/eml.controllerbase.2.2.0.48.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "261ea5c0-8942-4c07-b421-ccff157e5bd6",
+      "commitTimeStamp": "2021-02-15T02:15:49.8135851Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.48"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.49/eml.controllerbase.2.2.0.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "261ea5c0-8942-4c07-b421-ccff157e5bd6",
+      "commitTimeStamp": "2021-02-15T02:15:49.8135851Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.49/eml.controllerbase.2.2.0.47.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "261ea5c0-8942-4c07-b421-ccff157e5bd6",
+      "commitTimeStamp": "2021-02-15T02:15:49.8135851Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.47"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.38.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.38"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.44.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.44"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.43.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.43"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.41.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.41"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.27/eml.controllerbase.2.2.0.39.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b3f6239-e85e-4f05-9d37-ac62079e118b",
+      "commitTimeStamp": "2021-02-15T02:15:27.516437Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.39"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.35.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.35"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.15.05/eml.controllerbase.2.2.0.36.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab1d3ad1-576b-4ec1-b05d-4ae85f40b628",
+      "commitTimeStamp": "2021-02-15T02:15:05.9223817Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.36"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.14.44/eml.controllerbase.2.2.0.30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23a7c128-c074-4b22-82dd-66434bdf40df",
+      "commitTimeStamp": "2021-02-15T02:14:44.9689943Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.14.44/eml.controllerbase.2.2.0.29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "23a7c128-c074-4b22-82dd-66434bdf40df",
+      "commitTimeStamp": "2021-02-15T02:14:44.9689943Z",
+      "nuget:id": "Eml.ControllerBase",
+      "nuget:version": "2.2.0.29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.14.23/ac-library-csharp.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fe1fe97c-3c18-4d89-a70b-1d6d85b10e5d",
+      "commitTimeStamp": "2021-02-15T02:14:23.1874949Z",
+      "nuget:id": "ac-library-csharp",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.13.31/eml.configparser.5.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05679c30-ec86-4498-8402-ce2137117712",
+      "commitTimeStamp": "2021-02-15T02:13:31.0930763Z",
+      "nuget:id": "Eml.ConfigParser",
+      "nuget:version": "5.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.12.09/test.upload.notify.2.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1084c7b5-4563-4dc4-906a-372a3be7c1a1",
+      "commitTimeStamp": "2021-02-15T02:12:09.2323685Z",
+      "nuget:id": "Test.Upload.Notify",
+      "nuget:version": "2.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.10.11/eml.classfactory.contracts.2.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75ecb7e0-5492-4cda-aaea-2e0dab33b4ab",
+      "commitTimeStamp": "2021-02-15T02:10:11.3083665Z",
+      "nuget:id": "Eml.ClassFactory.Contracts",
+      "nuget:version": "2.2.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.10.11/eml.classfactory.contracts.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75ecb7e0-5492-4cda-aaea-2e0dab33b4ab",
+      "commitTimeStamp": "2021-02-15T02:10:11.3083665Z",
+      "nuget:id": "Eml.ClassFactory.Contracts",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.07.40/pinmame.native.win-x86.3.4.0-preview.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6995100f-9994-46f9-bb0d-278ee594a179",
+      "commitTimeStamp": "2021-02-15T02:07:40.0556376Z",
+      "nuget:id": "PinMame.Native.win-x86",
+      "nuget:version": "3.4.0-preview.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.07.40/pinmame.native.win-x64.3.4.0-preview.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6995100f-9994-46f9-bb0d-278ee594a179",
+      "commitTimeStamp": "2021-02-15T02:07:40.0556376Z",
+      "nuget:id": "PinMame.Native.win-x64",
+      "nuget:version": "3.4.0-preview.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.07.40/pinmame.native.osx-x64.3.4.0-preview.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6995100f-9994-46f9-bb0d-278ee594a179",
+      "commitTimeStamp": "2021-02-15T02:07:40.0556376Z",
+      "nuget:id": "PinMame.Native.osx-x64",
+      "nuget:version": "3.4.0-preview.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.07.19/pinmame.native.linux-x64.3.4.0-preview.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "40d400e5-3945-45fc-aaf9-fca0794c257d",
+      "commitTimeStamp": "2021-02-15T02:07:19.50839Z",
+      "nuget:id": "PinMame.Native.linux-x64",
+      "nuget:version": "3.4.0-preview.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.06.58/pinmame.native.3.4.0-preview.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f79e3916-0dd7-4e6c-8b6d-81d20a77b298",
+      "commitTimeStamp": "2021-02-15T02:06:58.7736339Z",
+      "nuget:id": "PinMame.Native",
+      "nuget:version": "3.4.0-preview.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.59/openmod.unturned.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e580ab-76c3-4826-82d9-a206c6b91311",
+      "commitTimeStamp": "2021-02-15T02:04:59.4902279Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.59/openmod.extensions.games.abstractions.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e580ab-76c3-4826-82d9-a206c6b91311",
+      "commitTimeStamp": "2021-02-15T02:04:59.4902279Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.rust.oxide.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.rust.oxide.permissionlink.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.runtime.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.analyzers.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/smartsolrschema.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "SmartSolrSchema",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.api.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.nuget.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.extensions.economy.abstractions.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.bootstrapper.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.37/openmod.rust.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e344d81d-9df4-45ee-86d3-e266ce44f9c2",
+      "commitTimeStamp": "2021-02-15T02:04:37.5367039Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/openmod.unityengine.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/voterapide.models.1.0.84.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "VoteRapide.Models",
+      "nuget:version": "1.0.84"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/openmod.templates.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/openmod.common.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/openmod.core.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.02.04.16/openmod.entityframeworkcore.3.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3542a4d-d2ad-4d67-a2d7-29805b434a63",
+      "commitTimeStamp": "2021-02-15T02:04:16.7238358Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.8+7abc38a"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.56.19/orbitalshell-module-promptgitinfo.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42c418fb-f6d8-4191-963f-a4d4ab9ea290",
+      "commitTimeStamp": "2021-02-15T01:56:19.6067921Z",
+      "nuget:id": "OrbitalShell-Module-PromptGitInfo",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.54.51/timezonenames.4.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a20b989-f986-4c8a-836b-2a8dd9ed8e2a",
+      "commitTimeStamp": "2021-02-15T01:54:51.1365764Z",
+      "nuget:id": "TimeZoneNames",
+      "nuget:version": "4.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.51.05/modernwpf.messagebox.0.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "814d8fe6-e1c3-48bf-9e39-732d25549572",
+      "commitTimeStamp": "2021-02-15T01:51:05.3356015Z",
+      "nuget:id": "ModernWpf.MessageBox",
+      "nuget:version": "0.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.51.05/keralua.1.2.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "814d8fe6-e1c3-48bf-9e39-732d25549572",
+      "commitTimeStamp": "2021-02-15T01:51:05.3356015Z",
+      "nuget:id": "KeraLua",
+      "nuget:version": "1.2.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.50.11/silk.cooldowns.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "461c6cba-4155-4ebd-aa6b-bfda6ee1d3ae",
+      "commitTimeStamp": "2021-02-15T01:50:11.1783608Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.49.22/silk.cooldowns.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd061b9e-4a60-42cb-a18f-8eccf4de317f",
+      "commitTimeStamp": "2021-02-15T01:49:22.3181194Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.49.22/silk.cooldowns.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd061b9e-4a60-42cb-a18f-8eccf4de317f",
+      "commitTimeStamp": "2021-02-15T01:49:22.3181194Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.49.04/silk.cooldowns.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "20162284-e08f-43d7-9a4b-5c9302029c39",
+      "commitTimeStamp": "2021-02-15T01:49:04.6459016Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.48.44/silk.cooldowns.rocket.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd09eadb-9d66-4965-b7fd-4243135e690e",
+      "commitTimeStamp": "2021-02-15T01:48:44.8017497Z",
+      "nuget:id": "SilK.Cooldowns.Rocket",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.48.44/silk.cooldowns.rocket.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd09eadb-9d66-4965-b7fd-4243135e690e",
+      "commitTimeStamp": "2021-02-15T01:48:44.8017497Z",
+      "nuget:id": "SilK.Cooldowns.Rocket",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.48.44/ilgpu.algorithms.0.10.0-beta1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd09eadb-9d66-4965-b7fd-4243135e690e",
+      "commitTimeStamp": "2021-02-15T01:48:44.8017497Z",
+      "nuget:id": "ILGPU.Algorithms",
+      "nuget:version": "0.10.0-beta1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.47.22/silk.cooldowns.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c3d3985-2ebc-42ea-985a-4836f30b53b0",
+      "commitTimeStamp": "2021-02-15T01:47:22.2378355Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.47.22/silk.cooldowns.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c3d3985-2ebc-42ea-985a-4836f30b53b0",
+      "commitTimeStamp": "2021-02-15T01:47:22.2378355Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.47.22/silk.cooldowns.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c3d3985-2ebc-42ea-985a-4836f30b53b0",
+      "commitTimeStamp": "2021-02-15T01:47:22.2378355Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.47.22/generatemediator.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c3d3985-2ebc-42ea-985a-4836f30b53b0",
+      "commitTimeStamp": "2021-02-15T01:47:22.2378355Z",
+      "nuget:id": "GenerateMediator",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.47.22/silk.cooldowns.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c3d3985-2ebc-42ea-985a-4836f30b53b0",
+      "commitTimeStamp": "2021-02-15T01:47:22.2378355Z",
+      "nuget:id": "SilK.Cooldowns",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.43.17/customitems.1.8.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "062cf022-cc67-4a21-a18e-1e65c9ab6d35",
+      "commitTimeStamp": "2021-02-15T01:43:17.2802669Z",
+      "nuget:id": "CustomItems",
+      "nuget:version": "1.8.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.41.20/rookiecontrols.0.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a869534f-660b-471a-9647-ac3e21b8efa8",
+      "commitTimeStamp": "2021-02-15T01:41:20.7469337Z",
+      "nuget:id": "RookieControls",
+      "nuget:version": "0.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.39.55/pnp.core.auth.0.5.37-beta2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b80416-d0c6-442e-a6db-ff4420bca6b1",
+      "commitTimeStamp": "2021-02-15T01:39:55.7145852Z",
+      "nuget:id": "PnP.Core.Auth",
+      "nuget:version": "0.5.37-beta2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.39.55/pnp.core.0.5.37-beta2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b80416-d0c6-442e-a6db-ff4420bca6b1",
+      "commitTimeStamp": "2021-02-15T01:39:55.7145852Z",
+      "nuget:id": "PnP.Core",
+      "nuget:version": "0.5.37-beta2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.39.35/customitems.1.8.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e317f2cf-2940-4cdb-861e-6ea4a94ef8bb",
+      "commitTimeStamp": "2021-02-15T01:39:35.5580751Z",
+      "nuget:id": "CustomItems",
+      "nuget:version": "1.8.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.37.36/taskbucket.1.0.0.6-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7fa99471-9561-49f1-aefe-02e2ffd382e0",
+      "commitTimeStamp": "2021-02-15T01:37:36.9467923Z",
+      "nuget:id": "TaskBucket",
+      "nuget:version": "1.0.0.6-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.52/openmod.rust.oxide.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dcb5528b-761f-4841-8656-d55b3285d133",
+      "commitTimeStamp": "2021-02-15T01:31:52.8624735Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.unityengine.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.unturned.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.core.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.rust.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.entityframeworkcore.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.runtime.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.extensions.economy.abstractions.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.31/openmod.extensions.games.abstractions.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc8dc06a-f990-4346-b4ed-54c77d5b312a",
+      "commitTimeStamp": "2021-02-15T01:31:31.5027069Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.common.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.nuget.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.api.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.bootstrapper.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.analyzers.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.31.10/openmod.rust.oxide.permissionlink.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7da7f68d-00c1-43eb-b398-824ebb599fb1",
+      "commitTimeStamp": "2021-02-15T01:31:10.205453Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.30.50/openmod.templates.3.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be854aa5-0f61-4e8d-a5d8-a4039465f779",
+      "commitTimeStamp": "2021-02-15T01:30:50.2519625Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.7+c0f3840"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/applibrary02142021.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "appLibrary02142021",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/openmod.runtime.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/openmod.bootstrapper.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/openmod.extensions.games.abstractions.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/openmod.extensions.economy.abstractions.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.23/openmod.rust.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ace085db-e0ee-44e2-8d7f-4e699c2ca56b",
+      "commitTimeStamp": "2021-02-15T01:29:23.6722721Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.02/openmod.unityengine.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33698fcf-b330-41d3-ace4-266298a976a5",
+      "commitTimeStamp": "2021-02-15T01:29:02.9375317Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.02/openmod.entityframeworkcore.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33698fcf-b330-41d3-ace4-266298a976a5",
+      "commitTimeStamp": "2021-02-15T01:29:02.9375317Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.02/openmod.unturned.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33698fcf-b330-41d3-ace4-266298a976a5",
+      "commitTimeStamp": "2021-02-15T01:29:02.9375317Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.02/openmod.rust.oxide.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33698fcf-b330-41d3-ace4-266298a976a5",
+      "commitTimeStamp": "2021-02-15T01:29:02.9375317Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.29.02/openmod.core.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "33698fcf-b330-41d3-ace4-266298a976a5",
+      "commitTimeStamp": "2021-02-15T01:29:02.9375317Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.templates.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.common.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.api.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.rust.oxide.permissionlink.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.analyzers.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.28.42/openmod.nuget.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b287df3-0f69-4abf-b483-388274582181",
+      "commitTimeStamp": "2021-02-15T01:28:42.3902844Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.6+fcfc441"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.42/stl.fusion.blazor.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8b3ba11d-ed9f-4dc6-ad18-badf0c3fbdce",
+      "commitTimeStamp": "2021-02-15T01:19:42.0845539Z",
+      "nuget:id": "Stl.Fusion.Blazor",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.net.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Net",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.fusion.client.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Fusion.Client",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.commandr.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.CommandR",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.fusion.entityframework.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Fusion.EntityFramework",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.fusion.server.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Fusion.Server",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.interception.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Interception",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.fusion.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Fusion",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.19.22/stl.testing.0.9.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9431bdf4-191b-469a-85b5-a85622b9379e",
+      "commitTimeStamp": "2021-02-15T01:19:22.0685439Z",
+      "nuget:id": "Stl.Testing",
+      "nuget:version": "0.9.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.18.30/codefoco.touch.server.1.0.27.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0423fd25-3a8b-4c0e-8410-c2302bdfe92a",
+      "commitTimeStamp": "2021-02-15T01:18:30.0051327Z",
+      "nuget:id": "Codefoco.Touch.Server",
+      "nuget:version": "1.0.27"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.13.50/flare.tcp.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e3f95c76-f0ed-4a25-b46c-c36ccf56aadf",
+      "commitTimeStamp": "2021-02-15T01:13:50.7501177Z",
+      "nuget:id": "Flare.Tcp",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.11.19/openmod.runtime.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82970071-4326-4b3a-9191-d9b5c5fabd5b",
+      "commitTimeStamp": "2021-02-15T01:11:19.6848826Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.11.19/openmod.rust.oxide.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82970071-4326-4b3a-9191-d9b5c5fabd5b",
+      "commitTimeStamp": "2021-02-15T01:11:19.6848826Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.11.19/openmod.extensions.games.abstractions.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82970071-4326-4b3a-9191-d9b5c5fabd5b",
+      "commitTimeStamp": "2021-02-15T01:11:19.6848826Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.rust.oxide.permissionlink.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.extensions.economy.abstractions.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.entityframeworkcore.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.core.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.rust.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.unityengine.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.unturned.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.analyzers.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.58/openmod.common.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7f24862b-950c-48ed-b98c-8a1193ab9716",
+      "commitTimeStamp": "2021-02-15T01:10:58.7470179Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.39/openmod.templates.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f6ae433-65e4-4ea6-b185-73ef01005a3f",
+      "commitTimeStamp": "2021-02-15T01:10:39.1216569Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.39/openmod.api.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f6ae433-65e4-4ea6-b185-73ef01005a3f",
+      "commitTimeStamp": "2021-02-15T01:10:39.1216569Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.39/openmod.bootstrapper.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f6ae433-65e4-4ea6-b185-73ef01005a3f",
+      "commitTimeStamp": "2021-02-15T01:10:39.1216569Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.10.39/openmod.nuget.3.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3f6ae433-65e4-4ea6-b185-73ef01005a3f",
+      "commitTimeStamp": "2021-02-15T01:10:39.1216569Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.5+99f295f"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.09.47/amain.rebus.mysqlconnector.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8e2fed4f-ecbc-4e39-ad7f-219c29798964",
+      "commitTimeStamp": "2021-02-15T01:09:47.5426046Z",
+      "nuget:id": "AMain.Rebus.MySqlConnector",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.07.50/semanticreleasetest.library.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "47597e59-6592-4272-82a0-40a107f8c2d4",
+      "commitTimeStamp": "2021-02-15T01:07:50.353341Z",
+      "nuget:id": "SemanticReleaseTest.Library",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.05.51/httptunnelient.2.0.0-alpha3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b9d03025-9f92-445e-a6b7-611d1f6e5558",
+      "commitTimeStamp": "2021-02-15T01:05:51.9924529Z",
+      "nuget:id": "HttpTunnelient",
+      "nuget:version": "2.0.0-alpha3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.40/bix.repositories.restful.webapi.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37893aa5-b74a-47c7-a769-f00c3a53797a",
+      "commitTimeStamp": "2021-02-15T01:01:40.9882703Z",
+      "nuget:id": "Bix.Repositories.Restful.WebApi",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.40/bix.repositories.entityframework.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37893aa5-b74a-47c7-a769-f00c3a53797a",
+      "commitTimeStamp": "2021-02-15T01:01:40.9882703Z",
+      "nuget:id": "Bix.Repositories.EntityFramework",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.40/bix.http.core.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "37893aa5-b74a-47c7-a769-f00c3a53797a",
+      "commitTimeStamp": "2021-02-15T01:01:40.9882703Z",
+      "nuget:id": "Bix.Http.Core",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.21/bix.webapi.core.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d6af1f-0595-479e-8119-23cc31ece2b3",
+      "commitTimeStamp": "2021-02-15T01:01:21.9098172Z",
+      "nuget:id": "Bix.WebApi.Core",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.21/bix.http.hmac.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04d6af1f-0595-479e-8119-23cc31ece2b3",
+      "commitTimeStamp": "2021-02-15T01:01:21.9098172Z",
+      "nuget:id": "Bix.Http.Hmac",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.repositories.restful.httpclient.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.Repositories.Restful.HttpClient",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/vidyano.templates.1.0.0-ci-20210215-005233.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Vidyano.Templates",
+      "nuget:version": "1.0.0-CI-20210215-005233"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.io.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.IO",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.core.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.Core",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.io.httpclient.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.IO.HttpClient",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.io.webapi.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.IO.WebApi",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.http.client.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.Http.Client",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.01.04/bix.autofac.4.0.0-dev.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2b9174c6-e80d-48de-9e94-a5513621ac7c",
+      "commitTimeStamp": "2021-02-15T01:01:04.018883Z",
+      "nuget:id": "Bix.Autofac",
+      "nuget:version": "4.0.0-dev.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.01.00.11/taskbucket.1.0.0.5-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d932c728-b8d2-4580-aae3-60d50f7fd6d8",
+      "commitTimeStamp": "2021-02-15T01:00:11.7834556Z",
+      "nuget:id": "TaskBucket",
+      "nuget:version": "1.0.0.5-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.56.28/cogs.wpf.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b9954d71-e65f-440b-bef9-8eb44ace17bf",
+      "commitTimeStamp": "2021-02-15T00:56:28.060648Z",
+      "nuget:id": "Cogs.Wpf",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.56.08/dragonlib.1.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "80592aaf-687e-4d25-afb0-b689452ab8fa",
+      "commitTimeStamp": "2021-02-15T00:56:08.5759295Z",
+      "nuget:id": "DragonLib",
+      "nuget:version": "1.1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.55.15/amain.rebus.mysql.3.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a06ec394-1f69-4e53-b0f4-6ff4c99b7f3f",
+      "commitTimeStamp": "2021-02-15T00:55:15.4655813Z",
+      "nuget:id": "AMain.Rebus.MySql",
+      "nuget:version": "3.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.52.45/dragonlib.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a17b61f-084f-4226-8cc6-31dc239671f7",
+      "commitTimeStamp": "2021-02-15T00:52:45.4003759Z",
+      "nuget:id": "DragonLib",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.51.52/alterdice.net.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7559afea-8636-4c4f-81cc-b86faf43e944",
+      "commitTimeStamp": "2021-02-15T00:51:52.5556691Z",
+      "nuget:id": "AlterDice.Net",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.50.51/taskbucket.1.0.0.4-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "588d78ed-4383-441d-89cb-45ceabbf7971",
+      "commitTimeStamp": "2021-02-15T00:50:51.210882Z",
+      "nuget:id": "TaskBucket",
+      "nuget:version": "1.0.0.4-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.50.30/xunit.microsoft.dependencyinjection.1.0.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c6a2ba06-ff53-449e-af9a-5a9c52f75fa3",
+      "commitTimeStamp": "2021-02-15T00:50:30.6481226Z",
+      "nuget:id": "Xunit.Microsoft.DependencyInjection",
+      "nuget:version": "1.0.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.48.02/mynugetlib.3.0.260.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7a1bf61-f172-464e-837f-d79ec1f35513",
+      "commitTimeStamp": "2021-02-15T00:48:02.9431321Z",
+      "nuget:id": "MyNuGetLib",
+      "nuget:version": "3.0.260"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.45.19/miruken.aspnetcore.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "100f00bf-52f0-4200-9295-478f8c9374ff",
+      "commitTimeStamp": "2021-02-15T00:45:19.7527973Z",
+      "nuget:id": "Miruken.AspNetCore",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.44.59/miruken.aspnetcore.signalr.api.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "51302d71-01e1-475f-8df4-3969d65d6b51",
+      "commitTimeStamp": "2021-02-15T00:44:59.2524169Z",
+      "nuget:id": "Miruken.AspNetCore.SignalR.Api",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.44.39/marck7jr.core.1.0.15-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6713f5a9-2b46-4061-8d51-0225cce79af1",
+      "commitTimeStamp": "2021-02-15T00:44:39.3145539Z",
+      "nuget:id": "Marck7JR.Core",
+      "nuget:version": "1.0.15-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.44.19/miruken.aspnetcore.swagger.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b601d747-9627-4d06-b0f8-f07d220c0156",
+      "commitTimeStamp": "2021-02-15T00:44:19.2360731Z",
+      "nuget:id": "Miruken.AspNetCore.Swagger",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.43.58/escpos_net.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d3f2892e-df62-4f67-bcf8-16127e2a7474",
+      "commitTimeStamp": "2021-02-15T00:43:58.8606984Z",
+      "nuget:id": "ESCPOS_NET",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.43.06/oauthserver.net.5.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "41cec58c-d3e1-48d7-b0d4-80b2bf7a30be",
+      "commitTimeStamp": "2021-02-15T00:43:06.1566201Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "5.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.42.46/oauthserver.net.3.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5f11edb-3f9d-4a8b-b19d-10814a63a70a",
+      "commitTimeStamp": "2021-02-15T00:42:46.3437561Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "3.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.42.46/pdfjssharp.1.0.50.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5f11edb-3f9d-4a8b-b19d-10814a63a70a",
+      "commitTimeStamp": "2021-02-15T00:42:46.3437561Z",
+      "nuget:id": "PdfjsSharp",
+      "nuget:version": "1.0.50"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.40.50/openxmltohtml.1.0.54-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "41a5285d-a965-474b-ad70-ef2e750d00e0",
+      "commitTimeStamp": "2021-02-15T00:40:50.2635265Z",
+      "nuget:id": "OpenXmlToHtml",
+      "nuget:version": "1.0.54-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.38.53/pulumi.fsharp.azuread.3.3.0.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d01367ce-31fd-4a2b-b3dc-17b959136503",
+      "commitTimeStamp": "2021-02-15T00:38:53.82388Z",
+      "nuget:id": "Pulumi.FSharp.AzureAD",
+      "nuget:version": "3.3.0.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.38.34/dynamicweb.ecommerce.1.10.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3cff3f0-7ca2-4bcc-ac93-a814ab18f2f2",
+      "commitTimeStamp": "2021-02-15T00:38:34.8547683Z",
+      "nuget:id": "Dynamicweb.Ecommerce",
+      "nuget:version": "1.10.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.37.44/orbitalshell-module-promptgitinfo.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f57a1c16-223a-414c-8f92-24b83082f5e0",
+      "commitTimeStamp": "2021-02-15T00:37:44.1039064Z",
+      "nuget:id": "OrbitalShell-Module-PromptGitInfo",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.35.13/oauthserver.net.5.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d70f7927-d745-49e0-aab5-c1adb3f52e6c",
+      "commitTimeStamp": "2021-02-15T00:35:13.4605314Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "5.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.35.13/lasercateyes.endpointlistener.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d70f7927-d745-49e0-aab5-c1adb3f52e6c",
+      "commitTimeStamp": "2021-02-15T00:35:13.4605314Z",
+      "nuget:id": "LaserCatEyes.EndpointListener",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.53/lasercateyes.httpclientlistener.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e1a5bd-1a34-4c0c-ae54-1ddbed7da38e",
+      "commitTimeStamp": "2021-02-15T00:34:53.694552Z",
+      "nuget:id": "LaserCatEyes.HttpClientListener",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.34/lasercateyes.dataservicesdk.dotnetstandard.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d4092b-a93d-4dcb-8581-75d25198bf5a",
+      "commitTimeStamp": "2021-02-15T00:34:34.1160746Z",
+      "nuget:id": "LaserCatEyes.DataServiceSdk.DotNetStandard",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.34/lasercateyes.domain.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d4092b-a93d-4dcb-8581-75d25198bf5a",
+      "commitTimeStamp": "2021-02-15T00:34:34.1160746Z",
+      "nuget:id": "LaserCatEyes.Domain",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.34/oauthserver.net.3.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d4092b-a93d-4dcb-8581-75d25198bf5a",
+      "commitTimeStamp": "2021-02-15T00:34:34.1160746Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "3.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.34/lasercateyes.httpclientlistener.dotnetstandard.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d4092b-a93d-4dcb-8581-75d25198bf5a",
+      "commitTimeStamp": "2021-02-15T00:34:34.1160746Z",
+      "nuget:id": "LaserCatEyes.HttpClientListener.DotNetStandard",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.34.34/lasercateyes.dataservicesdk.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c4d4092b-a93d-4dcb-8581-75d25198bf5a",
+      "commitTimeStamp": "2021-02-15T00:34:34.1160746Z",
+      "nuget:id": "LaserCatEyes.DataServiceSdk",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.32.35/norika.pluginloader.abstractions.0.1.1-alpha20210215.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "801e7924-ec8f-4116-8b54-721da5ecf51e",
+      "commitTimeStamp": "2021-02-15T00:32:35.1768401Z",
+      "nuget:id": "Norika.PlugInLoader.Abstractions",
+      "nuget:version": "0.1.1-alpha20210215.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.32.35/unofficial.urho3dnet.0.3.7.208.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "801e7924-ec8f-4116-8b54-721da5ecf51e",
+      "commitTimeStamp": "2021-02-15T00:32:35.1768401Z",
+      "nuget:id": "unofficial.Urho3DNet",
+      "nuget:version": "0.3.7.208"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.32.15/norika.pluginloader.0.1.1-alpha20210215.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee17efdf-599a-4831-8972-215d956b23c9",
+      "commitTimeStamp": "2021-02-15T00:32:15.6922286Z",
+      "nuget:id": "Norika.PlugInLoader",
+      "nuget:version": "0.1.1-alpha20210215.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.31.24/oauthserver.net.3.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e9c2922-983c-415d-bf9c-f82c9afacc58",
+      "commitTimeStamp": "2021-02-15T00:31:24.4415629Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "3.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.29.26/localfilemanager.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a80a4bc-5810-437d-a8a4-eb2884d26e04",
+      "commitTimeStamp": "2021-02-15T00:29:26.6740983Z",
+      "nuget:id": "LocalFileManager",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.29.07/laerdal.xamarin.dfu.0.1.0-beta.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b237c5e7-7a6c-41c8-a880-b3fdf594d5e1",
+      "commitTimeStamp": "2021-02-15T00:29:07.5331223Z",
+      "nuget:id": "Laerdal.Xamarin.Dfu",
+      "nuget:version": "0.1.0-beta.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.27.41/eivy.application.periodicalmanagement.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d2a69ad9-a13f-4cc2-b772-347f03c9dab6",
+      "commitTimeStamp": "2021-02-15T00:27:41.6565483Z",
+      "nuget:id": "eIvy.Application.PeriodicalManagement",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.27.22/________________under_______score______wow__________________much__underscore________________________.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "07e2c43a-459c-407b-b02a-236d9484bd1f",
+      "commitTimeStamp": "2021-02-15T00:27:22.3593293Z",
+      "nuget:id": "________________under_______score______wow__________________much__underscore________________________",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.26.29/oauthserver.net.3.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c133e30-0658-4154-9464-f7ab030a471d",
+      "commitTimeStamp": "2021-02-15T00:26:29.9052418Z",
+      "nuget:id": "OAuthServer.NET",
+      "nuget:version": "3.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.26.09/miruken.http.4.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aa55e63-aef6-4d9c-8a10-9abb6e58b281",
+      "commitTimeStamp": "2021-02-15T00:26:09.748637Z",
+      "nuget:id": "Miruken.Http",
+      "nuget:version": "4.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.25.50/miruken.secure.4.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ebf858f-9043-4637-af31-13f4e7e93fc5",
+      "commitTimeStamp": "2021-02-15T00:25:50.3263952Z",
+      "nuget:id": "Miruken.Secure",
+      "nuget:version": "4.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.25.30/miruken.validate.4.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0c30fca-9afb-4c94-b500-17c5b5536523",
+      "commitTimeStamp": "2021-02-15T00:25:30.5447796Z",
+      "nuget:id": "Miruken.Validate",
+      "nuget:version": "4.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.25.30/miruken.4.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0c30fca-9afb-4c94-b500-17c5b5536523",
+      "commitTimeStamp": "2021-02-15T00:25:30.5447796Z",
+      "nuget:id": "Miruken",
+      "nuget:version": "4.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.24.05/xunit.microsoft.dependencyinjection.1.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a43b0f02-ed76-4204-8f1e-0c5849da4d58",
+      "commitTimeStamp": "2021-02-15T00:24:05.8713864Z",
+      "nuget:id": "Xunit.Microsoft.DependencyInjection",
+      "nuget:version": "1.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.21.39/puppeteersharp.renderer.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "36cf5710-1fd0-428c-a885-ffcb928997ec",
+      "commitTimeStamp": "2021-02-15T00:21:39.6655997Z",
+      "nuget:id": "PuppeteerSharp.Renderer",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.19.42/clearhl7.fhir.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "17461209-af38-4fb3-9440-b1c83054d910",
+      "commitTimeStamp": "2021-02-15T00:19:42.2884646Z",
+      "nuget:id": "ClearHl7.Fhir",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.19.42/clearhl7.fhir.1.0.0-beta1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "17461209-af38-4fb3-9440-b1c83054d910",
+      "commitTimeStamp": "2021-02-15T00:19:42.2884646Z",
+      "nuget:id": "ClearHl7.Fhir",
+      "nuget:version": "1.0.0-beta1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.18.52/fuzzy.0.1.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bcdca57a-c92a-4342-905b-afd48facbd8d",
+      "commitTimeStamp": "2021-02-15T00:18:52.5375662Z",
+      "nuget:id": "Fuzzy",
+      "nuget:version": "0.1.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.18.36/clearhl7.fhir.codes.1.0.0-beta1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5073696a-5aab-45ba-96bc-373cac2c637f",
+      "commitTimeStamp": "2021-02-15T00:18:36.349767Z",
+      "nuget:id": "ClearHl7.Fhir.Codes",
+      "nuget:version": "1.0.0-beta1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.18.18/clearhl7.fhir.codes.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8489066d-a1ae-4f08-976c-f63a1dab70d9",
+      "commitTimeStamp": "2021-02-15T00:18:18.0681748Z",
+      "nuget:id": "ClearHl7.Fhir.Codes",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.18.18/complianceauditsystems.acabimcommonservices.1.0.265.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8489066d-a1ae-4f08-976c-f63a1dab70d9",
+      "commitTimeStamp": "2021-02-15T00:18:18.0681748Z",
+      "nuget:id": "ComplianceAuditSystems.AcabimCommonServices",
+      "nuget:version": "1.0.265"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.15.47/mynugetlib.3.0.259.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e5f5374b-d28e-4f3f-b9c4-f69565d85b84",
+      "commitTimeStamp": "2021-02-15T00:15:47.1284898Z",
+      "nuget:id": "MyNuGetLib",
+      "nuget:version": "3.0.259"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.12.46/diamond.core.extensions.dependencyinjection.jsonservices.5.0.0-rc.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60ad197e-0101-4183-82ca-98a4a0f58602",
+      "commitTimeStamp": "2021-02-15T00:12:46.7978134Z",
+      "nuget:id": "Diamond.Core.Extensions.DependencyInjection.JsonServices",
+      "nuget:version": "5.0.0-rc.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.12.30/diamond.core.extensions.dependencyinjection.5.0.0-rc.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "96670de2-d3d6-494c-919c-f35841bd858d",
+      "commitTimeStamp": "2021-02-15T00:12:30.9694187Z",
+      "nuget:id": "Diamond.Core.Extensions.DependencyInjection",
+      "nuget:version": "5.0.0-rc.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.33/diamond.core.extensions.interfaceinjection.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01db1156-c7ec-4cd3-bb65-5e4f9d8bb0f5",
+      "commitTimeStamp": "2021-02-15T00:10:33.9985273Z",
+      "nuget:id": "Diamond.Core.Extensions.InterfaceInjection",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.33/diamond.core.extensions.jsonservices.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01db1156-c7ec-4cd3-bb65-5e4f9d8bb0f5",
+      "commitTimeStamp": "2021-02-15T00:10:33.9985273Z",
+      "nuget:id": "Diamond.Core.Extensions.JsonServices.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.33/diamond.core.commandline.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01db1156-c7ec-4cd3-bb65-5e4f9d8bb0f5",
+      "commitTimeStamp": "2021-02-15T00:10:33.9985273Z",
+      "nuget:id": "Diamond.Core.CommandLine.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.33/diamond.core.rules.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01db1156-c7ec-4cd3-bb65-5e4f9d8bb0f5",
+      "commitTimeStamp": "2021-02-15T00:10:33.9985273Z",
+      "nuget:id": "Diamond.Core.Rules",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.unitofwork.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.UnitOfWork",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.extensions.hosting.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Extensions.Hosting",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.extensions.jsonservices.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Extensions.JsonServices",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.extensions.hosting.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Extensions.Hosting.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.extensions.interfaceinjection.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Extensions.InterfaceInjection.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.repository.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Repository.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.10.11/diamond.core.rules.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec016a39-43ec-4cc9-a794-6d536d9288f2",
+      "commitTimeStamp": "2021-02-15T00:10:11.5293678Z",
+      "nuget:id": "Diamond.Core.Rules.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.aspnet.swagger.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.AspNet.Swagger",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.workflow.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.WorkFlow",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.system.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.System",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.aspnet.doaction.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.AspNet.DoAction",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.specification.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.Specification.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.commandline.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.CommandLine",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.decorator.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.Decorator.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.unitofwork.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.UnitOfWork.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.specification.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.Specification",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.aspnet.doaction.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.AspNet.DoAction.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.47/diamond.core.decorator.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ce61638c-f8f8-4fc7-8435-6042f8bcd997",
+      "commitTimeStamp": "2021-02-15T00:09:47.8726773Z",
+      "nuget:id": "Diamond.Core.Decorator",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.workflow.state.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.WorkFlow.State",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.workflow.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.WorkFlow.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.workflow.state.abstractions.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.WorkFlow.State.Abstractions",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.repository.entityframeworkcore.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.Repository.EntityFrameworkCore",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.extensions.configuration.jsonservices.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.Extensions.Configuration.JsonServices",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.09.26/diamond.core.repository.5.0.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eeb4ef81-b6bb-437f-bbf4-7d1bb45a28d2",
+      "commitTimeStamp": "2021-02-15T00:09:26.6535372Z",
+      "nuget:id": "Diamond.Core.Repository",
+      "nuget:version": "5.0.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.05.18/webassembly.0.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4b38d51c-8bea-418b-b3a7-0a6bb3c92bd2",
+      "commitTimeStamp": "2021-02-15T00:05:18.1021471Z",
+      "nuget:id": "WebAssembly",
+      "nuget:version": "0.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.58/openmod.rocket.unturned.2.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "734950d1-a707-4e61-a36d-7384157b0e2d",
+      "commitTimeStamp": "2021-02-15T00:04:58.1173718Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.58/openmod.rocket.unturned.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "734950d1-a707-4e61-a36d-7384157b0e2d",
+      "commitTimeStamp": "2021-02-15T00:04:58.1173718Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.58/plexnugetpipelinetest.sdk.1.50.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "734950d1-a707-4e61-a36d-7384157b0e2d",
+      "commitTimeStamp": "2021-02-15T00:04:58.1173718Z",
+      "nuget:id": "PlexNugetPipelineTest.SDK",
+      "nuget:version": "1.50.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.37/openmod.rocket.unturned.2.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a084d9b1-02a3-40fd-acd9-42d59f70d195",
+      "commitTimeStamp": "2021-02-15T00:04:37.726375Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.37/openmod.rocket.unturned.2.3.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a084d9b1-02a3-40fd-acd9-42d59f70d195",
+      "commitTimeStamp": "2021-02-15T00:04:37.726375Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.37/openmod.rocket.unturned.2.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a084d9b1-02a3-40fd-acd9-42d59f70d195",
+      "commitTimeStamp": "2021-02-15T00:04:37.726375Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.17/openmod.rocket.unturned.2.3.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbfea681-b20f-4b5d-890e-710d4e1dede4",
+      "commitTimeStamp": "2021-02-15T00:04:17.3041173Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.17/openmod.rocket.unturned.2.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbfea681-b20f-4b5d-890e-710d4e1dede4",
+      "commitTimeStamp": "2021-02-15T00:04:17.3041173Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.04.17/openmod.rocket.unturned.2.3.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cbfea681-b20f-4b5d-890e-710d4e1dede4",
+      "commitTimeStamp": "2021-02-15T00:04:17.3041173Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.57/openmod.rocket.unturned.2.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58a650eb-19e7-452d-9567-ca7f34fa9489",
+      "commitTimeStamp": "2021-02-15T00:03:57.0381335Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.57/openmod.rocket.unturned.2.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58a650eb-19e7-452d-9567-ca7f34fa9489",
+      "commitTimeStamp": "2021-02-15T00:03:57.0381335Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.57/openmod.rocket.unturned.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "58a650eb-19e7-452d-9567-ca7f34fa9489",
+      "commitTimeStamp": "2021-02-15T00:03:57.0381335Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.36/openmod.rocket.unturned.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a45a27e-250a-4372-b936-fcd385cb62c5",
+      "commitTimeStamp": "2021-02-15T00:03:36.5533837Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.36/openmod.rocket.unturned.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a45a27e-250a-4372-b936-fcd385cb62c5",
+      "commitTimeStamp": "2021-02-15T00:03:36.5533837Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.17/openmod.rocket.unturned.2.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a7b9e30-ab71-4cc4-9d0e-7a384904f0a6",
+      "commitTimeStamp": "2021-02-15T00:03:17.0217653Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.17/taskbucket.1.0.0.3-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a7b9e30-ab71-4cc4-9d0e-7a384904f0a6",
+      "commitTimeStamp": "2021-02-15T00:03:17.0217653Z",
+      "nuget:id": "TaskBucket",
+      "nuget:version": "1.0.0.3-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.03.17/openmod.rocket.unturned.2.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a7b9e30-ab71-4cc4-9d0e-7a384904f0a6",
+      "commitTimeStamp": "2021-02-15T00:03:17.0217653Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.56/openmod.rocket.unturned.2.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b134e886-1fd0-4e3f-bb5c-36d1f4572e8c",
+      "commitTimeStamp": "2021-02-15T00:02:56.1151295Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.56/openmod.rocket.unturned.2.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b134e886-1fd0-4e3f-bb5c-36d1f4572e8c",
+      "commitTimeStamp": "2021-02-15T00:02:56.1151295Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.56/openmod.rocket.unturned.2.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b134e886-1fd0-4e3f-bb5c-36d1f4572e8c",
+      "commitTimeStamp": "2021-02-15T00:02:56.1151295Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.56/openmod.rocket.unturned.2.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b134e886-1fd0-4e3f-bb5c-36d1f4572e8c",
+      "commitTimeStamp": "2021-02-15T00:02:56.1151295Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.36/openmod.rocket.unturned.2.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a1b0bba-8129-40ce-a042-7dcd9a945353",
+      "commitTimeStamp": "2021-02-15T00:02:36.5522776Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.16/lumopackage.1.2021.2.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "85d9d560-31ff-474b-b234-46ff9671a55a",
+      "commitTimeStamp": "2021-02-15T00:02:16.8331633Z",
+      "nuget:id": "LumoPackage",
+      "nuget:version": "1.2021.2.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.16/openmod.rocket.api.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "85d9d560-31ff-474b-b234-46ff9671a55a",
+      "commitTimeStamp": "2021-02-15T00:02:16.8331633Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.02.16/openmod.rocket.api.2.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "85d9d560-31ff-474b-b234-46ff9671a55a",
+      "commitTimeStamp": "2021-02-15T00:02:16.8331633Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.57/handycore.caching.orleans.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec4cc1ae-756a-41be-bb87-90ac7ea0219d",
+      "commitTimeStamp": "2021-02-15T00:01:57.1452977Z",
+      "nuget:id": "Handycore.Caching.Orleans",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.57/openmod.rocket.api.2.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ec4cc1ae-756a-41be-bb87-90ac7ea0219d",
+      "commitTimeStamp": "2021-02-15T00:01:57.1452977Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.36/buildergenerator.0.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "03cb36ed-667b-49e7-9566-4c6a20cbc405",
+      "commitTimeStamp": "2021-02-15T00:01:36.1292961Z",
+      "nuget:id": "BuilderGenerator",
+      "nuget:version": "0.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.36/pokeapi.net.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "03cb36ed-667b-49e7-9566-4c6a20cbc405",
+      "commitTimeStamp": "2021-02-15T00:01:36.1292961Z",
+      "nuget:id": "PokeApi.NET",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.36/openmod.rocket.api.2.3.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "03cb36ed-667b-49e7-9566-4c6a20cbc405",
+      "commitTimeStamp": "2021-02-15T00:01:36.1292961Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.36/openmod.rocket.api.2.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "03cb36ed-667b-49e7-9566-4c6a20cbc405",
+      "commitTimeStamp": "2021-02-15T00:01:36.1292961Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.36/openmod.rocket.api.2.3.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "03cb36ed-667b-49e7-9566-4c6a20cbc405",
+      "commitTimeStamp": "2021-02-15T00:01:36.1292961Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.15/booolean.platform.models.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef01da83-0098-4f80-a6de-90dfb68e1360",
+      "commitTimeStamp": "2021-02-15T00:01:15.6132868Z",
+      "nuget:id": "Booolean.Platform.Models",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.15/openmod.rocket.api.2.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef01da83-0098-4f80-a6de-90dfb68e1360",
+      "commitTimeStamp": "2021-02-15T00:01:15.6132868Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.15/openmod.rocket.api.2.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef01da83-0098-4f80-a6de-90dfb68e1360",
+      "commitTimeStamp": "2021-02-15T00:01:15.6132868Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.01.15/openmod.rocket.api.2.3.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef01da83-0098-4f80-a6de-90dfb68e1360",
+      "commitTimeStamp": "2021-02-15T00:01:15.6132868Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.00.54/openmod.rocket.api.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05842595-2de2-4a23-ae02-cd9aaf28f7c8",
+      "commitTimeStamp": "2021-02-15T00:00:54.5660211Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.00.34/booolean.platform.services.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3da3d8c2-69f2-4ced-8916-68c8a2872197",
+      "commitTimeStamp": "2021-02-15T00:00:34.7531687Z",
+      "nuget:id": "Booolean.Platform.Services",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.15.00.00.34/booolean.platform.repository.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3da3d8c2-69f2-4ced-8916-68c8a2872197",
+      "commitTimeStamp": "2021-02-15T00:00:34.7531687Z",
+      "nuget:id": "Booolean.Platform.Repository",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.58.04/vlingo.lattice.0.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e3397ba3-6689-4ea1-92d3-d92775449d53",
+      "commitTimeStamp": "2021-02-14T23:58:04.5478465Z",
+      "nuget:id": "Vlingo.Lattice",
+      "nuget:version": "0.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.57.12/pf4.sdk.1.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e722170d-5937-4612-ad22-05f0dc2e7d99",
+      "commitTimeStamp": "2021-02-14T23:57:12.0471816Z",
+      "nuget:id": "PF4.SDK",
+      "nuget:version": "1.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.55.14/aboditnlpwordnet.3.9.346.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "80074ed9-d867-4f2a-9393-e30147cf0e89",
+      "commitTimeStamp": "2021-02-14T23:55:14.2171798Z",
+      "nuget:id": "AboditNLPWordnet",
+      "nuget:version": "3.9.346.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.55.14/aboditnlpwordnet.3.9.346.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "80074ed9-d867-4f2a-9393-e30147cf0e89",
+      "commitTimeStamp": "2021-02-14T23:55:14.2171798Z",
+      "nuget:id": "AboditNLPWordnet",
+      "nuget:version": "3.9.346.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.54.53/aboditnlpwordnet.3.21.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "271a6539-bdea-40f7-b2b1-6fc8bcf6b1d9",
+      "commitTimeStamp": "2021-02-14T23:54:53.4042989Z",
+      "nuget:id": "AboditNLPWordnet",
+      "nuget:version": "3.21.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.59/openxmlpowertoolsstandard.5.0.66-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c760201-b3ef-464b-83fe-353b3aa09f8d",
+      "commitTimeStamp": "2021-02-14T23:53:59.7158279Z",
+      "nuget:id": "OpenXmlPowerToolsStandard",
+      "nuget:version": "5.0.66-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.38/aboditnlpwordnetextended.3.9.346.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f499be4-6677-4e9a-91e8-bdf9e29b2ef3",
+      "commitTimeStamp": "2021-02-14T23:53:38.5748214Z",
+      "nuget:id": "AboditNLPWordnetExtended",
+      "nuget:version": "3.9.346.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.38/abodit.geonames.3.9.346.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f499be4-6677-4e9a-91e8-bdf9e29b2ef3",
+      "commitTimeStamp": "2021-02-14T23:53:38.5748214Z",
+      "nuget:id": "Abodit.Geonames",
+      "nuget:version": "3.9.346.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.38/aboditnlpwordnetextended.3.21.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f499be4-6677-4e9a-91e8-bdf9e29b2ef3",
+      "commitTimeStamp": "2021-02-14T23:53:38.5748214Z",
+      "nuget:id": "AboditNLPWordnetExtended",
+      "nuget:version": "3.21.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.38/aboditnlpwordnetextended.3.9.346.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f499be4-6677-4e9a-91e8-bdf9e29b2ef3",
+      "commitTimeStamp": "2021-02-14T23:53:38.5748214Z",
+      "nuget:id": "AboditNLPWordnetExtended",
+      "nuget:version": "3.9.346.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.17/aboditunitssql.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b1b4f55e-ec19-4af6-99a0-58fb67b85916",
+      "commitTimeStamp": "2021-02-14T23:53:17.433806Z",
+      "nuget:id": "AboditUnitsSql",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.17/aboditnlpdictionary.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b1b4f55e-ec19-4af6-99a0-58fb67b85916",
+      "commitTimeStamp": "2021-02-14T23:53:17.433806Z",
+      "nuget:id": "AboditNLPDictionary",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.17/aboditunits.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b1b4f55e-ec19-4af6-99a0-58fb67b85916",
+      "commitTimeStamp": "2021-02-14T23:53:17.433806Z",
+      "nuget:id": "AboditUnits",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.53.17/abodit.geonames.3.9.346.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b1b4f55e-ec19-4af6-99a0-58fb67b85916",
+      "commitTimeStamp": "2021-02-14T23:53:17.433806Z",
+      "nuget:id": "Abodit.Geonames",
+      "nuget:version": "3.9.346.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.52.56/aboditnlp.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4408ab51-626d-466f-bed8-5e0bb8404659",
+      "commitTimeStamp": "2021-02-14T23:52:56.6053149Z",
+      "nuget:id": "AboditNLP",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.52.56/autofac.extras.aboditnlp.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4408ab51-626d-466f-bed8-5e0bb8404659",
+      "commitTimeStamp": "2021-02-14T23:52:56.6053149Z",
+      "nuget:id": "Autofac.Extras.AboditNLP",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.52.56/abodit.geonames.3.21.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4408ab51-626d-466f-bed8-5e0bb8404659",
+      "commitTimeStamp": "2021-02-14T23:52:56.6053149Z",
+      "nuget:id": "Abodit.Geonames",
+      "nuget:version": "3.21.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.52.56/aboditunitsmongodb.3.21.32.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4408ab51-626d-466f-bed8-5e0bb8404659",
+      "commitTimeStamp": "2021-02-14T23:52:56.6053149Z",
+      "nuget:id": "AboditUnitsMongoDB",
+      "nuget:version": "3.21.32.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.52.03/openmod.runtime.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c06871d1-c991-409e-93ba-c3a8695156e1",
+      "commitTimeStamp": "2021-02-14T23:52:03.9949738Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.41/openmod.core.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9974eab8-5dad-476b-8115-3e1c978e43ca",
+      "commitTimeStamp": "2021-02-14T23:51:41.4633083Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.41/openmod.entityframeworkcore.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9974eab8-5dad-476b-8115-3e1c978e43ca",
+      "commitTimeStamp": "2021-02-14T23:51:41.4633083Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.41/openmod.unturned.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9974eab8-5dad-476b-8115-3e1c978e43ca",
+      "commitTimeStamp": "2021-02-14T23:51:41.4633083Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.extensions.economy.abstractions.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.analyzers.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.nuget.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.api.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.rust.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.rust.oxide.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.51.19/openmod.common.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ec8b311-fd7d-49a2-8f93-cdd5c54587f6",
+      "commitTimeStamp": "2021-02-14T23:51:19.6972809Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/norika.pluginloader.abstractions.0.1.1-alpha20210214.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "Norika.PlugInLoader.Abstractions",
+      "nuget:version": "0.1.1-alpha20210214.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/handycore.caching.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "Handycore.Caching",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/openmod.bootstrapper.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/norika.pluginloader.0.1.1-alpha20210214.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "Norika.PlugInLoader",
+      "nuget:version": "0.1.1-alpha20210214.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/dotnet-sdk-extensions.1.0.3-alpha.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "DotNet-Sdk-Extensions",
+      "nuget:version": "1.0.3-alpha"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/openmod.extensions.games.abstractions.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.57/openmod.unityengine.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a814b11f-0d48-4a62-809c-f4cdc194343e",
+      "commitTimeStamp": "2021-02-14T23:50:57.587516Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.36/dotnet-sdk-extensions-testing.1.0.3-alpha.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbd4d0c4-459e-45a5-8dca-adb3b2dea170",
+      "commitTimeStamp": "2021-02-14T23:50:36.6027619Z",
+      "nuget:id": "DotNet-Sdk-Extensions-Testing",
+      "nuget:version": "1.0.3-alpha"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.36/openmod.templates.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbd4d0c4-459e-45a5-8dca-adb3b2dea170",
+      "commitTimeStamp": "2021-02-14T23:50:36.6027619Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.36/acuwebsitemanager.0.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbd4d0c4-459e-45a5-8dca-adb3b2dea170",
+      "commitTimeStamp": "2021-02-14T23:50:36.6027619Z",
+      "nuget:id": "AcuWebSiteManager",
+      "nuget:version": "0.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.50.36/openmod.rust.oxide.permissionlink.3.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbd4d0c4-459e-45a5-8dca-adb3b2dea170",
+      "commitTimeStamp": "2021-02-14T23:50:36.6027619Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.4+8f05b0d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.48.37/tagbites.ui.xamforms.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab806ecb-37fc-41c7-9b96-d8bbf4295dc3",
+      "commitTimeStamp": "2021-02-14T23:48:37.3349666Z",
+      "nuget:id": "TagBites.UI.XamForms",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.48.37/redosocial.sdk.csharp.common.2.0.132.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ab806ecb-37fc-41c7-9b96-d8bbf4295dc3",
+      "commitTimeStamp": "2021-02-14T23:48:37.3349666Z",
+      "nuget:id": "RedoSocial.SDK.CSharp.Common",
+      "nuget:version": "2.0.132"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.48.17/tagbites.ui.xamforms.ios.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d161bd0f-86b7-495d-852a-f61d29dd1c19",
+      "commitTimeStamp": "2021-02-14T23:48:17.0220933Z",
+      "nuget:id": "TagBites.UI.XamForms.iOS",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.47.23/tagbites.ui.platform.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f53b2064-fb18-4e4b-a58a-beb59d11e4c5",
+      "commitTimeStamp": "2021-02-14T23:47:23.3804978Z",
+      "nuget:id": "TagBites.UI.Platform",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.47.23/tagbites.reports.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f53b2064-fb18-4e4b-a58a-beb59d11e4c5",
+      "commitTimeStamp": "2021-02-14T23:47:23.3804978Z",
+      "nuget:id": "TagBites.Reports",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.47.23/tagbites.ui.devforms.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f53b2064-fb18-4e4b-a58a-beb59d11e4c5",
+      "commitTimeStamp": "2021-02-14T23:47:23.3804978Z",
+      "nuget:id": "TagBites.UI.DevForms",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.47.23/tagbites.ui.xamforms.android.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f53b2064-fb18-4e4b-a58a-beb59d11e4c5",
+      "commitTimeStamp": "2021-02-14T23:47:23.3804978Z",
+      "nuget:id": "TagBites.UI.XamForms.Android",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.47.01/tagbites.ui.winforms.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "52c6c28a-31c8-4320-8f26-35113ba96685",
+      "commitTimeStamp": "2021-02-14T23:47:01.6613498Z",
+      "nuget:id": "TagBites.UI.WinForms",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.40/tagbites.ui.blazorforms.webassembly.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2bced5a-0a5c-4a21-afb5-5023b6e095d2",
+      "commitTimeStamp": "2021-02-14T23:46:40.3015912Z",
+      "nuget:id": "TagBites.UI.BlazorForms.WebAssembly",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.40/tagbites.ui.blazorforms.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2bced5a-0a5c-4a21-afb5-5023b6e095d2",
+      "commitTimeStamp": "2021-02-14T23:46:40.3015912Z",
+      "nuget:id": "TagBites.UI.BlazorForms",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.40/tagbites.ui.design.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2bced5a-0a5c-4a21-afb5-5023b6e095d2",
+      "commitTimeStamp": "2021-02-14T23:46:40.3015912Z",
+      "nuget:id": "TagBites.UI.Design",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.40/tagbites.ui.blazorforms.serverside.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b2bced5a-0a5c-4a21-afb5-5023b6e095d2",
+      "commitTimeStamp": "2021-02-14T23:46:40.3015912Z",
+      "nuget:id": "TagBites.UI.BlazorForms.ServerSide",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.18/tagbites.ui.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1211e39c-6125-4943-a9df-ecd311fdd43c",
+      "commitTimeStamp": "2021-02-14T23:46:18.7543289Z",
+      "nuget:id": "TagBites.UI",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.18/booolean.platform.repository.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1211e39c-6125-4943-a9df-ecd311fdd43c",
+      "commitTimeStamp": "2021-02-14T23:46:18.7543289Z",
+      "nuget:id": "Booolean.Platform.Repository",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.18/tagbites.reports.design.1.0.8-preview6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1211e39c-6125-4943-a9df-ecd311fdd43c",
+      "commitTimeStamp": "2021-02-14T23:46:18.7543289Z",
+      "nuget:id": "TagBites.Reports.Design",
+      "nuget:version": "1.0.8-preview6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.46.18/xamlflair.wpf.1.2.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1211e39c-6125-4943-a9df-ecd311fdd43c",
+      "commitTimeStamp": "2021-02-14T23:46:18.7543289Z",
+      "nuget:id": "XamlFlair.WPF",
+      "nuget:version": "1.2.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.45.58/booolean.platform.services.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf017807-04ec-41cf-8488-ae2143885cec",
+      "commitTimeStamp": "2021-02-14T23:45:58.2852Z",
+      "nuget:id": "Booolean.Platform.Services",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.45.03/autofac.extras.quartz.7.0.0-beta0001.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd11b75d-bb88-4e84-a074-d63ab169f591",
+      "commitTimeStamp": "2021-02-14T23:45:03.9248326Z",
+      "nuget:id": "Autofac.Extras.Quartz",
+      "nuget:version": "7.0.0-beta0001"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.45.03/booolean.platform.models.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fd11b75d-bb88-4e84-a074-d63ab169f591",
+      "commitTimeStamp": "2021-02-14T23:45:03.9248326Z",
+      "nuget:id": "Booolean.Platform.Models",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.40.58/vlingo.symbio.0.9.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1557a0e7-9a69-4c0c-91e6-091da93ea604",
+      "commitTimeStamp": "2021-02-14T23:40:58.6710287Z",
+      "nuget:id": "Vlingo.Symbio",
+      "nuget:version": "0.9.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.39.00/unofficial.urho3dnet.0.3.7.207.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66d3e0f2-f66c-4fe8-a5dd-2dfbb3485f7e",
+      "commitTimeStamp": "2021-02-14T23:39:00.8100238Z",
+      "nuget:id": "unofficial.Urho3DNet",
+      "nuget:version": "0.3.7.207"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.38.41/ae.freezer.aws.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5399852a-ad7d-4928-aee2-dfe964a8c518",
+      "commitTimeStamp": "2021-02-14T23:38:41.169035Z",
+      "nuget:id": "Ae.Freezer.Aws",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.38.41/ae.freezer.0.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5399852a-ad7d-4928-aee2-dfe964a8c518",
+      "commitTimeStamp": "2021-02-14T23:38:41.169035Z",
+      "nuget:id": "Ae.Freezer",
+      "nuget:version": "0.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.37.16/kanyon.resourcegenerator.3.1.4-prerelease-20210214233434.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbdd313c-87f7-43b4-b1ea-b46ec19c6705",
+      "commitTimeStamp": "2021-02-14T23:37:16.0893654Z",
+      "nuget:id": "Kanyon.ResourceGenerator",
+      "nuget:version": "3.1.4-prerelease-20210214233434"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.37.16/kanyon.3.1.4-prerelease-20210214233434.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fbdd313c-87f7-43b4-b1ea-b46ec19c6705",
+      "commitTimeStamp": "2021-02-14T23:37:16.0893654Z",
+      "nuget:id": "Kanyon",
+      "nuget:version": "3.1.4-prerelease-20210214233434"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.36.55/ae.freezer.aws.0.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ea2b78c-415d-401b-9f6d-5c930ffcb76c",
+      "commitTimeStamp": "2021-02-14T23:36:55.8077452Z",
+      "nuget:id": "Ae.Freezer.Aws",
+      "nuget:version": "0.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.36.55/ae.freezer.0.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ea2b78c-415d-401b-9f6d-5c930ffcb76c",
+      "commitTimeStamp": "2021-02-14T23:36:55.8077452Z",
+      "nuget:id": "Ae.Freezer",
+      "nuget:version": "0.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.36.55/kr4ken.newessentials.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ea2b78c-415d-401b-9f6d-5c930ffcb76c",
+      "commitTimeStamp": "2021-02-14T23:36:55.8077452Z",
+      "nuget:id": "Kr4ken.NewEssentials",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.36.36/kanyon.kubernetes.3.1.4-prerelease-20210214233434.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d6a730b8-eb53-4baf-83c8-25245ea84df9",
+      "commitTimeStamp": "2021-02-14T23:36:36.2292599Z",
+      "nuget:id": "Kanyon.Kubernetes",
+      "nuget:version": "3.1.4-prerelease-20210214233434"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.36.36/kanyon.core.3.1.4-prerelease-20210214233434.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d6a730b8-eb53-4baf-83c8-25245ea84df9",
+      "commitTimeStamp": "2021-02-14T23:36:36.2292599Z",
+      "nuget:id": "Kanyon.Core",
+      "nuget:version": "3.1.4-prerelease-20210214233434"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.35.09/vlingo.directory.0.9.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88ed39a0-7dc0-41a2-9732-fa19425bcf27",
+      "commitTimeStamp": "2021-02-14T23:35:09.071419Z",
+      "nuget:id": "Vlingo.Directory",
+      "nuget:version": "0.9.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.33.28/openxmlpowertoolsstandard.5.0.65-prerelease.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a7a2e5b-6d04-4d9f-a719-8bd3797a2f41",
+      "commitTimeStamp": "2021-02-14T23:33:28.6945931Z",
+      "nuget:id": "OpenXmlPowerToolsStandard",
+      "nuget:version": "5.0.65-prerelease"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.29.54/legosharp.7.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5a80eda5-fe87-4905-b554-7c0a1736529e",
+      "commitTimeStamp": "2021-02-14T23:29:54.1594317Z",
+      "nuget:id": "LegoSharp",
+      "nuget:version": "7.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.29.03/xamlflair.wpf.1.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fb2d9c55-2f71-4823-b394-f4bf09623079",
+      "commitTimeStamp": "2021-02-14T23:29:03.8772628Z",
+      "nuget:id": "XamlFlair.WPF",
+      "nuget:version": "1.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.28.46/pf4.sdk.1.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99d3018f-91a6-49c5-b8f0-ddda2ab51f65",
+      "commitTimeStamp": "2021-02-14T23:28:46.45507Z",
+      "nuget:id": "PF4.SDK",
+      "nuget:version": "1.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.25.12/vlingo.http.0.9.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ca4068c-b186-4cc6-9696-70429c7ea45f",
+      "commitTimeStamp": "2021-02-14T23:25:12.1759529Z",
+      "nuget:id": "Vlingo.Http",
+      "nuget:version": "0.9.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.22.44/wmblazorslickcarousel.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "94e11a66-b146-44c1-9077-2e288948f865",
+      "commitTimeStamp": "2021-02-14T23:22:44.1740939Z",
+      "nuget:id": "WMBlazorSlickCarousel",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.21.52/openmod.unturned.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "deff634a-ac1e-47e9-b73a-c96ccf7b5d96",
+      "commitTimeStamp": "2021-02-14T23:21:52.3607873Z",
+      "nuget:id": "OpenMod.Unturned",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.21.52/openmod.core.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "deff634a-ac1e-47e9-b73a-c96ccf7b5d96",
+      "commitTimeStamp": "2021-02-14T23:21:52.3607873Z",
+      "nuget:id": "OpenMod.Core",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.21.33/openmod.entityframeworkcore.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6eaa7f-0949-42d3-85b4-ef645a8c947c",
+      "commitTimeStamp": "2021-02-14T23:21:33.1260539Z",
+      "nuget:id": "OpenMod.EntityFrameworkCore",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.21.33/openmod.runtime.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6eaa7f-0949-42d3-85b4-ef645a8c947c",
+      "commitTimeStamp": "2021-02-14T23:21:33.1260539Z",
+      "nuget:id": "OpenMod.Runtime",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.21.13/openmod.nuget.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebbfe6a1-e172-4dfb-b60b-486ce9cbb3d3",
+      "commitTimeStamp": "2021-02-14T23:21:13.2663209Z",
+      "nuget:id": "OpenMod.NuGet",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.53/openmod.rust.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e963736-2291-4e1f-b5c8-e751eecbfd5c",
+      "commitTimeStamp": "2021-02-14T23:20:53.3440838Z",
+      "nuget:id": "OpenMod.Rust",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.53/openmod.extensions.games.abstractions.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e963736-2291-4e1f-b5c8-e751eecbfd5c",
+      "commitTimeStamp": "2021-02-14T23:20:53.3440838Z",
+      "nuget:id": "OpenMod.Extensions.Games.Abstractions",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.53/openmod.unityengine.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e963736-2291-4e1f-b5c8-e751eecbfd5c",
+      "commitTimeStamp": "2021-02-14T23:20:53.3440838Z",
+      "nuget:id": "OpenMod.UnityEngine",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.53/openmod.extensions.economy.abstractions.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e963736-2291-4e1f-b5c8-e751eecbfd5c",
+      "commitTimeStamp": "2021-02-14T23:20:53.3440838Z",
+      "nuget:id": "OpenMod.Extensions.Economy.Abstractions",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.53/openmod.rust.oxide.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2e963736-2291-4e1f-b5c8-e751eecbfd5c",
+      "commitTimeStamp": "2021-02-14T23:20:53.3440838Z",
+      "nuget:id": "OpenMod.Rust.Oxide",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.34/openmod.bootstrapper.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26d7fd79-ed09-4726-b544-a70abfa99442",
+      "commitTimeStamp": "2021-02-14T23:20:34.0624803Z",
+      "nuget:id": "OpenMod.Bootstrapper",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.34/openmod.analyzers.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26d7fd79-ed09-4726-b544-a70abfa99442",
+      "commitTimeStamp": "2021-02-14T23:20:34.0624803Z",
+      "nuget:id": "OpenMod.Analyzers",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.34/openmod.rust.oxide.permissionlink.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26d7fd79-ed09-4726-b544-a70abfa99442",
+      "commitTimeStamp": "2021-02-14T23:20:34.0624803Z",
+      "nuget:id": "OpenMod.Rust.Oxide.PermissionLink",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.34/openmod.common.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26d7fd79-ed09-4726-b544-a70abfa99442",
+      "commitTimeStamp": "2021-02-14T23:20:34.0624803Z",
+      "nuget:id": "OpenMod.Common",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.34/openmod.api.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "26d7fd79-ed09-4726-b544-a70abfa99442",
+      "commitTimeStamp": "2021-02-14T23:20:34.0624803Z",
+      "nuget:id": "OpenMod.API",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.20.13/openmod.templates.3.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef29c451-9d0d-4e81-8c7d-f618fa778c17",
+      "commitTimeStamp": "2021-02-14T23:20:13.7183591Z",
+      "nuget:id": "OpenMod.Templates",
+      "nuget:version": "3.0.3+b65d9df"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.19.46/smartwaiver.net.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f20fa01-5258-4160-be52-f9a5c59ebe94",
+      "commitTimeStamp": "2021-02-14T23:19:46.4209904Z",
+      "nuget:id": "SmartWaiver.Net",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.19.46/vlingo.cluster.0.9.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2f20fa01-5258-4160-be52-f9a5c59ebe94",
+      "commitTimeStamp": "2021-02-14T23:19:46.4209904Z",
+      "nuget:id": "Vlingo.Cluster",
+      "nuget:version": "0.9.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.18.54/nunit.allure.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d932db24-0871-4e3a-ba8e-eaeeb81b1ce7",
+      "commitTimeStamp": "2021-02-14T23:18:54.8418202Z",
+      "nuget:id": "NUnit.Allure",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.18.03/framework.core.apihelper.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "749f68bd-5b0c-4868-be99-a4c515fdcd24",
+      "commitTimeStamp": "2021-02-14T23:18:03.1691274Z",
+      "nuget:id": "Framework.Core.ApiHelper",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.18.03/framework.core.apihelper.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "749f68bd-5b0c-4868-be99-a4c515fdcd24",
+      "commitTimeStamp": "2021-02-14T23:18:03.1691274Z",
+      "nuget:id": "Framework.Core.ApiHelper",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.33/openmod.rocket.api.2.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a788460-3a35-452f-8521-9107652ac7da",
+      "commitTimeStamp": "2021-02-14T23:15:33.1975818Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.33/openmod.rocket.core.2.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a788460-3a35-452f-8521-9107652ac7da",
+      "commitTimeStamp": "2021-02-14T23:15:33.1975818Z",
+      "nuget:id": "OpenMod.Rocket.Core",
+      "nuget:version": "2.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.33/openmod.rocket.unturned.2.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a788460-3a35-452f-8521-9107652ac7da",
+      "commitTimeStamp": "2021-02-14T23:15:33.1975818Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.33/openmod.rocket.unturned.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a788460-3a35-452f-8521-9107652ac7da",
+      "commitTimeStamp": "2021-02-14T23:15:33.1975818Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.1.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.api.2.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.15.10/openmod.rocket.unturned.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8769a13e-2276-4702-bc0f-bbd84d87a1e2",
+      "commitTimeStamp": "2021-02-14T23:15:10.5252932Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "2.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.1.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.1.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.unturned.1.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.14.20/openmod.rocket.api.2.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65db3df7-8eb3-4046-a1d8-899a5c46c556",
+      "commitTimeStamp": "2021-02-14T23:14:20.524379Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "2.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.0.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.unturned.1.0.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.31/openmod.rocket.api.1.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a1445054-ca4b-4acc-b00f-02254ef32fb2",
+      "commitTimeStamp": "2021-02-14T23:13:31.2265949Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.59.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.59"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.61.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.61"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.63.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.63"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.60.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.60"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.unturned.0.9.56.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.Unturned",
+      "nuget:version": "0.9.56"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2021.02.14.23.13.07/openmod.rocket.api.1.0.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1cd7c06b-17ed-4bc1-ad7a-4717a22c7af2",
+      "commitTimeStamp": "2021-02-14T23:13:07.788666Z",
+      "nuget:id": "OpenMod.Rocket.API",
+      "nuget:version": "1.0.16"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
