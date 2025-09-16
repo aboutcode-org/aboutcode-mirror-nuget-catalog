@@ -1,0 +1,34 @@
+name: Daily sync of NuGet catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install required Python packages
+        run: pip install requests==2.32.5 aboutcode.pipeline==0.2.1
+
+      - name: Run sync
+        run: python sync_catalog.py
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "AboutCode Automation"
+          git config user.email "automation@aboutcode.org"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "$(echo -e "Sync NuGet catalog: $timestamp\n\nSigned-off-by: AboutCode Automation <automation@aboutcode.org>")" || exit 0
+          git push
