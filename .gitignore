@@ -1,0 +1,21 @@
+# Various junk and temp files
+.DS_Store
+*~
+.*.sw[po]
+.build
+.ve
+*.bak
+var
+share
+selenium
+local
+/dist/
+/.*cache/
+/.venv/
+/.python-version
+/.pytest_cache/
+/scancodeio.egg-info/
+*.rdb
+*.aof
+.vscode
+.ipynb_checkpoints
