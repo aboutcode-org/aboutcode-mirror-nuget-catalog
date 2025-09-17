@@ -1,9 +1,9 @@
-name: Daily sync of NuGet catalog
+name: Hourly sync of NuGet catalog
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install required Python packages
+      - name: Install required packages
         run: pip install requests==2.32.5 aboutcode.pipeline==0.2.1
 
       - name: Run sync
