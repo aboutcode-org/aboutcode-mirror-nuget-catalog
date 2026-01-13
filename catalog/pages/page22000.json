@@ -1,0 +1,3233 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22000.json",
+  "@type": "CatalogPage",
+  "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+  "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+  "count": 400,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.net.runtime.webassembly.templates.net10.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Templates.net10.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.aspnetcore.authentication.microsoftaccount.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.MicrosoftAccount",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/tyto.transports.rabbitmq.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Tyto.Transports.RabbitMq",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.net.runtime.emscripten.3.1.56.node.linux-musl-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.linux-musl-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.extensions.caching.memory.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.Extensions.Caching.Memory",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.net.sdk.webassembly.pack.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NET.Sdk.WebAssembly.Pack",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/tyto.materializer.redis.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Tyto.Materializer.Redis",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.netcore.app.runtime.aot.linux-arm64.cross.wasi-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.wasi-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.windowsdesktop.app.runtime.win-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.net.runtime.emscripten.3.1.56.cache.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/runtime.win-arm64.microsoft.netcore.ilasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "runtime.win-arm64.Microsoft.NETCore.ILAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.durabletask.worker.azuremanaged.1.19.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.DurableTask.Worker.AzureManaged",
+      "nuget:version": "1.19.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.netcore.app.crossgen2.linux-arm.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.linux-arm",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.windows.compatibility.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.Windows.Compatibility",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.aspnetcore.metadata.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.AspNetCore.Metadata",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.net.build.containers.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NET.Build.Containers",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.netcore.app.runtime.linux-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.linux-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.netcore.app.runtime.aot.win-x64.cross.android-x86.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/microsoft.entityframeworkcore.tools.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Tools",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.08.08/runtime.linux-musl-arm.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f3c7b35-4ea8-4cf8-99a9-278bd3dc986f",
+      "commitTimeStamp": "2026-01-13T19:08:08.3028587Z",
+      "nuget:id": "runtime.linux-musl-arm.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.app.runtime.linux-musl-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-musl-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.signalr.protocols.json.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.SignalR.Protocols.Json",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.entityframeworkcore.relational.specification.tests.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Relational.Specification.Tests",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.netcore.app.crossgen2.linux-musl-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.linux-musl-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.templateengine.edge.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.TemplateEngine.Edge",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.extensions.features.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.Extensions.Features",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.netcore.app.runtime.nativeaot.tvos-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.tvos-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.mvc.testing.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.Mvc.Testing",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.entityframeworkcore.relational.specification.tests.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Relational.Specification.Tests",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/nof.infrastructure.entityframeworkcore.postgresql.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "NOF.Infrastructure.EntityFrameworkCore.PostgreSQL",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/virtocommerce.powerbireports.core.3.801.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "VirtoCommerce.PowerBiReports.Core",
+      "nuget:version": "3.801.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.net.runtime.emscripten.3.1.56.node.osx-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.osx-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.extensions.localization.abstractions.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.Extensions.Localization.Abstractions",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.concurrencylimiter.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.ConcurrencyLimiter",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.webutilities.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.WebUtilities",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.net.runtime.emscripten.3.1.56.node.linux-musl-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.linux-musl-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.netcore.app.runtime.mono.maccatalyst-x64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.extensions.logging.debug.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.Extensions.Logging.Debug",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.signalr.common.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.SignalR.Common",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.07.28/microsoft.aspnetcore.app.ref.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "db1c525c-6519-4591-8697-981ca44d2d13",
+      "commitTimeStamp": "2026-01-13T19:07:28.4279936Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Ref",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.net.runtime.emscripten.3.1.56.cache.osx-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.osx-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/runtime.linux-x64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "runtime.linux-x64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.aspnetcore.app.runtime.linux-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/tyto.locking.abstractions.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Tyto.Locking.Abstractions",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/runtime.osx-x64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "runtime.osx-x64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.netcore.app.runtime.aot.linux-arm64.cross.android-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/datafication.server.core.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Datafication.Server.Core",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/runtime.linux-musl-arm64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "runtime.linux-musl-arm64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.aspnetcore.app.runtime.linux-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.net.runtime.emscripten.3.1.34.cache.win-x64.msi.x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.win-x64.Msi.x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.netcore.app.crossgen2.win-x86.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.win-x86",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.net.build.containers.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NET.Build.Containers",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.netcore.app.runtime.aot.osx-arm64.cross.tvossimulator-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.tvossimulator-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.netcore.app.runtime.mono.android-x64.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.android-x64.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.templateengine.ide.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.TemplateEngine.IDE",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.net.runtime.webassembly.templates.net10.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Templates.net10",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.entityframeworkcore.sqlserver.nettopologysuite.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.aspnetcore.hosting.windowsservices.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.AspNetCore.Hosting.WindowsServices",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/microsoft.net.runtime.emscripten.3.1.56.python.win-arm64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.win-arm64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.47/runtime.linux-arm.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0e86c65-b322-4694-8b9d-fe967ebb7b05",
+      "commitTimeStamp": "2026-01-13T19:06:47.2865462Z",
+      "nuget:id": "runtime.linux-arm.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.net.runtime.emscripten.3.1.34.python.osx-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Python.osx-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.aspnetcore.app.runtime.linux-musl-arm.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-musl-arm",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.aspnetcore.concurrencylimiter.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.AspNetCore.ConcurrencyLimiter",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.aot.osx-arm64.cross.maccatalyst-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.maccatalyst-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.net.build.containers.9.0.309.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NET.Build.Containers",
+      "nuget:version": "9.0.309"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.aot.osx-arm64.cross.maccatalyst-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.maccatalyst-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.nativeaot.win-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.win-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/dotnet-ef.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "dotnet-ef",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/tyto.materializer.entityframeworkcore.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Tyto.Materializer.EntityFrameworkCore",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.extensions.apidescription.server.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.Extensions.ApiDescription.Server",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/runtime.linux-arm.microsoft.netcore.ildasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "runtime.linux-arm.Microsoft.NETCore.ILDAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.aot.osx-x64.cross.android-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/dotnet-sql-cache.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "dotnet-sql-cache",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.linux-bionic-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.linux-bionic-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/nof.annotation.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "NOF.Annotation",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/tyto.caching.locking.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Tyto.Caching.Locking",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.dotnet.common.projecttemplates.8.0.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.DotNet.Common.ProjectTemplates.8.0",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.net.runtime.emscripten.3.1.34.node.win-arm64.msi.arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Node.win-arm64.Msi.arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.netcore.app.runtime.mono.wasi-wasm.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.wasi-wasm.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.06.07/microsoft.extensions.dependencyinjection.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a36ce80-f54b-430a-b80a-fdce9bf9729b",
+      "commitTimeStamp": "2026-01-13T19:06:07.2584462Z",
+      "nuget:id": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.aspnetcore.http.connections.client.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.AspNetCore.Http.Connections.Client",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.host.linux-bionic-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-bionic-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.entityframeworkcore.design.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Design",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.aspnetcore.spaservices.extensions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.AspNetCore.SpaServices.Extensions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.templateengine.authoring.templateverifier.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.TemplateVerifier",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.runtime.aot.osx-x64.cross.android-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/tyto.materializer.inmemory.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Tyto.Materializer.InMemory",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.entityframeworkcore.sqlite.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Sqlite",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.host.linux-musl-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-musl-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.aspnetcore.authentication.google.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Google",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.templateengine.edge.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.TemplateEngine.Edge",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.runtime.nativeaot.maccatalyst-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.maccatalyst-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.net.runtime.emscripten.3.1.34.node.win-arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Node.win-arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.runtime.aot.linux-musl-arm64.cross.android-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-arm64.Cross.android-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.runtime.nativeaot.iossimulator-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.iossimulator-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/runtime.linux-arm.microsoft.netcore.ilasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "runtime.linux-arm.Microsoft.NETCore.ILAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.templateengine.core.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.TemplateEngine.Core",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/runtime.linux-arm64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "runtime.linux-arm64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.05.26/microsoft.netcore.app.runtime.aot.osx-x64.cross.tvos-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57311f98-0250-46f9-adeb-c8dc407233cf",
+      "commitTimeStamp": "2026-01-13T19:05:26.8991413Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.tvos-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.aspnetcore.app.runtime.linux-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.netcore.app.runtime.nativeaot.tvossimulator-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/nof.infrastructure.stackexchangeredis.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "NOF.Infrastructure.StackExchangeRedis",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.entityframeworkcore.relational.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Relational",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/tyto.caching.redis.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Tyto.Caching.Redis",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/aspnetcoreruntime.9.0.x86.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "AspNetCoreRuntime.9.0.x86",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.netcore.app.runtime.aot.linux-musl-x64.cross.browser-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-x64.Cross.browser-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.netcore.app.runtime.aot.win-x64.cross.android-x86.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.aspnetcore.authentication.certificate.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Certificate",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.entityframeworkcore.proxies.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Proxies",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.netcore.app.runtime.linux-musl-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.linux-musl-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/nof.sourcegenerator.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "NOF.SourceGenerator",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.aspnetcore.components.webassembly.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebAssembly",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.extensions.caching.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.Extensions.Caching.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.aspnetcore.headerpropagation.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.AspNetCore.HeaderPropagation",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.durabletask.scheduledtasks.1.19.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.DurableTask.ScheduledTasks",
+      "nuget:version": "1.19.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.templateengine.authoring.templates.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.Templates",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.net.runtime.emscripten.3.1.56.cache.win-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.45/microsoft.net.runtime.emscripten.3.1.56.sdk.win-arm64.msi.arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fcabb6f9-41fd-445f-b72b-596db85c41e8",
+      "commitTimeStamp": "2026-01-13T19:04:45.0692326Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Sdk.win-arm64.Msi.arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.net.runtime.monotargets.sdk.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoTargets.Sdk",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.aot.osx-x64.cross.android-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.durabletask.extensions.azureblobpayloads.1.19.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.DurableTask.Extensions.AzureBlobPayloads",
+      "nuget:version": "1.19.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.aspnetcore.app.runtime.win-x86.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.win-x86",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.aot.win-arm64.cross.browser-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.browser-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.linux-bionic-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.linux-bionic-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.mono.android-x86.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.aot.linux-x64.cross.android-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.aspnetcore.grpc.jsontranscoding.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.AspNetCore.Grpc.JsonTranscoding",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.host.linux-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.templateengine.authoring.tasks.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.Tasks",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.entityframeworkcore.sqlserver.nettopologysuite.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.net.runtime.emscripten.3.1.56.python.win-x64.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.win-x64.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.aot.osx-arm64.cross.wasi-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.wasi-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.aot.win-arm64.cross.android-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.android-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/datafication.adoconnector.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Datafication.AdoConnector",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/runtime.linux-musl-arm64.microsoft.dotnet.ilcompiler.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "runtime.linux-musl-arm64.Microsoft.DotNet.ILCompiler",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.netcore.app.runtime.mono.tvossimulator-x64.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.templateengine.samples.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.TemplateEngine.Samples",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.04.04/microsoft.aspnetcore.middlewareanalysis.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "917c5af8-3b82-4577-bd1e-feedc21130a2",
+      "commitTimeStamp": "2026-01-13T19:04:04.6157861Z",
+      "nuget:id": "Microsoft.AspNetCore.MiddlewareAnalysis",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/runtime.linux-musl-arm64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "runtime.linux-musl-arm64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.webassembly.wasi.sdk.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.aspnetcore.authorization.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.AspNetCore.Authorization",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/runtime.linux-musl-arm64.microsoft.netcore.ildasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "runtime.linux-musl-arm64.Microsoft.NETCore.ILDAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.56.python.osx-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.34.cache.linux-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.linux-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/tyto.transports.abstractions.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Tyto.Transports.Abstractions",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.56.node.linux-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.linux-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.56.node.win-x64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.win-x64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.aspnetcore.signalr.client.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.AspNetCore.SignalR.Client",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.windowsdesktop.app.ref.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.WindowsDesktop.App.Ref",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.entityframeworkcore.tasks.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Tasks",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/lacuna.pki.pkcs11.2.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Lacuna.Pki.Pkcs11",
+      "nuget:version": "2.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.netcore.app.runtime.mono.maccatalyst-x64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.aspnetcore.components.authorization.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.Authorization",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.56.python.win-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.win-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/sharpener.revit.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Sharpener.Revit",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.emscripten.3.1.56.node.win-arm64.msi.arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.win-arm64.Msi.arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.aspnetcore.app.runtime.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.03.23/microsoft.net.runtime.android.sample.mono.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a22acc4-459d-49ec-81fa-ea65c26b2dcb",
+      "commitTimeStamp": "2026-01-13T19:03:23.4123657Z",
+      "nuget:id": "Microsoft.NET.Runtime.Android.Sample.Mono",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/runtime.linux-arm.microsoft.dotnet.ilcompiler.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "runtime.linux-arm.Microsoft.DotNet.ILCompiler",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.entityframeworkcore.specification.tests.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Specification.Tests",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.entityframeworkcore.templates.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Templates",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.extensions.diagnostics.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.Extensions.Diagnostics.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.netcore.app.runtime.aot.win-arm64.cross.android-x64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.android-x64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.templateengine.templatelocalizer.core.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.TemplateEngine.TemplateLocalizer.Core",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.netcore.app.runtime.aot.linux-x64.cross.android-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.netcore.app.runtime.aot.linux-x64.cross.android-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.aspnetcore.app.runtime.linux-musl-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-musl-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.bcl.asyncinterfaces.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.Bcl.AsyncInterfaces",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.templateengine.samples.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.TemplateEngine.Samples",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.entityframeworkcore.analyzers.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Analyzers",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.extensions.caching.sqlserver.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.Extensions.Caching.SqlServer",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.templateengine.utils.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.TemplateEngine.Utils",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.extensions.configuration.ini.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.Extensions.Configuration.Ini",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.durabletask.abstractions.1.19.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.DurableTask.Abstractions",
+      "nuget:version": "1.19.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.templateengine.authoring.templates.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.Templates",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/nof.domain.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "NOF.Domain",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/microsoft.templateengine.templatelocalizer.core.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "Microsoft.TemplateEngine.TemplateLocalizer.Core",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.42/runtime.linux-x64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c44baa68-56c3-4a52-9fdb-2639c5ab4e9a",
+      "commitTimeStamp": "2026-01-13T19:02:42.4352539Z",
+      "nuget:id": "runtime.linux-x64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.mono.android-arm.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.android-arm.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.aot.osx-x64.cross.maccatalyst-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.mono.maccatalyst-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.templateengine.abstractions.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.TemplateEngine.Abstractions",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.aspnetcore.authentication.facebook.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Facebook",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.aspnetcore.azureappservices.siteextension.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.AspNetCore.AzureAppServices.SiteExtension",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/runtime.win-arm64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "runtime.win-arm64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.aspnetcore.mvc.testing.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.AspNetCore.Mvc.Testing",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.nativeaot.maccatalyst-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.maccatalyst-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.net.runtime.emscripten.3.1.56.python.win-arm64.msi.arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.win-arm64.Msi.arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.nativeaot.osx-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.osx-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/datafication.csvconnector.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Datafication.CsvConnector",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/runtime.linux-arm64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "runtime.linux-arm64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.net.runtime.monotargets.sdk.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoTargets.Sdk",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.net.runtime.emscripten.3.1.56.node.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.net.runtime.emscripten.3.1.34.node.linux-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Node.linux-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.netcore.app.runtime.aot.osx-x64.cross.android-x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.android-x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.templateengine.orchestrator.runnableprojects.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.authentication.webassembly.msal.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.Authentication.WebAssembly.Msal",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.02.02/microsoft.windowsdesktop.app.runtime.win-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5622d384-99ed-491b-ac11-d1915991ca11",
+      "commitTimeStamp": "2026-01-13T19:02:02.1672819Z",
+      "nuget:id": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/runtime.linux-arm64.microsoft.netcore.ilasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "runtime.linux-arm64.Microsoft.NETCore.ILAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.authentication.wsfederation.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.WsFederation",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.identity.ui.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.Identity.UI",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.spaproxy.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.SpaProxy",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.net.runtime.webassembly.sdk.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Sdk.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.netcore.app.crossgen2.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.extensions.fileproviders.embedded.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.Extensions.FileProviders.Embedded",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.authentication.twitter.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Twitter",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.extensions.logging.eventlog.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.Extensions.Logging.EventLog",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.netcore.app.runtime.mono.tvossimulator-x64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-x64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.dotnet-openapi.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.dotnet-openapi",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.netcore.app.runtime.aot.linux-arm64.cross.android-arm.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-arm",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.netcore.app.runtime.nativeaot.android-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.android-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.net.runtime.monoaotcompiler.task.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoAOTCompiler.Task.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/hobo.api.client.6.0.5.307.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "HoBO.API.Client",
+      "nuget:version": "6.0.5.307"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.http.connections.common.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.Http.Connections.Common",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.net.runtime.emscripten.3.1.56.cache.linux-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.aspnetcore.app.runtime.win-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.netcore.app.runtime.aot.linux-musl-arm64.cross.android-x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-arm64.Cross.android-x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.01.20/microsoft.entityframeworkcore.sqlite.nettopologysuite.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "31b66467-45ee-415d-8adf-a5e5f7b3eabc",
+      "commitTimeStamp": "2026-01-13T19:01:20.7913189Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.aot.linux-musl-arm64.cross.android-x86.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-arm64.Cross.android-x86",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.extensions.diagnostics.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.Extensions.Diagnostics",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.dotnet.apicompat.tool.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.DotNet.ApiCompat.Tool",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.mono.tvossimulator-arm64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.tvossimulator-arm64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.aot.win-x64.cross.android-arm.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.entityframeworkcore.analyzers.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Analyzers",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.bcl.asyncinterfaces.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.Bcl.AsyncInterfaces",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.mono.iossimulator-arm64.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.aot.win-x64.cross.android-arm64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/runtime.osx-x64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "runtime.osx-x64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.net.runtime.emscripten.3.1.56.cache.win-arm64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-arm64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.extensions.diagnostics.healthchecks.entityframeworkcore.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.extensions.configuration.keyperfile.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.Extensions.Configuration.KeyPerFile",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.net.runtime.emscripten.3.1.34.cache.osx-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.osx-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.net.runtime.emscripten.3.1.56.cache.linux-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.linux-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.aspnetcore.app.runtime.osx-arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.osx-arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.bcl.cryptography.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.Bcl.Cryptography",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/runtime.osx-arm64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "runtime.osx-arm64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.aspnetcore.dataprotection.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.AspNetCore.DataProtection",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.19.00.37/microsoft.netcore.app.runtime.linux-musl-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9eff125d-6a3e-40c0-8fac-033aeef92e30",
+      "commitTimeStamp": "2026-01-13T19:00:37.9653887Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.linux-musl-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.net.runtime.android.sample.mono.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NET.Runtime.Android.Sample.Mono",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.net.runtime.ios.sample.mono.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NET.Runtime.iOS.Sample.Mono",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.net.sdk.webassembly.pack.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NET.Sdk.WebAssembly.Pack.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.netcore.app.runtime.aot.osx-x64.cross.ios-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.ios-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.dotnet.web.projecttemplates.10.0.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.DotNet.Web.ProjectTemplates.10.0",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/runtime.linux-musl-x64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "runtime.linux-musl-x64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.net.runtime.ios.sample.mono.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NET.Runtime.iOS.Sample.Mono",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.aspnetcore.authentication.facebook.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Facebook",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.aspnetcore.concurrencylimiter.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.AspNetCore.ConcurrencyLimiter",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.extensions.filesystemglobbing.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.Extensions.FileSystemGlobbing",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.netcore.app.runtime.mono.browser-wasm.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.aspnetcore.components.webassembly.authentication.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.extensions.http.polly.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.Extensions.Http.Polly",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.entityframeworkcore.sqlserver.nettopologysuite.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.netcore.app.runtime.aot.osx-arm64.cross.ios-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.ios-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/virtocommerce.powerbireports.data.3.801.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "VirtoCommerce.PowerBiReports.Data",
+      "nuget:version": "3.801.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.netcore.app.runtime.aot.linux-x64.cross.android-x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.aspnetcore.app.runtime.linux-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.entityframeworkcore.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.58/microsoft.netcore.app.runtime.aot.linux-musl-x64.cross.android-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2374b0d3-640b-47e4-8157-f28072ec5627",
+      "commitTimeStamp": "2026-01-13T18:59:58.9553679Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-x64.Cross.android-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.netcore.app.runtime.mono.maccatalyst-arm64.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/tyto.caching.memory.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Tyto.Caching.Memory",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.net.runtime.emscripten.3.1.56.node.win-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.win-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.netcore.app.runtime.aot.linux-musl-x64.cross.wasi-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-x64.Cross.wasi-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.net.runtime.webassembly.templates.net10.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Templates.net10.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.aspnetcore.components.web.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.Web",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.netcore.app.runtime.aot.linux-musl-x64.cross.android-x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-x64.Cross.android-x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.aspnetcore.components.webassembly.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebAssembly",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.templateengine.ide.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.TemplateEngine.IDE",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/runtime.linux-bionic-arm64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "runtime.linux-bionic-arm64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.net.runtime.monotargets.sdk.msi.x86.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoTargets.Sdk.Msi.x86",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.aspnetcore.app.runtime.osx-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.netcore.app.runtime.aot.win-arm64.cross.android-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.android-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.entityframeworkcore.sqlite.core.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.Sqlite.Core",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.net.runtime.webassembly.sdk.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Sdk.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.extensions.logging.eventsource.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.Extensions.Logging.EventSource",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.netcore.app.runtime.mono.iossimulator-x64.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.aspnetcore.jsonpatch.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.AspNetCore.JsonPatch",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.templateengine.templatelocalizer.core.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.TemplateEngine.TemplateLocalizer.Core",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.59.21/microsoft.aspnetcore.spaservices.extensions.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4f7bbf05-8ddf-42f9-9a0a-fc36560b863d",
+      "commitTimeStamp": "2026-01-13T18:59:21.0645338Z",
+      "nuget:id": "Microsoft.AspNetCore.SpaServices.Extensions",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.mono.android-arm.msi.arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.android-arm.Msi.arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/datafication.webconnector.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Datafication.WebConnector",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.aot.linux-arm64.cross.android-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.nativeaot.linux-musl-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.linux-musl-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.authentication.negotiate.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.Negotiate",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.dataprotection.entityframeworkcore.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.DataProtection.EntityFrameworkCore",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.nativeaot.tvossimulator-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.tvossimulator-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.aot.osx-arm64.cross.ios-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.ios-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.components.webassembly.devserver.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.net.runtime.emscripten.3.1.56.node.linux-musl-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.linux-musl-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.net.runtime.emscripten.3.1.56.python.osx-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Python.osx-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.net.runtime.emscripten.3.1.56.node.win-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.win-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/runtime.linux-musl-x64.microsoft.netcore.ildasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "runtime.linux-musl-x64.Microsoft.NETCore.ILDAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.netcore.app.runtime.aot.osx-x64.cross.maccatalyst-x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-x64.Cross.maccatalyst-x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.extensions.identity.stores.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.Extensions.Identity.Stores",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.entityframeworkcore.sqlserver.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.SqlServer",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.headerpropagation.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.HeaderPropagation",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.signalr.client.core.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.SignalR.Client.Core",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.aspnetcore.dataprotection.extensions.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.AspNetCore.DataProtection.Extensions",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.58.38/microsoft.extensions.logging.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68eea3d4-0f26-40d6-a786-5e4b9a455927",
+      "commitTimeStamp": "2026-01-13T18:58:38.9266346Z",
+      "nuget:id": "Microsoft.Extensions.Logging.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.aspnetcore.identity.entityframeworkcore.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.monotargets.sdk.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoTargets.Sdk.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.aspnetcore.components.webview.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebView",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/aspnetcoreruntime.9.0.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "AspNetCoreRuntime.9.0.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.monotargets.sdk.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.MonoTargets.Sdk.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.emscripten.3.1.56.cache.win-x64.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-x64.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.emscripten.3.1.34.cache.win-arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.win-arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.netcore.app.runtime.nativeaot.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.NativeAOT.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/nof.application.5.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "NOF.Application",
+      "nuget:version": "5.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.entityframeworkcore.aspnet.specification.tests.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.AspNet.Specification.Tests",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.aspnetcore.components.webassembly.authentication.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.WebAssembly.Authentication",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.extensions.hosting.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.Extensions.Hosting",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.extensions.configuration.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.Extensions.Configuration.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.netcore.app.runtime.aot.win-x64.cross.android-x64.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.netcore.app.runtime.mono.iossimulator-x64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.emscripten.3.1.34.node.linux-arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Node.linux-arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.netcore.app.runtime.aot.osx-arm64.cross.android-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.android-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/system.drawing.common.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "System.Drawing.Common",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.net.runtime.webassembly.templates.net9.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Templates.net9",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.58/microsoft.entityframeworkcore.inmemory.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebcb0702-1751-4488-b0ca-57ac566724cc",
+      "commitTimeStamp": "2026-01-13T18:57:58.2497872Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore.InMemory",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/runtime.osx-x64.microsoft.netcore.ildasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "runtime.osx-x64.Microsoft.NETCore.ILDAsm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.extensions.webencoders.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.Extensions.WebEncoders",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.templateengine.authoring.templateverifier.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.TemplateVerifier",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.aspnetcore.hosting.windowsservices.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.AspNetCore.Hosting.WindowsServices",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.aspnetcore.authorization.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.AspNetCore.Authorization",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.netcore.app.runtime.aot.linux-x64.cross.android-arm.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-x64.Cross.android-arm",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.aspnetcore.components.web.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.AspNetCore.Components.Web",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.templatesearch.common.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.TemplateSearch.Common",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.extensions.logging.configuration.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.Extensions.Logging.Configuration",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.templateengine.orchestrator.runnableprojects.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.net.runtime.webassembly.sdk.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Sdk.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.netcore.app.runtime.aot.osx-arm64.cross.android-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.android-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.netcore.app.host.linux-musl-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-musl-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.aspnetcore.dataprotection.extensions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.AspNetCore.DataProtection.Extensions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.extensions.hosting.systemd.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.Extensions.Hosting.Systemd",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.net.runtime.webassembly.wasi.sdk.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NET.Runtime.WebAssembly.Wasi.Sdk.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.net.runtime.emscripten.3.1.56.node.win-x64.msi.x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Node.win-x64.Msi.x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.aspnetcore.openapi.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.AspNetCore.OpenApi",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.netcore.app.host.linux-musl-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-musl-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.57.19/microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "713cc853-2d42-4fda-a9f5-55c994afbd55",
+      "commitTimeStamp": "2026-01-13T18:57:19.6234573Z",
+      "nuget:id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.aspnetcore.signalr.specification.tests.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.AspNetCore.SignalR.Specification.Tests",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.extensions.configuration.usersecrets.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.Extensions.Configuration.UserSecrets",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.net.runtime.emscripten.3.1.34.node.win-x64.msi.x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Node.win-x64.Msi.x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.net.sdk.compilers.toolset.10.0.102.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.Net.Sdk.Compilers.Toolset",
+      "nuget:version": "10.0.102"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.templateengine.core.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.TemplateEngine.Core",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.netcore.app.runtime.aot.linux-arm64.cross.android-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.netcore.app.runtime.aot.win-arm64.cross.android-arm64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.android-arm64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.aspnetcore.authentication.microsoftaccount.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.AspNetCore.Authentication.MicrosoftAccount",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.netcore.app.runtime.aot.win-arm64.cross.wasi-wasm.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-arm64.Cross.wasi-wasm.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.netcore.app.runtime.mono.android-x86.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.android-x86.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.aspnetcore.components.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.AspNetCore.Components",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/runtime.osx-arm64.microsoft.netcore.dotnetapphost.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "runtime.osx-arm64.Microsoft.NETCore.DotNetAppHost",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.net.runtime.emscripten.3.1.56.cache.win-x64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.56.Cache.win-x64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.extensions.hosting.windowsservices.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.Extensions.Hosting.WindowsServices",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.netcore.app.runtime.mono.tvos-arm64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/datafication.s3connector.1.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Datafication.S3Connector",
+      "nuget:version": "1.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/fsharp.core.10.0.102.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "FSharp.Core",
+      "nuget:version": "10.0.102"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.56.42/microsoft.templateengine.core.contracts.9.0.113.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ef4367ca-4d71-45a2-aac5-31bfc44d1260",
+      "commitTimeStamp": "2026-01-13T18:56:42.2944078Z",
+      "nuget:id": "Microsoft.TemplateEngine.Core.Contracts",
+      "nuget:version": "9.0.113"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.entityframeworkcore.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.EntityFrameworkCore",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.aspnetcore.connections.abstractions.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.AspNetCore.Connections.Abstractions",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.mono.tvos-arm64.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.tvos-arm64.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.crossgen2.osx-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.osx-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.aspnetcore.cryptography.keyderivation.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.AspNetCore.Cryptography.KeyDerivation",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.aot.linux-arm64.cross.android-arm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.android-arm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.host.linux-arm.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-arm",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.aot.linux-musl-arm64.cross.wasi-wasm.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-arm64.Cross.wasi-wasm",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.host.linux-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.aspnetcore.app.runtime.osx-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.mono.browser-wasm.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.net.runtime.emscripten.3.1.34.cache.linux-arm64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.linux-arm64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.osx-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.osx-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.extensions.configuration.fileextensions.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.Extensions.Configuration.FileExtensions",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.runtime.aot.osx-arm64.cross.maccatalyst-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.osx-arm64.Cross.maccatalyst-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.host.linux-musl-arm.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-musl-arm",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.aspnetcore.app.runtime.win-arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.netcore.app.host.linux-musl-arm64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.linux-musl-arm64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.extensions.diagnostics.healthchecks.abstractions.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.59/microsoft.net.runtime.emscripten.3.1.34.cache.win-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0fd31b67-9ffa-4687-bd26-5663f2dd144b",
+      "commitTimeStamp": "2026-01-13T18:55:59.7741407Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Cache.win-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.templateengine.authoring.cli.8.0.417.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.CLI",
+      "nuget:version": "8.0.417"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.data.sqlite.core.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.Data.Sqlite.Core",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.aspnetcore.cryptography.keyderivation.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.AspNetCore.Cryptography.KeyDerivation",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.dotnet.web.projecttemplates.9.0.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.DotNet.Web.ProjectTemplates.9.0",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.crossgen2.linux-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Crossgen2.linux-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.dotnet.common.itemtemplates.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.DotNet.Common.ItemTemplates",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/parhelia.pagewizard.10.4.0.1.11473.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Parhelia.PageWizard.10.4",
+      "nuget:version": "0.1.11473"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.runtime.mono.browser-wasm.msi.x86.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm.Msi.x86",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.aspnetcore.app.runtime.win-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.AspNetCore.App.Runtime.win-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.runtime.aot.win-x64.cross.browser-wasm.msi.x64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.browser-wasm.Msi.x64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.net.runtime.emscripten.3.1.34.python.win-x64.8.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NET.Runtime.Emscripten.3.1.34.Python.win-x64",
+      "nuget:version": "8.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.runtime.mono.iossimulator-x64.msi.arm64.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64.Msi.arm64",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.runtime.aot.linux-musl-x64.cross.android-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Runtime.AOT.linux-musl-x64.Cross.android-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/tyto.locking.redis.0.0.1-alpha.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Tyto.Locking.Redis",
+      "nuget:version": "0.0.1-alpha.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.templateengine.authoring.cli.8.0.123.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.TemplateEngine.Authoring.CLI",
+      "nuget:version": "8.0.123"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/runtime.maccatalyst-x64.runtime.native.system.io.ports.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "runtime.maccatalyst-x64.runtime.native.System.IO.Ports",
+      "nuget:version": "10.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.extensions.configuration.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.Extensions.Configuration",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.host.win-x64.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Host.win-x64",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.netcore.app.ref.9.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.NETCore.App.Ref",
+      "nuget:version": "9.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.13.18.55.18/microsoft.aspnetcore.azureappservices.hostingstartup.10.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6d7dbd8c-27a2-405d-bc32-4a77b6a8eab2",
+      "commitTimeStamp": "2026-01-13T18:55:18.4373022Z",
+      "nuget:id": "Microsoft.AspNetCore.AzureAppServices.HostingStartup",
+      "nuget:version": "10.0.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
