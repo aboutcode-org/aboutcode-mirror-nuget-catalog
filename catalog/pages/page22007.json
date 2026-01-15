@@ -1,0 +1,105 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22007.json",
+  "@type": "CatalogPage",
+  "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+  "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+  "count": 9,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.protos.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Protos",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.common.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Common",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.extensions.configuration.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Extensions.Configuration",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.actors.aspnetcore.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Actors.AspNetCore",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.messaging.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Messaging",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.jobs.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Jobs",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.actors.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Actors",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.workflow.analyzers.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.Workflow.Analyzers",
+      "nuget:version": "1.17.0-rc03"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.01.15.11.08.12/dapr.ai.a2a.1.17.0-rc03.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e240254-4846-46c3-917d-4ccdfe024f7b",
+      "commitTimeStamp": "2026-01-15T11:08:12.8773144Z",
+      "nuget:id": "Dapr.AI.A2a",
+      "nuget:version": "1.17.0-rc03"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
