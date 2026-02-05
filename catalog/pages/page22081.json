@@ -1,0 +1,777 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22081.json",
+  "@type": "CatalogPage",
+  "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+  "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+  "count": 93,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.aspversioning.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.AspVersioning",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.clientgen.kiota.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.ClientGen.Kiota",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.odata.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.OData",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.jobqueues.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.JobQueues",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.healthchecks.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.HealthChecks",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/fastendpoints.attributes.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "FastEndpoints.Attributes",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.21.02/kubernetescrdmodelgen.models.projectcalico.org.1.30.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "294c32a5-e4a2-4c1c-8394-a12ad7cff736",
+      "commitTimeStamp": "2026-02-05T12:21:02.9649697Z",
+      "nuget:id": "KubernetesCRDModelGen.Models.projectcalico.org",
+      "nuget:version": "1.30.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/newlife.stardust.3.7.2026.205-beta1215.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "NewLife.Stardust",
+      "nuget:version": "3.7.2026.205-beta1215"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/itbees.fas.satelliteagents.8.0.207.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "ITBees.FAS.SatelliteAgents",
+      "nuget:version": "8.0.207"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/fastendpoints.testing.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "FastEndpoints.Testing",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/fastendpoints.messaging.remote.testing.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "FastEndpoints.Messaging.Remote.Testing",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/fastendpoints.clientgen.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "FastEndpoints.ClientGen",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/itbees.usermanager.8.0.370.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "ITBees.UserManager",
+      "nuget:version": "8.0.370"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.20.25/fastendpoints.core.8.0.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "04fa0717-4593-4e55-a326-942d78ebeccb",
+      "commitTimeStamp": "2026-02-05T12:20:25.7454999Z",
+      "nuget:id": "FastEndpoints.Core",
+      "nuget:version": "8.0.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.49/itbees.accesscontrol.8.0.327.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8a66b17-00c2-422d-b455-82630dddcbff",
+      "commitTimeStamp": "2026-02-05T12:19:49.7499805Z",
+      "nuget:id": "ITBees.AccessControl",
+      "nuget:version": "8.0.327"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.49/itbees.dragartboard.8.0.128.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8a66b17-00c2-422d-b455-82630dddcbff",
+      "commitTimeStamp": "2026-02-05T12:19:49.7499805Z",
+      "nuget:id": "ITBees.DragArtboard",
+      "nuget:version": "8.0.128"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.49/stardeploy.1.0.2026.205-beta1215.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8a66b17-00c2-422d-b455-82630dddcbff",
+      "commitTimeStamp": "2026-02-05T12:19:49.7499805Z",
+      "nuget:id": "stardeploy",
+      "nuget:version": "1.0.2026.205-beta1215"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.49/newlife.stardust.extensions.3.7.2026.205-beta1215.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8a66b17-00c2-422d-b455-82630dddcbff",
+      "commitTimeStamp": "2026-02-05T12:19:49.7499805Z",
+      "nuget:id": "NewLife.Stardust.Extensions",
+      "nuget:version": "3.7.2026.205-beta1215"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.12/dock.serializer.yaml.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d87fe6e3-88ad-412a-a088-1e92140ccb49",
+      "commitTimeStamp": "2026-02-05T12:19:12.5908824Z",
+      "nuget:id": "Dock.Serializer.Yaml",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.12/dock.model.reactiveui.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d87fe6e3-88ad-412a-a088-1e92140ccb49",
+      "commitTimeStamp": "2026-02-05T12:19:12.5908824Z",
+      "nuget:id": "Dock.Model.ReactiveUI",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.12/dock.settings.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d87fe6e3-88ad-412a-a088-1e92140ccb49",
+      "commitTimeStamp": "2026-02-05T12:19:12.5908824Z",
+      "nuget:id": "Dock.Settings",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.19.12/dock.serializer.xml.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d87fe6e3-88ad-412a-a088-1e92140ccb49",
+      "commitTimeStamp": "2026-02-05T12:19:12.5908824Z",
+      "nuget:id": "Dock.Serializer.Xml",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.serializer.protobuf.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Serializer.Protobuf",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.inpc.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.Inpc",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.serializer.systemtextjson.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Serializer.SystemTextJson",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.serializer.newtonsoft.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Serializer.Newtonsoft",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.reactiveui.services.avalonia.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.ReactiveUI.Services.Avalonia",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.avalonia.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.Avalonia",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.reactiveproperty.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.ReactiveProperty",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.controls.recycling.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Controls.Recycling",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.reactiveui.services.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.ReactiveUI.Services",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.controls.recycling.model.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Controls.Recycling.Model",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.avalonia.themes.simple.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Avalonia.Themes.Simple",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.37/dock.model.mvvm.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4ac4b831-d478-4eda-9a7b-04c24840d378",
+      "commitTimeStamp": "2026-02-05T12:18:37.1715816Z",
+      "nuget:id": "Dock.Model.Mvvm",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.avalonia.themes.fluent.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Avalonia.Themes.Fluent",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.avalonia.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Avalonia",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.controls.proportionalstackpanel.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Controls.ProportionalStackPanel",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.model.prism.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Model.Prism",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.model.caliburmicro.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Model.CaliburMicro",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.avalonia.diagnostics.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.Avalonia.Diagnostics",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/innovatrics.sfetoolkit.person.4.0.2-rc.385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Innovatrics.SFEToolkit.Person",
+      "nuget:version": "4.0.2-rc.385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/dock.markupextension.11.3.11.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "Dock.MarkupExtension",
+      "nuget:version": "11.3.11.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.18.00/openssl-native.3.5.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1dfb5139-fbf0-4ed1-9275-09ea695df91d",
+      "commitTimeStamp": "2026-02-05T12:18:00.4986318Z",
+      "nuget:id": "openssl-native",
+      "nuget:version": "3.5.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.17.25/innovatrics.sfetoolkit.core.4.0.2-rc.385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99b6c139-53a6-4cea-86e9-01331d26e5b7",
+      "commitTimeStamp": "2026-02-05T12:17:25.4601414Z",
+      "nuget:id": "Innovatrics.SFEToolkit.Core",
+      "nuget:version": "4.0.2-rc.385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.17.25/innovatrics.sfetoolkit.palm.4.0.2-rc.385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "99b6c139-53a6-4cea-86e9-01331d26e5b7",
+      "commitTimeStamp": "2026-02-05T12:17:25.4601414Z",
+      "nuget:id": "Innovatrics.SFEToolkit.Palm",
+      "nuget:version": "4.0.2-rc.385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.49/elsa.workflows.core.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bc26abd-b256-4139-acda-826e65f98143",
+      "commitTimeStamp": "2026-02-05T12:16:49.1628033Z",
+      "nuget:id": "Elsa.Workflows.Core",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.49/innovatrics.sfetoolkit.face.4.0.2-rc.385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3bc26abd-b256-4139-acda-826e65f98143",
+      "commitTimeStamp": "2026-02-05T12:16:49.1628033Z",
+      "nuget:id": "Innovatrics.SFEToolkit.Face",
+      "nuget:version": "4.0.2-rc.385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.persistence.efcore.mysql.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Persistence.EFCore.MySql",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.tenants.aspnetcore.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Tenants.AspNetCore",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/oceanic.common.0.0.1-beta.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Oceanic.Common",
+      "nuget:version": "0.0.1-beta.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.workflows.management.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Workflows.Management",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.testing.shared.integration.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Testing.Shared.Integration",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.expressions.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Expressions",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/microsoft.fabric.api.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Microsoft.Fabric.Api",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.api.common.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Api.Common",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.keyvalues.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.KeyValues",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.workflows.api.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Workflows.Api",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.features.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Features",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.persistence.efcore.postgresql.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Persistence.EFCore.PostgreSql",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.persistence.efcore.sqlserver.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Persistence.EFCore.SqlServer",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.testing.shared.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Testing.Shared",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.16.12/elsa.persistence.efcore.common.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0d72bf77-25b4-4533-be5f-de93f23eb1da",
+      "commitTimeStamp": "2026-02-05T12:16:12.6469195Z",
+      "nuget:id": "Elsa.Persistence.EFCore.Common",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.resilience.core.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Resilience.Core",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.hosting.management.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Hosting.Management",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.workflows.runtime.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Workflows.Runtime",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.identity.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Identity",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.testing.shared.component.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Testing.Shared.Component",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.workflows.runtime.distributed.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Workflows.Runtime.Distributed",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.mediator.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Mediator",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.workflowproviders.blobstorage.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.WorkflowProviders.BlobStorage",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.expressions.javascript.libraries.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Expressions.JavaScript.Libraries",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.workflowproviders.blobstorage.elsascript.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.WorkflowProviders.BlobStorage.ElsaScript",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.sastokens.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.SasTokens",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.persistence.efcore.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Persistence.EFCore",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.persistence.efcore.oracle.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Persistence.EFCore.Oracle",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.labels.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Labels",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.expressions.liquid.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Expressions.Liquid",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.tenants.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Tenants",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.http.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Http",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.resilience.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Resilience",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.scheduling.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Scheduling",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.15.36/elsa.persistence.efcore.sqlite.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7b9dd998-ccd4-4386-8c16-58cc69856113",
+      "commitTimeStamp": "2026-02-05T12:15:36.5975884Z",
+      "nuget:id": "Elsa.Persistence.EFCore.Sqlite",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.alterations.core.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Alterations.Core",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.caching.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Caching",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.api.client.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Api.Client",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.dsl.elsascript.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Dsl.ElsaScript",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.expressions.python.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Expressions.Python",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.common.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Common",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.alterations.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Alterations",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.expressions.csharp.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Expressions.CSharp",
+      "nuget:version": "3.6.0-rc3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.05.12.14.59/elsa.expressions.javascript.3.6.0-rc3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4cd8681a-a304-4d12-a42b-028976c1568b",
+      "commitTimeStamp": "2026-02-05T12:14:59.603672Z",
+      "nuget:id": "Elsa.Expressions.JavaScript",
+      "nuget:version": "3.6.0-rc3"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
