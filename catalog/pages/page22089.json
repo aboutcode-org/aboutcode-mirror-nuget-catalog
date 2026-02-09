@@ -1,0 +1,1521 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22089.json",
+  "@type": "CatalogPage",
+  "commitId": "13415457-db3f-4416-9394-98749397dabd",
+  "commitTimeStamp": "2026-02-09T00:43:21.8742158Z",
+  "count": 186,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.43.21/cdklabs.cdkdockerimagedeployment.0.0.946.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "13415457-db3f-4416-9394-98749397dabd",
+      "commitTimeStamp": "2026-02-09T00:43:21.8742158Z",
+      "nuget:id": "Cdklabs.CdkDockerImageDeployment",
+      "nuget:version": "0.0.946"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.49/verify.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9da79bfb-6b05-4e38-9cc0-b81c097ac5da",
+      "commitTimeStamp": "2026-02-09T00:40:49.2948317Z",
+      "nuget:id": "Verify",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.tunit.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.TUnit",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.xunitv3.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.XunitV3",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.fixie.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.Fixie",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.exceptionparsing.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.ExceptionParsing",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.nunit.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.NUnit",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.clipboardaccept.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.ClipboardAccept",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.expecto.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.Expecto",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.40.09/verify.xunit.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "02cffd0c-19bb-4c4f-8527-326918dc5652",
+      "commitTimeStamp": "2026-02-09T00:40:09.9718722Z",
+      "nuget:id": "Verify.Xunit",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.39.33/verify.mstest.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "84b2a846-c36c-4f8e-901e-06f40cf37062",
+      "commitTimeStamp": "2026-02-09T00:39:33.2956904Z",
+      "nuget:id": "Verify.MSTest",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.39.33/verify.approvalteststransition.31.12.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "84b2a846-c36c-4f8e-901e-06f40cf37062",
+      "commitTimeStamp": "2026-02-09T00:39:33.2956904Z",
+      "nuget:id": "Verify.ApprovalTestsTransition",
+      "nuget:version": "31.12.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.38.54/happypath.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a3e4e8b1-af9e-43d4-a9db-ea3cec100fdf",
+      "commitTimeStamp": "2026-02-09T00:38:54.8100071Z",
+      "nuget:id": "HappyPath",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.37.01/meshmakers.octo.constructionkit.models.system.bot.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4c318626-7e97-4713-8509-a93266a4e575",
+      "commitTimeStamp": "2026-02-09T00:37:01.6315897Z",
+      "nuget:id": "Meshmakers.Octo.ConstructionKit.Models.System.Bot",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.36.26/soenneker.cloudflare.openapi.suite.4.0.1356.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "646b22ef-0504-4c8e-9ae3-65bfe6b64b15",
+      "commitTimeStamp": "2026-02-09T00:36:26.5713311Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "4.0.1356"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.35.50/meshmakers.octo.sdk.meshadapter.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "add2d537-b844-4850-a62b-f1030688c73e",
+      "commitTimeStamp": "2026-02-09T00:35:50.2741695Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.MeshAdapter",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.35.12/simplew.service.latency.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1547893-5f85-44ad-8701-1b2bc8ac2c02",
+      "commitTimeStamp": "2026-02-09T00:35:12.8856477Z",
+      "nuget:id": "SimpleW.Service.Latency",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.35.12/meshmakers.octo.meshadapter.nodes.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1547893-5f85-44ad-8701-1b2bc8ac2c02",
+      "commitTimeStamp": "2026-02-09T00:35:12.8856477Z",
+      "nuget:id": "Meshmakers.Octo.MeshAdapter.Nodes",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.34.34/simplew.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62ca5172-8af5-4de5-80a6-752689c088d1",
+      "commitTimeStamp": "2026-02-09T00:34:34.501254Z",
+      "nuget:id": "SimpleW",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.34.34/simplew.service.swagger.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62ca5172-8af5-4de5-80a6-752689c088d1",
+      "commitTimeStamp": "2026-02-09T00:34:34.501254Z",
+      "nuget:id": "SimpleW.Service.Swagger",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.34.34/simplew.helper.razor.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62ca5172-8af5-4de5-80a6-752689c088d1",
+      "commitTimeStamp": "2026-02-09T00:34:34.501254Z",
+      "nuget:id": "SimpleW.Helper.Razor",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.34.34/simplew.service.firewall.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62ca5172-8af5-4de5-80a6-752689c088d1",
+      "commitTimeStamp": "2026-02-09T00:34:34.501254Z",
+      "nuget:id": "SimpleW.Service.Firewall",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.34.34/simplew.helper.hosting.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62ca5172-8af5-4de5-80a6-752689c088d1",
+      "commitTimeStamp": "2026-02-09T00:34:34.501254Z",
+      "nuget:id": "SimpleW.Helper.Hosting",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.58/simplew.service.chaos.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af8e8452-8463-4770-b38d-4c80f1031173",
+      "commitTimeStamp": "2026-02-09T00:33:58.0560185Z",
+      "nuget:id": "SimpleW.Service.Chaos",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.58/simplew.jsonengine.newtonsoft.26.0.0-beta.20260209-1385.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af8e8452-8463-4770-b38d-4c80f1031173",
+      "commitTimeStamp": "2026-02-09T00:33:58.0560185Z",
+      "nuget:id": "SimpleW.JsonEngine.Newtonsoft",
+      "nuget:version": "26.0.0-beta.20260209-1385"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260203-1360.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260203-1360"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260202-1352.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1352"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260208-1374.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260208-1374"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260202-1347.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1347"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260202-1343.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1343"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260202-1355.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1355"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.33.21/simplew.service.razor.26.0.0-beta.20260202-1345.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a6220f6-55a4-4e87-9da4-1dfe72ef0573",
+      "commitTimeStamp": "2026-02-09T00:33:21.4149993Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1345"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260201-0129.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260201-0129"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260208-1381.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260208-1381"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/hex1b.mcpserver.0.76.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "Hex1b.McpServer",
+      "nuget:version": "0.76.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.jsonengine.newtonsoft.26.0.0-beta.20260209-1384.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.JsonEngine.Newtonsoft",
+      "nuget:version": "26.0.0-beta.20260209-1384"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260202-1339.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-1339"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/codedesignplus.net.core.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "CodeDesignPlus.Net.Core.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260201-15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260201-15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/codedesignplus.net.kafka.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "CodeDesignPlus.Net.Kafka",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260131-1236.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260131-1236"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260131-1242.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260131-1242"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/codedesignplus.net.rabbitmq.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "CodeDesignPlus.Net.RabbitMQ",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/simplew.service.razor.26.0.0-beta.20260202-00.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "SimpleW.Service.Razor",
+      "nuget:version": "26.0.0-beta.20260202-00"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.32.39/hex1b.0.76.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5566d651-5eb8-404f-ad96-e52fa160ae52",
+      "commitTimeStamp": "2026-02-09T00:32:39.1652226Z",
+      "nuget:id": "Hex1b",
+      "nuget:version": "0.76.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/simplew.helper.hosting.26.0.0-beta.20260209-1384.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "SimpleW.Helper.Hosting",
+      "nuget:version": "26.0.0-beta.20260209-1384"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.vault.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Vault",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.grpc.clients.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.gRpc.Clients",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.mongo.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Mongo.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.event.sourcing.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Event.Sourcing.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.pubsub.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.file.storage.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.File.Storage",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.eventstore.pubsub.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.PubSub",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.redis.cache.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Cache.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/hex1b.tool.0.76.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "Hex1b.Tool",
+      "nuget:version": "0.76.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.serializers.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Serializers",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.kafka.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Kafka.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.cache.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Cache.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/simplew.service.firewall.26.0.0-beta.20260209-1384.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "SimpleW.Service.Firewall",
+      "nuget:version": "26.0.0-beta.20260209-1384"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.security.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Security",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.pubsub.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.PubSub",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.xunit.microservice.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.xUnit.Microservice",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/simplew.26.0.0-beta.20260209-1384.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "SimpleW",
+      "nuget:version": "26.0.0-beta.20260209-1384"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.event.sourcing.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.Event.Sourcing",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.52/codedesignplus.net.efcore.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2042f96-3961-44f7-94b1-f104d8810b07",
+      "commitTimeStamp": "2026-02-09T00:31:52.283973Z",
+      "nuget:id": "CodeDesignPlus.Net.EFCore",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.rabbitmq.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.RabbitMQ.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.file.storage.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.File.Storage.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.observability.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Observability",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/simplew.helper.razor.26.0.0-beta.20260209-1384.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "SimpleW.Helper.Razor",
+      "nuget:version": "26.0.0-beta.20260209-1384"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.eventstore.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.eventstore.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.vault.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Vault.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.eventstore.pubsub.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.redis.cache.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Cache",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.redis.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.observability.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Observability.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.mongo.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Mongo",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.efcore.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.EFCore.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.logger.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Logger",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.microservice.commons.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Microservice.Commons",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.criteria.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Criteria",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.generator.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Generator",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.core.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Core",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.grpc.clients.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.gRpc.Clients.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.31.15/codedesignplus.net.redis.pubsub.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af37ceac-7337-4819-af66-f62f8804ba7d",
+      "commitTimeStamp": "2026-02-09T00:31:15.7161113Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.PubSub",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.30.31/codedesignplus.net.redis.pubsub.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65583089-1870-4d61-85b7-b5f08908ed72",
+      "commitTimeStamp": "2026-02-09T00:30:31.7846148Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.30.31/codedesignplus.net.security.abstractions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65583089-1870-4d61-85b7-b5f08908ed72",
+      "commitTimeStamp": "2026-02-09T00:30:31.7846148Z",
+      "nuget:id": "CodeDesignPlus.Net.Security.Abstractions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.30.31/codedesignplus.net.exceptions.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65583089-1870-4d61-85b7-b5f08908ed72",
+      "commitTimeStamp": "2026-02-09T00:30:31.7846148Z",
+      "nuget:id": "CodeDesignPlus.Net.Exceptions",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.30.31/codedesignplus.net.redis.0.13.0-beta.12717.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "65583089-1870-4d61-85b7-b5f08908ed72",
+      "commitTimeStamp": "2026-02-09T00:30:31.7846148Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis",
+      "nuget:version": "0.13.0-beta.12717"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.29.52/regula.documentreader.webclient.9.2.707-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1edbea83-ed36-4b2e-83e6-4121b9b775f1",
+      "commitTimeStamp": "2026-02-09T00:29:52.7581538Z",
+      "nuget:id": "Regula.DocumentReader.WebClient",
+      "nuget:version": "9.2.707-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.28.35/auxiliumsoftware.auxiliumservices.common.3.0.15.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3dd0721-d6d7-4f68-b38b-a5941704ed9e",
+      "commitTimeStamp": "2026-02-09T00:28:35.9823164Z",
+      "nuget:id": "AuxiliumSoftware.AuxiliumServices.Common",
+      "nuget:version": "3.0.15.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.27.21/crestapps.orchardcore.agentskills.1.0.0-beta-0003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e42aba2a-28d7-44d7-b034-b97a67218ac3",
+      "commitTimeStamp": "2026-02-09T00:27:21.118915Z",
+      "nuget:id": "CrestApps.OrchardCore.AgentSkills",
+      "nuget:version": "1.0.0-beta-0003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.27.21/meshmakers.octo.sdk.packages.energycommunity.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e42aba2a-28d7-44d7-b034-b97a67218ac3",
+      "commitTimeStamp": "2026-02-09T00:27:21.118915Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.EnergyCommunity",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.27.21/meshmakers.octo.sdk.packages.industry.energy.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e42aba2a-28d7-44d7-b034-b97a67218ac3",
+      "commitTimeStamp": "2026-02-09T00:27:21.118915Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Energy",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.27.21/meshmakers.octo.sdk.packages.industry.basic.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e42aba2a-28d7-44d7-b034-b97a67218ac3",
+      "commitTimeStamp": "2026-02-09T00:27:21.118915Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Basic",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/crestapps.orchardcore.agentskills.mcp.1.0.0-beta-0003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "CrestApps.OrchardCore.AgentSkills.Mcp",
+      "nuget:version": "1.0.0-beta-0003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/crestapps.agentskills.mcp.1.0.0-beta-0003.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "CrestApps.AgentSkills.Mcp",
+      "nuget:version": "1.0.0-beta-0003"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/meshmakers.octo.sdk.packages.industry.maintenance.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Maintenance",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/meshmakers.octo.sdk.packages.basic.energy.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Basic.Energy",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/meshmakers.octo.sdk.packages.industry.fluid.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Fluid",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.44/meshmakers.octo.sdk.packages.environment.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aefd311-0c17-4c41-bd90-cb6ce27492b8",
+      "commitTimeStamp": "2026-02-09T00:26:44.1286901Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Environment",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.01/meshmakers.octo.sdk.packages.demo.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a957e99-6d9e-45e2-9c91-0e1a7033d42a",
+      "commitTimeStamp": "2026-02-09T00:26:01.0835491Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Demo",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.01/meshmakers.octo.sdk.packages.basic.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a957e99-6d9e-45e2-9c91-0e1a7033d42a",
+      "commitTimeStamp": "2026-02-09T00:26:01.0835491Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Basic",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.01/meshmakers.octo.sdk.packages.industry.manufacturing.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a957e99-6d9e-45e2-9c91-0e1a7033d42a",
+      "commitTimeStamp": "2026-02-09T00:26:01.0835491Z",
+      "nuget:id": "Meshmakers.Octo.Sdk.Packages.Industry.Manufacturing",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.26.01/jjrawlins.cdkamibuilder.0.0.155.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a957e99-6d9e-45e2-9c91-0e1a7033d42a",
+      "commitTimeStamp": "2026-02-09T00:26:01.0835491Z",
+      "nuget:id": "JJRawlins.CdkAmiBuilder",
+      "nuget:version": "0.0.155"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.25.16/mapify.net.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9c80389a-e48a-43ac-9bf7-b0de75b5b05d",
+      "commitTimeStamp": "2026-02-09T00:25:16.27533Z",
+      "nuget:id": "Mapify.NET",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.24.36/regula.facesdk.webclient.8.1.499-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1666408-eff5-4924-a64e-97ed47e70995",
+      "commitTimeStamp": "2026-02-09T00:24:36.4945125Z",
+      "nuget:id": "Regula.FaceSDK.WebClient",
+      "nuget:version": "8.1.499-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.23.16/blazorbasics.inputfileextended.3.8.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bdbad577-02cb-44dc-9706-602d799ae83c",
+      "commitTimeStamp": "2026-02-09T00:23:16.2266705Z",
+      "nuget:id": "BlazorBasics.InputFileExtended",
+      "nuget:version": "3.8.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.json.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Json",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.web.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Web",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.efcore.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.EFCore",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.persistence.caching.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Persistence.Caching",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.authorization.web.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Authorization.Web",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.security.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Security",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/jjrawlins.cdkgittagger.0.0.122.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "JJRawlins.CdkGitTagger",
+      "nuget:version": "0.0.122"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.mediatr.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.MediatR",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.masstransit.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.MassTransit",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.21.17/rcommon.entities.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ebe98c2c-1cf9-4396-b090-d59617045504",
+      "commitTimeStamp": "2026-02-09T00:21:17.445717Z",
+      "nuget:id": "RCommon.Entities",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.core.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Core",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.linq2db.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Linq2Db",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/codedesignplus.net.exceptions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "CodeDesignPlus.Net.Exceptions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.jsonnet.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.JsonNet",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.rediscache.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.RedisCache",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/meshmakers.octo.services.observability.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "Meshmakers.Octo.Services.Observability",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/meshmakers.octo.services.streamdata.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "Meshmakers.Octo.Services.StreamData",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.wolverine.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Wolverine",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.models.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Models",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.persistence.caching.memorycache.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Persistence.Caching.MemoryCache",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.systemtextjson.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.SystemTextJson",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.sendgrid.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.SendGrid",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.emailing.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Emailing",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.persistence.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Persistence",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.dapper.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Dapper",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.persistence.caching.rediscache.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Persistence.Caching.RedisCache",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.fluentvalidation.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.FluentValidation",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/meshmakers.octo.services.swagger.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "Meshmakers.Octo.Services.Swagger",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/rcommon.caching.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "RCommon.Caching",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.20.35/codedesignplus.net.event.sourcing.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4a14a027-4ac2-4016-b79c-356208630eeb",
+      "commitTimeStamp": "2026-02-09T00:20:35.3577306Z",
+      "nuget:id": "CodeDesignPlus.Net.Event.Sourcing.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.eventstore.pubsub.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.redis.cache.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Cache",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.criteria.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Criteria",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/meshmakers.octo.services.infrastructure.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "Meshmakers.Octo.Services.Infrastructure",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.event.sourcing.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Event.Sourcing",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.file.storage.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.File.Storage.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/davasorus.utility.api.apiinteraction.2026.1.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "Davasorus.Utility.Api.ApiInteraction",
+      "nuget:version": "2026.1.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/rcommon.applicationservices.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "RCommon.ApplicationServices",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/rcommon.memorycache.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "RCommon.MemoryCache",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/meshmakers.octo.services.contracts.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "Meshmakers.Octo.Services.Contracts",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.eventstore.pubsub.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.PubSub",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.redis.cache.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Cache.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/rcommon.mediator.2.3.2-alpha.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "RCommon.Mediator",
+      "nuget:version": "2.3.2-alpha.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.generator.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Generator",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.pubsub.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.file.storage.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.File.Storage",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.logger.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Logger",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/meshmakers.octo.services.notifications.3.3.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "Meshmakers.Octo.Services.Notifications",
+      "nuget:version": "3.3.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.redis.pubsub.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.PubSub",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.58/codedesignplus.net.mongo.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "eb07df55-decc-4745-b937-f8451c97fff7",
+      "commitTimeStamp": "2026-02-09T00:19:58.1648952Z",
+      "nuget:id": "CodeDesignPlus.Net.Mongo.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.rabbitmq.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.RabbitMQ.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.efcore.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.EFCore",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.cache.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Cache.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.mongo.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Mongo",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.redis.pubsub.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.PubSub.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.rabbitmq.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.RabbitMQ",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.grpc.clients.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.gRpc.Clients.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.redis.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.serializers.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Serializers",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.vault.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Vault",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.grpc.clients.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.gRpc.Clients",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.redis.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Redis.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.observability.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Observability",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.core.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Core.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.xunit.microservice.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.xUnit.Microservice",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.security.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Security.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.observability.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Observability.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.vault.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Vault.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.security.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.Security",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.19.20/codedesignplus.net.eventstore.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9f6eea4d-164e-4f2a-9aee-c87c864dcf51",
+      "commitTimeStamp": "2026-02-09T00:19:20.0865748Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.kafka.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.Kafka",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.eventstore.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.EventStore.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.pubsub.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.PubSub",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.efcore.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.EFCore.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.kafka.abstractions.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.Kafka.Abstractions",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.microservice.commons.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.Microservice.Commons",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/codedesignplus.net.core.0.13.0-beta.12716.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "CodeDesignPlus.Net.Core",
+      "nuget:version": "0.13.0-beta.12716"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.09.00.18.42/dustinthewind.clockwpf.1.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1a5b51bd-f7ef-4465-a5ec-85e286e8cc64",
+      "commitTimeStamp": "2026-02-09T00:18:42.6381978Z",
+      "nuget:id": "DustInTheWind.ClockWpf",
+      "nuget:version": "1.3.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
