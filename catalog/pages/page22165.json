@@ -1,0 +1,2737 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22165.json",
+  "@type": "CatalogPage",
+  "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+  "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+  "count": 338,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.56/ddzn_netdev.industrycontrol.2.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+      "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+      "nuget:id": "DDZN_NetDev.IndustryControl",
+      "nuget:version": "2.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.56/dekaf.serialization.json.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+      "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+      "nuget:id": "Dekaf.Serialization.Json",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.56/ddzn_netdev.browser.x64.2.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+      "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+      "nuget:id": "DDZN_NetDev.Browser.x64",
+      "nuget:version": "2.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.56/dekaf.schemaregistry.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+      "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+      "nuget:id": "Dekaf.SchemaRegistry",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.56/ddzn_netdev.2.7.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "90dff71a-29bc-43ac-981f-b6e9ae0e8a10",
+      "commitTimeStamp": "2026-02-28T14:08:56.1159922Z",
+      "nuget:id": "DDZN_NetDev",
+      "nuget:version": "2.7.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.extensions.dependencyinjection.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.Extensions.DependencyInjection",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.compression.zstd.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.Compression.Zstd",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.extensions.hosting.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.Extensions.Hosting",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.opentelemetry.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.OpenTelemetry",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.schemaregistry.avro.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.SchemaRegistry.Avro",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/dekaf.schemaregistry.protobuf.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "Dekaf.SchemaRegistry.Protobuf",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.08.23/ddzn_netdev.controls.2.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c7b48e8-72a9-4d12-9e94-3e1a0526b080",
+      "commitTimeStamp": "2026-02-28T14:08:23.1930458Z",
+      "nuget:id": "DDZN_NetDev.Controls",
+      "nuget:version": "2.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/ddzn_netdev.browser.x86.2.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "DDZN_NetDev.Browser.x86",
+      "nuget:version": "2.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/dekaf.compression.lz4.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "Dekaf.Compression.Lz4",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/dekaf.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "Dekaf",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/soenneker.cloudflare.caching.4.0.322.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "Soenneker.Cloudflare.Caching",
+      "nuget:version": "4.0.322"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/soenneker.utils.nuget.4.0.2502.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "Soenneker.Utils.NuGet",
+      "nuget:version": "4.0.2502"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.49/dekaf.compression.snappy.0.0.1-ci.1157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a0416ef6-5de7-48db-92de-dc10121fd1cd",
+      "commitTimeStamp": "2026-02-28T14:07:49.5057423Z",
+      "nuget:id": "Dekaf.Compression.Snappy",
+      "nuget:version": "0.0.1-ci.1157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.16/soenneker.github.repositories.secrets.4.0.880.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5905bcf-b4f6-4f43-aec2-a3d7f5ffb59f",
+      "commitTimeStamp": "2026-02-28T14:07:16.7687555Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Secrets",
+      "nuget:version": "4.0.880"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.07.16/soenneker.cloudflare.openapi.suite.4.0.1500.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5905bcf-b4f6-4f43-aec2-a3d7f5ffb59f",
+      "commitTimeStamp": "2026-02-28T14:07:16.7687555Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "4.0.1500"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.06.44/ddzn_netdev.browser.x64.2.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a0ea46d-07de-4701-8ff5-01b2b7da3762",
+      "commitTimeStamp": "2026-02-28T14:06:44.8276423Z",
+      "nuget:id": "DDZN_NetDev.Browser.x64",
+      "nuget:version": "2.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.06.44/soenneker.blazor.consumers.core.4.0.439.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a0ea46d-07de-4701-8ff5-01b2b7da3762",
+      "commitTimeStamp": "2026-02-28T14:06:44.8276423Z",
+      "nuget:id": "Soenneker.Blazor.Consumers.Core",
+      "nuget:version": "4.0.439"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.06.44/soenneker.rebrickable.client.4.0.125.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a0ea46d-07de-4701-8ff5-01b2b7da3762",
+      "commitTimeStamp": "2026-02-28T14:06:44.8276423Z",
+      "nuget:id": "Soenneker.Rebrickable.Client",
+      "nuget:version": "4.0.125"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.06.44/soenneker.blob.upload.4.0.2987.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9a0ea46d-07de-4701-8ff5-01b2b7da3762",
+      "commitTimeStamp": "2026-02-28T14:06:44.8276423Z",
+      "nuget:id": "Soenneker.Blob.Upload",
+      "nuget:version": "4.0.2987"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.06.11/soenneker.openapi.fixer.4.0.140.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88841fc3-fc26-4f0c-b921-043729b75a32",
+      "commitTimeStamp": "2026-02-28T14:06:11.9059879Z",
+      "nuget:id": "Soenneker.OpenApi.Fixer",
+      "nuget:version": "4.0.140"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.05.39/soenneker.quark.gen.lucide.4.0.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c83d0dad-487c-470d-aff5-f9c235eba3c0",
+      "commitTimeStamp": "2026-02-28T14:05:39.1093508Z",
+      "nuget:id": "Soenneker.Quark.Gen.Lucide",
+      "nuget:version": "4.0.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.05.39/ddzn_netdev.2.7.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c83d0dad-487c-470d-aff5-f9c235eba3c0",
+      "commitTimeStamp": "2026-02-28T14:05:39.1093508Z",
+      "nuget:id": "DDZN_NetDev",
+      "nuget:version": "2.7.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.05.39/soenneker.semantickernel.pool.openai.azure.4.0.334.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c83d0dad-487c-470d-aff5-f9c235eba3c0",
+      "commitTimeStamp": "2026-02-28T14:05:39.1093508Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.OpenAi.Azure",
+      "nuget:version": "4.0.334"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.05.07/openmediatr.abstractions.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "83e5309c-b1e3-4feb-9cf0-9a9cb030b39e",
+      "commitTimeStamp": "2026-02-28T14:05:07.1557712Z",
+      "nuget:id": "OpenMediatR.Abstractions",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.05.07/openmediatr.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "83e5309c-b1e3-4feb-9cf0-9a9cb030b39e",
+      "commitTimeStamp": "2026-02-28T14:05:07.1557712Z",
+      "nuget:id": "OpenMediatR",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.03.58/tx.tlogger.26.2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "213defc5-9f5c-45fd-972a-990f8a58cc50",
+      "commitTimeStamp": "2026-02-28T14:03:58.624948Z",
+      "nuget:id": "tX.tLogger",
+      "nuget:version": "26.2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.03.58/soenneker.stripe.setupintents.4.0.233.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "213defc5-9f5c-45fd-972a-990f8a58cc50",
+      "commitTimeStamp": "2026-02-28T14:03:58.624948Z",
+      "nuget:id": "Soenneker.Stripe.SetupIntents",
+      "nuget:version": "4.0.233"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.03.27/applied.1.2.1.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9db5a1b-9301-44b9-8e31-ea5a96d22d8c",
+      "commitTimeStamp": "2026-02-28T14:03:27.2181779Z",
+      "nuget:id": "Applied",
+      "nuget:version": "1.2.1.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.02.55/dh.ncode.4.18.2026.228-beta1358.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9debc483-b21f-4c99-b7b7-748cd0e1decb",
+      "commitTimeStamp": "2026-02-28T14:02:55.5271893Z",
+      "nuget:id": "DH.NCode",
+      "nuget:version": "4.18.2026.228-beta1358"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.02.22/dhxcodetool.4.18.2026.228-beta1358.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "539dd086-b98a-4c14-8e93-3e4a64b2a8ad",
+      "commitTimeStamp": "2026-02-28T14:02:22.9942101Z",
+      "nuget:id": "dhxcodetool",
+      "nuget:version": "4.18.2026.228-beta1358"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.02.22/featureflags.adaptivelogging.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "539dd086-b98a-4c14-8e93-3e4a64b2a8ad",
+      "commitTimeStamp": "2026-02-28T14:02:22.9942101Z",
+      "nuget:id": "FeatureFlags.AdaptiveLogging",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.01.49/soenneker.namecom.domains.4.0.554.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "239eb261-e759-4e2d-ad73-d9774f6c1ca0",
+      "commitTimeStamp": "2026-02-28T14:01:49.7263125Z",
+      "nuget:id": "Soenneker.NameCom.Domains",
+      "nuget:version": "4.0.554"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.01.15/dotnetforge.templates.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae5d8c40-d2ec-4d2a-ae26-1edb3645a190",
+      "commitTimeStamp": "2026-02-28T14:01:15.9591468Z",
+      "nuget:id": "DotnetForge.Templates",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.01.15/oryx.contracts.0.1.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ae5d8c40-d2ec-4d2a-ae26-1edb3645a190",
+      "commitTimeStamp": "2026-02-28T14:01:15.9591468Z",
+      "nuget:id": "ORYX.Contracts",
+      "nuget:version": "0.1.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.00.41/tod.0.8.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ea81250-c46b-40c4-88cb-44f2331b8a4d",
+      "commitTimeStamp": "2026-02-28T14:00:41.2560053Z",
+      "nuget:id": "Tod",
+      "nuget:version": "0.8.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.00.41/zerotool.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ea81250-c46b-40c4-88cb-44f2331b8a4d",
+      "commitTimeStamp": "2026-02-28T14:00:41.2560053Z",
+      "nuget:id": "ZeroTool",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.00.08/soenneker.email.senders.resend.4.0.364.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7ba86e8-6970-4c3f-a4b7-08af7da9096e",
+      "commitTimeStamp": "2026-02-28T14:00:08.912423Z",
+      "nuget:id": "Soenneker.Email.Senders.Resend",
+      "nuget:version": "4.0.364"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.14.00.08/soenneker.runners.runner.4.0.503.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7ba86e8-6970-4c3f-a4b7-08af7da9096e",
+      "commitTimeStamp": "2026-02-28T14:00:08.912423Z",
+      "nuget:id": "Soenneker.Runners.Runner",
+      "nuget:version": "4.0.503"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.59.37/nager.date.2.16.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "046eeafc-da67-4b1b-890a-c1e09991aa30",
+      "commitTimeStamp": "2026-02-28T13:59:37.4009484Z",
+      "nuget:id": "Nager.Date",
+      "nuget:version": "2.16.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.59.37/2023-se-21-math.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "046eeafc-da67-4b1b-890a-c1e09991aa30",
+      "commitTimeStamp": "2026-02-28T13:59:37.4009484Z",
+      "nuget:id": "2023-SE-21-math",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.59.37/soenneker.github.repositories.rulesets.4.0.1255.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "046eeafc-da67-4b1b-890a-c1e09991aa30",
+      "commitTimeStamp": "2026-02-28T13:59:37.4009484Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Rulesets",
+      "nuget:version": "4.0.1255"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.59.04/soenneker.instantly.suite.4.0.3285.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43d89811-b3fe-45ca-997c-ec0cc941c9d2",
+      "commitTimeStamp": "2026-02-28T13:59:04.4321907Z",
+      "nuget:id": "Soenneker.Instantly.Suite",
+      "nuget:version": "4.0.3285"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.58.32/soenneker.github.repositories.tags.4.0.724.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8192ee11-d723-46fe-aa03-d7f5585a7d70",
+      "commitTimeStamp": "2026-02-28T13:58:32.93235Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Tags",
+      "nuget:version": "4.0.724"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.58.00/soenneker.cloudflare.zones.4.0.530.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6357d71b-68be-4b9e-8a02-a0988c0883bd",
+      "commitTimeStamp": "2026-02-28T13:58:00.4939017Z",
+      "nuget:id": "Soenneker.Cloudflare.Zones",
+      "nuget:version": "4.0.530"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.57.28/soenneker.highlevel.contacts.4.0.95.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8c810815-18b1-4968-9cd8-6a7de70cc3d7",
+      "commitTimeStamp": "2026-02-28T13:57:28.8978376Z",
+      "nuget:id": "Soenneker.HighLevel.Contacts",
+      "nuget:version": "4.0.95"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.56.57/ytdlp-executable.2026.2.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82301e6a-00fb-4774-8b4b-76fe42326575",
+      "commitTimeStamp": "2026-02-28T13:56:57.9724208Z",
+      "nuget:id": "ytdlp-executable",
+      "nuget:version": "2026.2.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.56.25/soenneker.semantickernel.pool.ollama.4.0.332.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd2ababb-dcbb-4392-a593-3463ba8b80dd",
+      "commitTimeStamp": "2026-02-28T13:56:25.550707Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.Ollama",
+      "nuget:version": "4.0.332"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.56.25/soenneker.cloudflare.attributes.require.4.0.155.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cd2ababb-dcbb-4392-a593-3463ba8b80dd",
+      "commitTimeStamp": "2026-02-28T13:56:25.550707Z",
+      "nuget:id": "Soenneker.Cloudflare.Attributes.Require",
+      "nuget:version": "4.0.155"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.55.53/jotasystem.sdk.providers.1.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9b9175d-ca0a-41e5-8148-f9813709fd6a",
+      "commitTimeStamp": "2026-02-28T13:55:53.2538917Z",
+      "nuget:id": "JotaSystem.Sdk.Providers",
+      "nuget:version": "1.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.55.53/soenneker.github.repositories.runs.4.0.801.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9b9175d-ca0a-41e5-8148-f9813709fd6a",
+      "commitTimeStamp": "2026-02-28T13:55:53.2538917Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Runs",
+      "nuget:version": "4.0.801"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.55.53/ytdlp-executable.2026.2.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9b9175d-ca0a-41e5-8148-f9813709fd6a",
+      "commitTimeStamp": "2026-02-28T13:55:53.2538917Z",
+      "nuget:id": "ytdlp-executable",
+      "nuget:version": "2026.2.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.55.20/sheetly.google.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7772870-45d2-415e-80cf-4ca0d07222d3",
+      "commitTimeStamp": "2026-02-28T13:55:20.8862558Z",
+      "nuget:id": "Sheetly.Google",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.55.20/soenneker.renovate.jobs.4.0.1672.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e7772870-45d2-415e-80cf-4ca0d07222d3",
+      "commitTimeStamp": "2026-02-28T13:55:20.8862558Z",
+      "nuget:id": "Soenneker.Renovate.Jobs",
+      "nuget:version": "4.0.1672"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.54.48/sheetly.core.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e63a3afb-2e4d-4a97-9187-0f03fe183f47",
+      "commitTimeStamp": "2026-02-28T13:54:48.527213Z",
+      "nuget:id": "Sheetly.Core",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.54.48/dotnet-sheetly.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e63a3afb-2e4d-4a97-9187-0f03fe183f47",
+      "commitTimeStamp": "2026-02-28T13:54:48.527213Z",
+      "nuget:id": "dotnet-sheetly",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.54.16/soenneker.email.util.4.0.402.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cee94dcf-97c2-4a8d-ae9f-58530ece0130",
+      "commitTimeStamp": "2026-02-28T13:54:16.7140196Z",
+      "nuget:id": "Soenneker.Email.Util",
+      "nuget:version": "4.0.402"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.54.16/sheetly.dependencyinjection.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cee94dcf-97c2-4a8d-ae9f-58530ece0130",
+      "commitTimeStamp": "2026-02-28T13:54:16.7140196Z",
+      "nuget:id": "Sheetly.DependencyInjection",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.54.16/pulumiverse.buildkite.3.3.0-alpha.1772286387.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cee94dcf-97c2-4a8d-ae9f-58530ece0130",
+      "commitTimeStamp": "2026-02-28T13:54:16.7140196Z",
+      "nuget:id": "Pulumiverse.Buildkite",
+      "nuget:version": "3.3.0-alpha.1772286387"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.53.09/soenneker.blazor.consumer.4.0.1573.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8ddf8ea-a6e1-4b5a-a353-24109f41180e",
+      "commitTimeStamp": "2026-02-28T13:53:09.3179208Z",
+      "nuget:id": "Soenneker.Blazor.Consumer",
+      "nuget:version": "4.0.1573"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.53.09/soenneker.resend.client.4.0.133.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e8ddf8ea-a6e1-4b5a-a353-24109f41180e",
+      "commitTimeStamp": "2026-02-28T13:53:09.3179208Z",
+      "nuget:id": "Soenneker.Resend.Client",
+      "nuget:version": "4.0.133"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.52.37/manuhub.ytdlp.2026.2.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e40f008f-567d-45e9-a33c-d1a8c08dbb60",
+      "commitTimeStamp": "2026-02-28T13:52:37.2517057Z",
+      "nuget:id": "ManuHub.Ytdlp",
+      "nuget:version": "2026.2.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.52.04/manuhub.ytdlp.2026.2.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43af981a-d3de-4418-8ae5-f9d6ee87dd5a",
+      "commitTimeStamp": "2026-02-28T13:52:04.2713702Z",
+      "nuget:id": "ManuHub.Ytdlp",
+      "nuget:version": "2026.2.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.52.04/soenneker.instantly.unibox.4.0.2462.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43af981a-d3de-4418-8ae5-f9d6ee87dd5a",
+      "commitTimeStamp": "2026-02-28T13:52:04.2713702Z",
+      "nuget:id": "Soenneker.Instantly.Unibox",
+      "nuget:version": "4.0.2462"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.51.31/chromehtmltopdf.4.4.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9aa91e83-3c21-4933-ba84-adddb393c34b",
+      "commitTimeStamp": "2026-02-28T13:51:31.5010046Z",
+      "nuget:id": "ChromeHtmlToPdf",
+      "nuget:version": "4.4.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.59/oneware.output.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15a43850-75b2-4d81-aaff-5740257be57e",
+      "commitTimeStamp": "2026-02-28T13:50:59.2042785Z",
+      "nuget:id": "OneWare.Output",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.59/soenneker.maui.blazor.bridge.3.0.391.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15a43850-75b2-4d81-aaff-5740257be57e",
+      "commitTimeStamp": "2026-02-28T13:50:59.2042785Z",
+      "nuget:id": "Soenneker.Maui.Blazor.Bridge",
+      "nuget:version": "3.0.391"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.59/oneware.toolengine.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15a43850-75b2-4d81-aaff-5740257be57e",
+      "commitTimeStamp": "2026-02-28T13:50:59.2042785Z",
+      "nuget:id": "OneWare.ToolEngine",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.59/oneware.settings.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "15a43850-75b2-4d81-aaff-5740257be57e",
+      "commitTimeStamp": "2026-02-28T13:50:59.2042785Z",
+      "nuget:id": "OneWare.Settings",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.osscadsuiteintegration.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.OssCadSuiteIntegration",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.universalfpgaprojectsystem.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.UniversalFpgaProjectSystem",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.projectsystem.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.ProjectSystem",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/polars.net.native.linux-musl-x64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "Polars.NET.Native.linux-musl-x64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.waveformviewer.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.WaveFormViewer",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/polars.net.native.linux-arm64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "Polars.NET.Native.linux-arm64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.essentials.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.Essentials",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.50.26/oneware.cloudintegration.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ad96c48-a8c7-4e95-8619-59dc4f8ff421",
+      "commitTimeStamp": "2026-02-28T13:50:26.2164643Z",
+      "nuget:id": "OneWare.CloudIntegration",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/oneware.vcd.viewer.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "OneWare.Vcd.Viewer",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/polars.fsharp.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "Polars.FSharp",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/polars.net.core.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "Polars.NET.Core",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/polars.net.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "Polars.NET",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/oneware.vcd.parser.1.0.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "OneWare.Vcd.Parser",
+      "nuget:version": "1.0.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.53/polars.net.native.linux-musl-arm64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a13f19f2-1f9f-4647-b30e-08e2663251a7",
+      "commitTimeStamp": "2026-02-28T13:49:53.3855643Z",
+      "nuget:id": "Polars.NET.Native.linux-musl-arm64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.21/polars.net.native.osx-arm64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d6f168dc-0a7f-43d4-a425-fb29cea80b33",
+      "commitTimeStamp": "2026-02-28T13:49:21.3426655Z",
+      "nuget:id": "Polars.NET.Native.osx-arm64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.21/polars.net.native.linux-x64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d6f168dc-0a7f-43d4-a425-fb29cea80b33",
+      "commitTimeStamp": "2026-02-28T13:49:21.3426655Z",
+      "nuget:id": "Polars.NET.Native.linux-x64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.49.21/soenneker.blob.suite.4.0.6981.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d6f168dc-0a7f-43d4-a425-fb29cea80b33",
+      "commitTimeStamp": "2026-02-28T13:49:21.3426655Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "4.0.6981"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.48.49/ama.crdt.2.0.260228-ci1345.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7abb182-2f6f-4383-8421-7031f1e5590b",
+      "commitTimeStamp": "2026-02-28T13:48:49.1515644Z",
+      "nuget:id": "Ama.CRDT",
+      "nuget:version": "2.0.260228-ci1345"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.48.49/soenneker.github.repositories.discussions.4.0.1143.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7abb182-2f6f-4383-8421-7031f1e5590b",
+      "commitTimeStamp": "2026-02-28T13:48:49.1515644Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Discussions",
+      "nuget:version": "4.0.1143"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.48.49/ama.crdt.partitioning.streams.2.0.260228-ci1345.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7abb182-2f6f-4383-8421-7031f1e5590b",
+      "commitTimeStamp": "2026-02-28T13:48:49.1515644Z",
+      "nuget:id": "Ama.CRDT.Partitioning.Streams",
+      "nuget:version": "2.0.260228-ci1345"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.48.49/polars.net.native.win-x64.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7abb182-2f6f-4383-8421-7031f1e5590b",
+      "commitTimeStamp": "2026-02-28T13:48:49.1515644Z",
+      "nuget:id": "Polars.NET.Native.win-x64",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.47.41/soenneker.blob.suite.4.0.6980.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8ffb83cd-bd5b-4d6b-b8ea-84f8b14610ed",
+      "commitTimeStamp": "2026-02-28T13:47:41.7385545Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "4.0.6980"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.46.33/soenneker.blob.suite.4.0.6979.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "236a2545-551a-499a-8969-8a7f4941b8b2",
+      "commitTimeStamp": "2026-02-28T13:46:33.9047402Z",
+      "nuget:id": "Soenneker.Blob.Suite",
+      "nuget:version": "4.0.6979"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.46.01/labanalysis.messagecontracts.1.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75faeb04-8fa8-48ca-8ac8-37610e20b836",
+      "commitTimeStamp": "2026-02-28T13:46:01.5617547Z",
+      "nuget:id": "LabAnalysis.MessageContracts",
+      "nuget:version": "1.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.46.01/soenneker.validators.email.disposable.online.4.0.4942.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75faeb04-8fa8-48ca-8ac8-37610e20b836",
+      "commitTimeStamp": "2026-02-28T13:46:01.5617547Z",
+      "nuget:id": "Soenneker.Validators.Email.Disposable.Online",
+      "nuget:version": "4.0.4942"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.45.29/soenneker.github.repositories.pages.4.0.438.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f842b8a-8e16-433a-a743-b3633a99dc11",
+      "commitTimeStamp": "2026-02-28T13:45:29.5929392Z",
+      "nuget:id": "Soenneker.GitHub.Repositories.Pages",
+      "nuget:version": "4.0.438"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.45.29/soenneker.extensions.datetimeoffsets.quarters.4.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f842b8a-8e16-433a-a743-b3633a99dc11",
+      "commitTimeStamp": "2026-02-28T13:45:29.5929392Z",
+      "nuget:id": "Soenneker.Extensions.DateTimeOffsets.Quarters",
+      "nuget:version": "4.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.45.29/soenneker.ipqs.phone.4.0.2541.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f842b8a-8e16-433a-a743-b3633a99dc11",
+      "commitTimeStamp": "2026-02-28T13:45:29.5929392Z",
+      "nuget:id": "Soenneker.Ipqs.Phone",
+      "nuget:version": "4.0.2541"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.43.46/vl.gis.0.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7ac7c805-5b69-4d34-a6ea-feb10648bb3a",
+      "commitTimeStamp": "2026-02-28T13:43:46.6576946Z",
+      "nuget:id": "VL.GIS",
+      "nuget:version": "0.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.38/soenneker.email.dispatcher.4.0.211.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb694598-b028-4e87-a00b-f557ae6e1b8d",
+      "commitTimeStamp": "2026-02-28T13:42:38.4324979Z",
+      "nuget:id": "Soenneker.Email.Dispatcher",
+      "nuget:version": "4.0.211"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.38/xamarin.regula.faceapi.android.8.1.604-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb694598-b028-4e87-a00b-f557ae6e1b8d",
+      "commitTimeStamp": "2026-02-28T13:42:38.4324979Z",
+      "nuget:id": "Xamarin.Regula.FaceApi.Android",
+      "nuget:version": "8.1.604-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.38/soenneker.servicebus.transmitter.4.0.3532.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb694598-b028-4e87-a00b-f557ae6e1b8d",
+      "commitTimeStamp": "2026-02-28T13:42:38.4324979Z",
+      "nuget:id": "Soenneker.ServiceBus.Transmitter",
+      "nuget:version": "4.0.3532"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.06/soenneker.instantly.leads.4.0.3044.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "decfe7ba-4c57-4953-b932-63cc6ca82876",
+      "commitTimeStamp": "2026-02-28T13:42:06.4170052Z",
+      "nuget:id": "Soenneker.Instantly.Leads",
+      "nuget:version": "4.0.3044"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.06/tx.tutils.26.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "decfe7ba-4c57-4953-b932-63cc6ca82876",
+      "commitTimeStamp": "2026-02-28T13:42:06.4170052Z",
+      "nuget:id": "tX.tUtils",
+      "nuget:version": "26.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.42.06/soenneker.semantickernel.pool.mistral.4.0.210.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "decfe7ba-4c57-4953-b932-63cc6ca82876",
+      "commitTimeStamp": "2026-02-28T13:42:06.4170052Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.Mistral",
+      "nuget:version": "4.0.210"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.41.34/soenneker.cloudflare.dnsrecords.4.0.334.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b289de6a-5740-4833-8c7b-8305e613ce70",
+      "commitTimeStamp": "2026-02-28T13:41:34.6286591Z",
+      "nuget:id": "Soenneker.Cloudflare.DnsRecords",
+      "nuget:version": "4.0.334"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.41.34/xamarin.regula.faceapi.ios.8.1.604-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b289de6a-5740-4833-8c7b-8305e613ce70",
+      "commitTimeStamp": "2026-02-28T13:41:34.6286591Z",
+      "nuget:id": "Xamarin.Regula.FaceApi.iOS",
+      "nuget:version": "8.1.604-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.41.34/soenneker.validators.zipcode.exists.4.0.2330.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b289de6a-5740-4833-8c7b-8305e613ce70",
+      "commitTimeStamp": "2026-02-28T13:41:34.6286591Z",
+      "nuget:id": "Soenneker.Validators.ZipCode.Exists",
+      "nuget:version": "4.0.2330"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.41.02/pandatech.gridifyextensions.4.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "900913a5-38c6-4861-840a-38c522fd5d4f",
+      "commitTimeStamp": "2026-02-28T13:41:02.7613026Z",
+      "nuget:id": "Pandatech.GridifyExtensions",
+      "nuget:version": "4.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.40.30/soenneker.alerter.util.4.0.582.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01291807-52d1-4fca-90e2-da69357257c1",
+      "commitTimeStamp": "2026-02-28T13:40:30.4299775Z",
+      "nuget:id": "Soenneker.Alerter.Util",
+      "nuget:version": "4.0.582"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.40.30/soenneker.cloudflare.downloader.4.0.145.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01291807-52d1-4fca-90e2-da69357257c1",
+      "commitTimeStamp": "2026-02-28T13:40:30.4299775Z",
+      "nuget:id": "Soenneker.Cloudflare.Downloader",
+      "nuget:version": "4.0.145"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.39.21/lazydotide.0.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5e4f9bcf-6493-4086-bd37-ea3aa2c563c0",
+      "commitTimeStamp": "2026-02-28T13:39:21.7676035Z",
+      "nuget:id": "LazyDotIDE",
+      "nuget:version": "0.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.38.49/xamarin.documentreader.common.android.9.3.3094-nightly.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "73beb3be-66f5-4499-8955-453170cd61d1",
+      "commitTimeStamp": "2026-02-28T13:38:49.793843Z",
+      "nuget:id": "Xamarin.DocumentReader.Common.Android",
+      "nuget:version": "9.3.3094-nightly"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.38.17/pignone.dapper.bulkextensions.8.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a20e15d2-7774-41a2-8b6e-65e0512473b1",
+      "commitTimeStamp": "2026-02-28T13:38:17.2678131Z",
+      "nuget:id": "Pignone.Dapper.BulkExtensions",
+      "nuget:version": "8.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.37.45/soenneker.blob.delete.4.0.2806.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce8e5ea-25f1-47ac-b2a5-2523879e9c06",
+      "commitTimeStamp": "2026-02-28T13:37:45.5179947Z",
+      "nuget:id": "Soenneker.Blob.Delete",
+      "nuget:version": "4.0.2806"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.36.37/soenneker.maf.pool.4.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4126dacb-5446-4b6a-9bc2-fd07b734dd0d",
+      "commitTimeStamp": "2026-02-28T13:36:37.1971584Z",
+      "nuget:id": "Soenneker.Maf.Pool",
+      "nuget:version": "4.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.36.37/soenneker.playwright.installation.4.0.177.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4126dacb-5446-4b6a-9bc2-fd07b734dd0d",
+      "commitTimeStamp": "2026-02-28T13:36:37.1971584Z",
+      "nuget:id": "Soenneker.Playwright.Installation",
+      "nuget:version": "4.0.177"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.36.37/soenneker.compression.tar.xz.4.0.170.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4126dacb-5446-4b6a-9bc2-fd07b734dd0d",
+      "commitTimeStamp": "2026-02-28T13:36:37.1971584Z",
+      "nuget:id": "Soenneker.Compression.Tar.XZ",
+      "nuget:version": "4.0.170"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.36.37/soenneker.cosmos.container.setup.4.0.2249.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4126dacb-5446-4b6a-9bc2-fd07b734dd0d",
+      "commitTimeStamp": "2026-02-28T13:36:37.1971584Z",
+      "nuget:id": "Soenneker.Cosmos.Container.Setup",
+      "nuget:version": "4.0.2249"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.36.05/soenneker.cosmos.repositories.general.4.0.477.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a06a454a-0f16-4c1f-8d49-013e8f7f0b80",
+      "commitTimeStamp": "2026-02-28T13:36:05.5998794Z",
+      "nuget:id": "Soenneker.Cosmos.Repositories.General",
+      "nuget:version": "4.0.477"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.35.34/mistralsdk.net.5.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6bdda3f2-800b-4f24-97d8-1a74aa2e84fe",
+      "commitTimeStamp": "2026-02-28T13:35:34.5685755Z",
+      "nuget:id": "MistralSDK.Net",
+      "nuget:version": "5.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.35.34/asicsharp.cli.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6bdda3f2-800b-4f24-97d8-1a74aa2e84fe",
+      "commitTimeStamp": "2026-02-28T13:35:34.5685755Z",
+      "nuget:id": "AsicSharp.Cli",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.35.02/cosmosqlclient.core.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1365fe5f-48b4-415a-bc8b-4e09d0ad9506",
+      "commitTimeStamp": "2026-02-28T13:35:02.5676303Z",
+      "nuget:id": "CosmoSQLClient.Core",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.35.02/asicsharp.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1365fe5f-48b4-415a-bc8b-4e09d0ad9506",
+      "commitTimeStamp": "2026-02-28T13:35:02.5676303Z",
+      "nuget:id": "AsicSharp",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/cosmosqlclient.sqlite.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "CosmoSQLClient.Sqlite",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/cosmosqlclient.mysql.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "CosmoSQLClient.MySql",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/soenneker.bland.suite.4.0.1088.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Soenneker.Bland.Suite",
+      "nuget:version": "4.0.1088"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/umbraco.community.iconpicker.assets.13.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Umbraco.Community.IconPicker.Assets",
+      "nuget:version": "13.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/soenneker.instantly.analytics.4.0.1375.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Soenneker.Instantly.Analytics",
+      "nuget:version": "4.0.1375"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/cosmosqlclient.mssql.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "CosmoSQLClient.MsSql",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/umbraco.community.iconpicker.13.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Umbraco.Community.IconPicker",
+      "nuget:version": "13.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/soenneker.servicebus.receptors.msteams.4.0.588.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Soenneker.ServiceBus.Receptors.MsTeams",
+      "nuget:version": "4.0.588"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/cosmosqlclient.postgres.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "CosmoSQLClient.Postgres",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/umbraco.community.iconpicker.13.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "Umbraco.Community.IconPicker",
+      "nuget:version": "13.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.34.29/signalrpool.clientsdk.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "967bc6cb-d6cb-476d-992e-f9256ab6133b",
+      "commitTimeStamp": "2026-02-28T13:34:29.7552587Z",
+      "nuget:id": "SignalRPool.ClientSdk",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.settingmanagement.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.SettingManagement",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.aspnetcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.AspNetCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.webhooks.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.Webhooks.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/soenneker.stripe.suite.4.0.2172.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Soenneker.Stripe.Suite",
+      "nuget:version": "4.0.2172"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.account.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.Account.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.common.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Common",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wallet.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.Wallet.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.saas.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Saas.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.saas.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Saas.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/soenneker.resend.clientutil.4.0.157.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Soenneker.Resend.ClientUtil",
+      "nuget:version": "4.0.157"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.oa.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.OA",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/pandatech.fluentimporter.5.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "PandaTech.FluentImporter",
+      "nuget:version": "5.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/labanalysis.messagecontracts.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "LabAnalysis.MessageContracts",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.identity.wechat.work.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.Identity.WeChat.Work",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/wei.abp.wechat.work.handlers.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.Handlers",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.58/soenneker.x.clientutil.4.0.214.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0eb9b94-80b2-47e2-8444-bc1494f2dd9e",
+      "commitTimeStamp": "2026-02-28T13:33:58.549506Z",
+      "nuget:id": "Soenneker.X.ClientUtil",
+      "nuget:version": "4.0.214"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.saas.host.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Saas.Host.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.identity.qrcode.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Identity.QrCode",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/soenneker.stripe.suite.4.0.2171.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Soenneker.Stripe.Suite",
+      "nuget:version": "4.0.2171"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.identity.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Identity.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.ip.location.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.IP.Location",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.wechat.official.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.WeChat.Official.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.dynamic.queryable.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Dynamic.Queryable.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.saas.host.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Saas.Host.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.definition.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Definition",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.texttemplatemanagement.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/soenneker.stripe.suite.4.0.2170.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Soenneker.Stripe.Suite",
+      "nuget:version": "4.0.2170"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.dataconnector.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.DataConnector.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.saas.host.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Saas.Host.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.languagemanagement.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.wechat.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.WeChat",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.dataprotectionmanagement.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.wechat.official.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.WeChat.Official.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.tencent.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Tencent",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.identity.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.Identity.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.33.25/wei.abp.generaltree.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb57fe9f-6067-4211-b23b-37f82d22aae1",
+      "commitTimeStamp": "2026-02-28T13:33:25.655441Z",
+      "nuget:id": "Wei.Abp.GeneralTree.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.generaltree.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.GeneralTree.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/soenneker.stripe.suite.4.0.2173.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Soenneker.Stripe.Suite",
+      "nuget:version": "4.0.2173"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.permissionmanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.PermissionManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.permissionmanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.PermissionManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.exceptionhandling.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.ExceptionHandling",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.languagemanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.wechat.official.senparc.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.WeChat.Official.Senparc",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.identity.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Identity.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.auditlogging.retry.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.AuditLogging.Retry",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.wechat.work.common.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.Common",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.dynamic.queryable.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Dynamic.Queryable.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.webhooks.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Webhooks.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.identity.wechat.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Identity.WeChat",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.generaltree.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.GeneralTree.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.sms.tencentcloud.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Sms.TencentCloud",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.generaltree.mongodb.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.GeneralTree.MongoDB",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.linq.dynamic.queryable.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Linq.Dynamic.Queryable",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.dataconnector.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.DataConnector.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.exporter.core.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Exporter.Core",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.53/wei.abp.identity.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9ec2cec4-b7dc-4959-8cfc-17b85f07f424",
+      "commitTimeStamp": "2026-02-28T13:32:53.6243737Z",
+      "nuget:id": "Wei.Abp.Identity.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.identity.aspnetcore.qrcode.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Identity.AspNetCore.QrCode",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.dynamic.queryable.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Dynamic.Queryable.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.documentcode.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.DocumentCode.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.wallet.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Wallet.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.identity.session.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Identity.Session",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.exporter.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Exporter.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.wallet.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Wallet.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.texttemplatemanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.permissionmanagement.domain.organizationunits.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.PermissionManagement.Domain.OrganizationUnits",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.webhooks.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Webhooks.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.texttemplatemanagement.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.wechat.work.externalcontact.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.ExternalContact",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.dataconnector.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.DataConnector.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.languagemanagement.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.languagemanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.languagemanagement.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.texttemplatemanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.dataprotectionmanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.wallet.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.Wallet.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.32.18/wei.abp.texttemplatemanagement.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cdf5dcb9-ac51-429d-b8a0-cd1fe0b656d5",
+      "commitTimeStamp": "2026-02-28T13:32:18.9936085Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.sms.aliyun.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Sms.Aliyun",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.webhooks.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Webhooks.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.documentcode.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.DocumentCode.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.identity.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Identity.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.texttemplatemanagement.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.exceptionhandling.emailing.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.ExceptionHandling.Emailing",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.features.limitvalidation.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Features.LimitValidation",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.webhooks.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Webhooks.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/soenneker.cloudflare.openapi.suite.4.0.1499.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Soenneker.Cloudflare.OpenApi.Suite",
+      "nuget:version": "4.0.1499"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.systeminfo.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.SystemInfo.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.dataprotection.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.DataProtection.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.chat.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Chat.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.exporter.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Exporter.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.payment.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Payment.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.dataprotectionmanagement.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.tencent.qq.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.Tencent.QQ",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.datadictionary.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.DataDictionary.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.saas.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Saas.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.rulesenginemanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.46/wei.abp.datadictionary.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "591683fe-9f5b-4d37-9dc8-9dd35819f5ac",
+      "commitTimeStamp": "2026-02-28T13:31:46.0089289Z",
+      "nuget:id": "Wei.Abp.DataDictionary.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.core.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Core",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.saas.host.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Saas.Host.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.businesstemplate.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.identity.session.aspnetcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Identity.Session.AspNetCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.exporter.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Exporter.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.dataconnector.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.DataConnector.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.settingmanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.SettingManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.dataprotectionmanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.openiddict.wechat.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.OpenIddict.WeChat",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.identity.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Identity.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.chat.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Chat.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.payment.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Payment.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.businesstemplate.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.wechat.official.handlers.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.WeChat.Official.Handlers",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.openiddict.qrcode.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.OpenIddict.QrCode",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.businesstemplate.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.dataconnector.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.DataConnector.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.openiddict.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.OpenIddict.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.rulesenginemanagement.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.31.07/wei.abp.identity.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e52fceb1-4613-4cfa-bab3-234303792941",
+      "commitTimeStamp": "2026-02-28T13:31:07.8059395Z",
+      "nuget:id": "Wei.Abp.Identity.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.businesstemplate.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wechat.miniprogram.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.WeChat.MiniProgram",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.exporter.miniexcel.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Exporter.MiniExcel",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wallet.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Wallet.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.documentcode.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.DocumentCode.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wechat.work.contacts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.WeChat.Work.Contacts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.payment.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Payment.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.chat.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Chat.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.menumanagement.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.MenuManagement.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wallet.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Wallet.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.account.oauth.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Account.OAuth",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wechat.official.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.WeChat.Official",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.identity.aspnetcore.session.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Identity.AspNetCore.Session",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.wechat.official.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.WeChat.Official.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.notifications.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Notifications.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.excel.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Excel",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.datadictionary.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.DataDictionary.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.menumanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.MenuManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.identity.organizaztionunits.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Identity.OrganizaztionUnits",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.35/wei.abp.exporter.magicodesie.excel.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "49953996-a707-4641-89e2-6348592f1cf6",
+      "commitTimeStamp": "2026-02-28T13:30:35.071314Z",
+      "nuget:id": "Wei.Abp.Exporter.MagicodesIE.Excel",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.openiddict.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.OpenIddict.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.rulesenginemanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.chat.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Chat.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.generaltree.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.GeneralTree.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.wallet.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Wallet.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.account.templates.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Account.Templates",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.dataprotection.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.DataProtection",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.rulesenginemanagement.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.chat.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Chat.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.account.security.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Account.Security",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.menumanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.MenuManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.texttemplatemanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.TextTemplateManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.generaltree.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.GeneralTree.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.rulesenginemanagement.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.documentcode.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.DocumentCode.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.datadictionary.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.DataDictionary.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.chat.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.Chat.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.languagemanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.menumanagement.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.MenuManagement.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.30.01/wei.abp.openiddict.sms.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b94befee-3251-47fc-ac9b-3f968a6961ab",
+      "commitTimeStamp": "2026-02-28T13:30:01.5501553Z",
+      "nuget:id": "Wei.Abp.OpenIddict.Sms",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.chat.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.Chat.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.rulesenginemanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.RulesEngineManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.payment.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.Payment.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.datadictionary.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataDictionary.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.datadictionary.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataDictionary.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.settings.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.Settings",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.settingmanagement.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.SettingManagement.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.settingmanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.SettingManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.dataprotectionmanagement.domain.shared.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.Domain.Shared",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.permissionmanagement.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.PermissionManagement.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.notifications.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.Notifications.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.dataprotectionmanagement.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataProtectionManagement.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.auditlogging.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.AuditLogging.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.datadictionary.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataDictionary.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.aspnetcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.AspNetCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.businesstemplate.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.openiddict.aspnetcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.OpenIddict.AspNetCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.payment.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.Payment.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.dataprotection.abstractions.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.DataProtection.Abstractions",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.29.29/wei.abp.businesstemplate.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b356fae7-de3d-467a-865c-c1a288024129",
+      "commitTimeStamp": "2026-02-28T13:29:29.7154086Z",
+      "nuget:id": "Wei.Abp.BusinessTemplate.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.openiddict.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.OpenIddict.Application",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.notifications.domain.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Notifications.Domain",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.account.web.openiddict.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Account.Web.OpenIddict",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.account.web.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Account.Web",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.account.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Account.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.auditlogging.httpapi.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.AuditLogging.HttpApi",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.languagemanagement.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.LanguageManagement.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.menumanagement.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.MenuManagement.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.payment.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Payment.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.notifications.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Notifications.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.menumanagement.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.MenuManagement.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.notifications.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Notifications",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.blobstoring.tencentcloudcos.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.BlobStoring.TencentCloudCos",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.openiddict.aspnetcore.session.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.OpenIddict.AspNetCore.Session",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/smdn.io.usbhid.providers.libusbdotnet.1.0.0-preview2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Smdn.IO.UsbHid.Providers.LibUsbDotNet",
+      "nuget:version": "1.0.0-preview2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.notifications.application.contracts.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Notifications.Application.Contracts",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.notifications.entityframeworkcore.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Notifications.EntityFrameworkCore",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.auditlogging.httpapi.client.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.AuditLogging.HttpApi.Client",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.account.web.oauth.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Account.Web.OAuth",
+      "nuget:version": "4.2.0-beta.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.02.28.13.28.57/wei.abp.account.application.4.2.0-beta.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "074c7663-e017-496c-b69a-ac7a3d10474e",
+      "commitTimeStamp": "2026-02-28T13:28:57.4648005Z",
+      "nuget:id": "Wei.Abp.Account.Application",
+      "nuget:version": "4.2.0-beta.37"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
