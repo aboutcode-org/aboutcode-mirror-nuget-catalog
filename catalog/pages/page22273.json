@@ -1,0 +1,329 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22273.json",
+  "@type": "CatalogPage",
+  "commitId": "01da3581-95d3-4086-a994-a12ba3fb30d8",
+  "commitTimeStamp": "2026-03-24T20:19:06.9594548Z",
+  "count": 37,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.19.06/openrewrite.csharp.tool.8.77.0-snapshot.20260324201411.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "01da3581-95d3-4086-a994-a12ba3fb30d8",
+      "commitTimeStamp": "2026-03-24T20:19:06.9594548Z",
+      "nuget:id": "OpenRewrite.CSharp.Tool",
+      "nuget:version": "8.77.0-snapshot.20260324201411"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.18.31/mindbox.data.linq.10.8.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0c0ab446-453a-452a-9dd4-ee4b175c7108",
+      "commitTimeStamp": "2026-03-24T20:18:31.5843101Z",
+      "nuget:id": "Mindbox.Data.Linq",
+      "nuget:version": "10.8.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.elasticsearch.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Elasticsearch",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.testing.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Testing",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.newtonsoft.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Newtonsoft",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.dapper.sqlserver.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Dapper.SqlServer",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.polly.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Polly",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.dotnetdbf.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.DotNetDBF",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/rt.servers.1.1.522.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "RT.Servers",
+      "nuget:version": "1.1.522"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/libremetaverse.packetdump.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "LibreMetaverse.PacketDump",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.filesystem.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.FileSystem",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.activemq.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.ActiveMq",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.asynckeyedlock.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.AsyncKeyedLock",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.domain.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Domain",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/openrewrite.csharp.8.77.0-snapshot.20260324201411.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "OpenRewrite.CSharp",
+      "nuget:version": "8.77.0-snapshot.20260324201411"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.entityframeworkcore.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.EntityFrameworkCore",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.53/pipoburgos.sharedkernel.infrastructure.rabbitmq.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9bea008a-8220-4e0e-918e-2294ae0192fd",
+      "commitTimeStamp": "2026-03-24T20:17:53.8177033Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.RabbitMq",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.paypal.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.PayPal",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.application.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Application",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/libremetaverse.rlv.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "LibreMetaverse.RLV",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.dapper.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Dapper",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.api.newtonsoftjson.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Api.NewtonsoftJson",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.dapper.postgresql.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Dapper.PostgreSQL",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.itext.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.iText",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.fluentvalidation.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.FluentValidation",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.mongo.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Mongo",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.masstransit.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.MassTransit",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/markettools.mojegs.client.1.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "MarketTools.Mojegs.Client",
+      "nuget:version": "1.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.redsys.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Redsys",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.mailkit.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.MailKit",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.redis.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.Redis",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.npoi.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.NPOI",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.application.auth.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Application.Auth",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.api.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Api",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.sharedkernel.infrastructure.netjson.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.SharedKernel.Infrastructure.NetJson",
+      "nuget:version": "10.0.5.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.03.24.20.17.17/pipoburgos.paypal.10.0.5.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9447e32e-c3b0-4979-986b-853a4212b65f",
+      "commitTimeStamp": "2026-03-24T20:17:17.1616437Z",
+      "nuget:id": "Pipoburgos.PayPal",
+      "nuget:version": "10.0.5.2"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
