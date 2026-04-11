@@ -1,0 +1,113 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22343.json",
+  "@type": "CatalogPage",
+  "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+  "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+  "count": 10,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/meziantou.framework.httparchive.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "Meziantou.Framework.HttpArchive",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/mvdmio.database.pgsql.tool.0.20.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "mvdmio.Database.PgSQL.Tool",
+      "nuget:version": "0.20.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/voxelnexus.godot.storage.adam.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "VoxelNexus.Godot.Storage.Adam",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/mvdmio.database.pgsql.0.23.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "mvdmio.Database.PgSQL",
+      "nuget:version": "0.23.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/zyphrdev.sdk.0.1.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "ZyphrDev.SDK",
+      "nuget:version": "0.1.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/meziantou.framework.http.recording.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "Meziantou.Framework.Http.Recording",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/voxelnexus.godot.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "VoxelNexus.Godot",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/voxelnexus.storage.abstractions.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "VoxelNexus.Storage.Abstractions",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/voxelnexus.godot.storage.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "VoxelNexus.Godot.Storage",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.04.11.23.13.34/voxelnexus.storage.adam.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8df13021-ec39-45c6-ba25-a5ef537fa282",
+      "commitTimeStamp": "2026-04-11T23:13:34.9606207Z",
+      "nuget:id": "VoxelNexus.Storage.Adam",
+      "nuget:version": "1.0.6"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
