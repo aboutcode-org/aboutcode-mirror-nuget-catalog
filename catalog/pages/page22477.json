@@ -1,0 +1,65 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22477.json",
+  "@type": "CatalogPage",
+  "commitId": "71cd932a-2306-4da5-8ad9-efa6839a78ab",
+  "commitTimeStamp": "2026-05-11T18:46:49.793096Z",
+  "count": 4,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.11.18.46.49/nugetplayversedpg.2.0.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71cd932a-2306-4da5-8ad9-efa6839a78ab",
+      "commitTimeStamp": "2026-05-11T18:46:49.793096Z",
+      "nuget:id": "NuGetPlayVerseDPG",
+      "nuget:version": "2.0.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.11.18.46.16/soenneker.semantickernel.pool.openai.4.0.443.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c1ec84a0-a121-4005-8a7f-656dcb11e1d9",
+      "commitTimeStamp": "2026-05-11T18:46:16.1503942Z",
+      "nuget:id": "Soenneker.SemanticKernel.Pool.OpenAi",
+      "nuget:version": "4.0.443"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.11.18.45.05/jsonpit.3.8.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ae52b69-9f29-4c70-96ed-389962496da2",
+      "commitTimeStamp": "2026-05-11T18:45:05.1737909Z",
+      "nuget:id": "JsonPit",
+      "nuget:version": "3.8.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.11.18.45.05/soenneker.semantickernel.cache.4.0.758.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ae52b69-9f29-4c70-96ed-389962496da2",
+      "commitTimeStamp": "2026-05-11T18:45:05.1737909Z",
+      "nuget:id": "Soenneker.SemanticKernel.Cache",
+      "nuget:version": "4.0.758"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
