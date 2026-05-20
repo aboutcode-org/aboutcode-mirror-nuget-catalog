@@ -1,0 +1,49 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22519.json",
+  "@type": "CatalogPage",
+  "commitId": "3c51aa68-67c8-41c9-8303-95b3632d3c5d",
+  "commitTimeStamp": "2026-05-20T01:08:01.007801Z",
+  "count": 2,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.20.01.08.01/sukiui.7.0.2-nightly20260520.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c51aa68-67c8-41c9-8303-95b3632d3c5d",
+      "commitTimeStamp": "2026-05-20T01:08:01.007801Z",
+      "nuget:id": "SukiUI",
+      "nuget:version": "7.0.2-nightly20260520"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.20.01.08.01/reimaginate.datahub.testframework.agents.d365ce.1.3.0-rc.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3c51aa68-67c8-41c9-8303-95b3632d3c5d",
+      "commitTimeStamp": "2026-05-20T01:08:01.007801Z",
+      "nuget:id": "Reimaginate.DataHub.TestFramework.Agents.D365CE",
+      "nuget:version": "1.3.0-rc.3"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
