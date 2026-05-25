@@ -1,0 +1,73 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22545.json",
+  "@type": "CatalogPage",
+  "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+  "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+  "count": 5,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.25.15.09.50/myjetwallet.service.dynamicwallet.client.2.23.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+      "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+      "nuget:id": "MyJetWallet.Service.DynamicWallet.Client",
+      "nuget:version": "2.23.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.25.15.09.50/dwis.api.dto.2.2.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+      "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+      "nuget:id": "DWIS.API.DTO",
+      "nuget:version": "2.2.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.25.15.09.50/mvvmaio.prism.sourcegenerators.0.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+      "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+      "nuget:id": "MvvmAIO.Prism.SourceGenerators",
+      "nuget:version": "0.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.25.15.09.50/mvvmaio.prism.bcl.commands.0.4.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+      "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+      "nuget:id": "MvvmAIO.Prism.Bcl.Commands",
+      "nuget:version": "0.4.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.05.25.15.09.50/dwis.opcua.schemas.2.2.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e505ea80-08e1-458d-be74-090bdeef23d8",
+      "commitTimeStamp": "2026-05-25T15:09:50.4505021Z",
+      "nuget:id": "DWIS.OPCUA.Schemas",
+      "nuget:version": "2.2.31"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
