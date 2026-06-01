@@ -1,0 +1,641 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22578.json",
+  "@type": "CatalogPage",
+  "commitId": "77424223-e207-4ffd-a3d3-aeb611973adc",
+  "commitTimeStamp": "2026-06-01T20:31:58.1545669Z",
+  "count": 76,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.58/shuttle.access.restclient.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "77424223-e207-4ffd-a3d3-aeb611973adc",
+      "commitTimeStamp": "2026-06-01T20:31:58.1545669Z",
+      "nuget:id": "Shuttle.Access.RestClient",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.20/shuttle.access.aspnetcore.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c591c6-829b-4a0c-813c-4edc25f492a2",
+      "commitTimeStamp": "2026-06-01T20:31:20.615123Z",
+      "nuget:id": "Shuttle.Access.AspNetCore",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.20/shuttle.access.application.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c591c6-829b-4a0c-813c-4edc25f492a2",
+      "commitTimeStamp": "2026-06-01T20:31:20.615123Z",
+      "nuget:id": "Shuttle.Access.Application",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.20/shuttle.access.messages.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c591c6-829b-4a0c-813c-4edc25f492a2",
+      "commitTimeStamp": "2026-06-01T20:31:20.615123Z",
+      "nuget:id": "Shuttle.Access.Messages",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.20/shuttle.access.sqlserver.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c591c6-829b-4a0c-813c-4edc25f492a2",
+      "commitTimeStamp": "2026-06-01T20:31:20.615123Z",
+      "nuget:id": "Shuttle.Access.SqlServer",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.31.20/shuttle.access.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82c591c6-829b-4a0c-813c-4edc25f492a2",
+      "commitTimeStamp": "2026-06-01T20:31:20.615123Z",
+      "nuget:id": "Shuttle.Access",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.30.10/shuttle.access.webapi.contracts.10.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38cec7e3-fdd6-4b3c-86c4-3a86119c2efd",
+      "commitTimeStamp": "2026-06-01T20:30:10.3079835Z",
+      "nuget:id": "Shuttle.Access.WebApi.Contracts",
+      "nuget:version": "10.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.29.35/paradedb.entityframeworkcore.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c041f61-22c0-467a-8e2d-9940b6f33ce0",
+      "commitTimeStamp": "2026-06-01T20:29:35.3388855Z",
+      "nuget:id": "ParadeDB.EntityFrameworkCore",
+      "nuget:version": "0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.29.35/wb.configuration.1.0.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6c041f61-22c0-467a-8e2d-9940b6f33ce0",
+      "commitTimeStamp": "2026-06-01T20:29:35.3388855Z",
+      "nuget:id": "WB.Configuration",
+      "nuget:version": "1.0.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.mysql.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb.MySql",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.indexeddb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb.IndexedDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/swiftbindings.apple.tipkit.26.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "SwiftBindings.Apple.TipKit",
+      "nuget:version": "26.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/swiftbindings.stripe.issuing.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "SwiftBindings.Stripe.Issuing",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.mongodb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb.MongoDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.sqlite.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb.Sqlite",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/shiny.documentdb.extensions.dependencyinjection.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Shiny.DocumentDb.Extensions.DependencyInjection",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/uno.toolkit.winui.markup.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "Uno.Toolkit.WinUI.Markup",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/swiftbindings.stripe.identity.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "SwiftBindings.Stripe.Identity",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/swiftbindings.stripe.core.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "SwiftBindings.Stripe.Core",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.27.06/swiftbindings.stripe.connect.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "532e6f7c-8906-436e-ba99-4fd7886a2031",
+      "commitTimeStamp": "2026-06-01T20:27:06.6386829Z",
+      "nuget:id": "SwiftBindings.Stripe.Connect",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.sqlserver.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.SqlServer",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.paymentsheet.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.PaymentSheet",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.cosmosdb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.CosmosDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.threeds2.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.ThreeDS2",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/uno.toolkit.winui.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Uno.Toolkit.WinUI",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.applepay.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.ApplePay",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.uicore.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.UICore",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.postgresql.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.PostgreSql",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/uno.toolkit.winui.simple.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Uno.Toolkit.WinUI.Simple",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.duckdb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.DuckDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.extensions.ai.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.Extensions.AI",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/shiny.documentdb.sqlite.sqlcipher.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Shiny.DocumentDb.Sqlite.SqlCipher",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.financialconnections.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.FinancialConnections",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.payments.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.Payments",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.cardscan.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.CardScan",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.paymentsui.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.PaymentsUI",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/uno.toolkit.skia.winui.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "Uno.Toolkit.Skia.WinUI",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.26.30/swiftbindings.stripe.cameracore.25.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3afe1d0b-a7e3-4d33-8bc3-a24a8b31ecd9",
+      "commitTimeStamp": "2026-06-01T20:26:30.0280869Z",
+      "nuget:id": "SwiftBindings.Stripe.CameraCore",
+      "nuget:version": "25.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.55/swiftbindings.apple.roomplan.26.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee604b1-b946-4a26-967d-afa5ae450ff3",
+      "commitTimeStamp": "2026-06-01T20:25:55.434525Z",
+      "nuget:id": "SwiftBindings.Apple.RoomPlan",
+      "nuget:version": "26.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.55/uno.toolkit.winui.material.markup.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee604b1-b946-4a26-967d-afa5ae450ff3",
+      "commitTimeStamp": "2026-06-01T20:25:55.434525Z",
+      "nuget:id": "Uno.Toolkit.WinUI.Material.Markup",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.55/shiny.documentdb.litedb.6.0.0-beta-0006.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee604b1-b946-4a26-967d-afa5ae450ff3",
+      "commitTimeStamp": "2026-06-01T20:25:55.434525Z",
+      "nuget:id": "Shiny.DocumentDb.LiteDb",
+      "nuget:version": "6.0.0-beta-0006"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.55/uno.toolkit.winui.cupertino.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee604b1-b946-4a26-967d-afa5ae450ff3",
+      "commitTimeStamp": "2026-06-01T20:25:55.434525Z",
+      "nuget:id": "Uno.Toolkit.WinUI.Cupertino",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.55/uno.toolkit.winui.material.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2ee604b1-b946-4a26-967d-afa5ae450ff3",
+      "commitTimeStamp": "2026-06-01T20:25:55.434525Z",
+      "nuget:id": "Uno.Toolkit.WinUI.Material",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.20/uno.toolkit.9.0.0-dev.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6eb4db10-e2fe-4d21-affd-2c1be42abb58",
+      "commitTimeStamp": "2026-06-01T20:25:20.9686845Z",
+      "nuget:id": "Uno.Toolkit",
+      "nuget:version": "9.0.0-dev.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.25.20/minimax.1.0.1-dev.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6eb4db10-e2fe-4d21-affd-2c1be42abb58",
+      "commitTimeStamp": "2026-06-01T20:25:20.9686845Z",
+      "nuget:id": "MiniMax",
+      "nuget:version": "1.0.1-dev.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.24.07/swiftbindings.apple.translation.26.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "777e9706-5c5a-414e-acce-3ccfeb94fe51",
+      "commitTimeStamp": "2026-06-01T20:24:07.3070959Z",
+      "nuget:id": "SwiftBindings.Apple.Translation",
+      "nuget:version": "26.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.23.33/fkcommon.3.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e507efdd-5026-4f67-9caa-fac530d97b5b",
+      "commitTimeStamp": "2026-06-01T20:23:33.3912123Z",
+      "nuget:id": "FKCommon",
+      "nuget:version": "3.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.23.33/dcsmissionparser.net.0.0.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e507efdd-5026-4f67-9caa-fac530d97b5b",
+      "commitTimeStamp": "2026-06-01T20:23:33.3912123Z",
+      "nuget:id": "DcsMissionParser.Net",
+      "nuget:version": "0.0.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.22.56/jsonpathexpressions.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c11fdc08-8edf-4a99-9b63-2b5cd92e184b",
+      "commitTimeStamp": "2026-06-01T20:22:56.8131778Z",
+      "nuget:id": "JsonPathExpressions",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.22.56/monify.1.5.0-rc.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c11fdc08-8edf-4a99-9b63-2b5cd92e184b",
+      "commitTimeStamp": "2026-06-01T20:22:56.8131778Z",
+      "nuget:id": "Monify",
+      "nuget:version": "1.5.0-rc.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.22.56/github.copilot.sdk.1.0.0-beta.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c11fdc08-8edf-4a99-9b63-2b5cd92e184b",
+      "commitTimeStamp": "2026-06-01T20:22:56.8131778Z",
+      "nuget:id": "GitHub.Copilot.SDK",
+      "nuget:version": "1.0.0-beta.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.21.35/rustreferences.2.0.7383-staging.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "38c43438-8300-4ae6-a304-3aeb682ccf51",
+      "commitTimeStamp": "2026-06-01T20:21:35.3929997Z",
+      "nuget:id": "RustReferences",
+      "nuget:version": "2.0.7383-staging"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.55/silverback.storage.sqlite.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5444340c-2fd9-4eba-95a0-994bc45c50c9",
+      "commitTimeStamp": "2026-06-01T20:20:55.522676Z",
+      "nuget:id": "Silverback.Storage.Sqlite",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.core.rx.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Core.Rx",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.core.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Core",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.integration.kafka.schemaregistry.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Integration.Kafka.SchemaRegistry",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.storage.memory.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Storage.Memory",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.integration.kafka.testing.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Integration.Kafka.Testing",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.integration.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Integration",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.20.10/silverback.integration.mqtt.testing.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "954e6c6a-b591-4820-88a0-c19cef4edb10",
+      "commitTimeStamp": "2026-06-01T20:20:10.0187394Z",
+      "nuget:id": "Silverback.Integration.MQTT.Testing",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.integration.kafka.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Integration.Kafka",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/fluxflow.components.assertions.0.1.0-alpha.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "FluxFlow.Components.Assertions",
+      "nuget:version": "0.1.0-alpha.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/dissect.extended.net.0.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Dissect.Extended.Net",
+      "nuget:version": "0.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.integration.healthchecks.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Integration.HealthChecks",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.storage.postgresql.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Storage.PostgreSql",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.integration.newtonsoft.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Integration.Newtonsoft",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.integration.mqtt.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Integration.MQTT",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.integration.testing.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Integration.Testing",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.core.model.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Core.Model",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.19.29/silverback.storage.relational.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c9f6ce13-85d6-4115-bf96-d6f872534ebd",
+      "commitTimeStamp": "2026-06-01T20:19:29.4455376Z",
+      "nuget:id": "Silverback.Storage.Relational",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.18.50/silverback.storage.entityframework.5.3.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ee1f5577-cdc7-4dc4-9aec-e9c6d2a8b86f",
+      "commitTimeStamp": "2026-06-01T20:18:50.4243048Z",
+      "nuget:id": "Silverback.Storage.EntityFramework",
+      "nuget:version": "5.3.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.18.12/swiftbindings.apple.realityfoundation.26.2.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "87ebcf6b-ce7f-409f-98ff-e92e454ecbcb",
+      "commitTimeStamp": "2026-06-01T20:18:12.6405646Z",
+      "nuget:id": "SwiftBindings.Apple.RealityFoundation",
+      "nuget:version": "26.2.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.18.12/fluxflow.components.control.0.2.0-alpha.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "87ebcf6b-ce7f-409f-98ff-e92e454ecbcb",
+      "commitTimeStamp": "2026-06-01T20:18:12.6405646Z",
+      "nuget:id": "FluxFlow.Components.Control",
+      "nuget:version": "0.2.0-alpha.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.17.34/wolverinefx.fluentvalidation.6.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dddb0cc-4627-4a4f-bdd4-a3ee7297f668",
+      "commitTimeStamp": "2026-06-01T20:17:34.1462524Z",
+      "nuget:id": "WolverineFx.FluentValidation",
+      "nuget:version": "6.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.01.20.17.34/otpcontrol.koub.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dddb0cc-4627-4a4f-bdd4-a3ee7297f668",
+      "commitTimeStamp": "2026-06-01T20:17:34.1462524Z",
+      "nuget:id": "OtpControl.Koub",
+      "nuget:version": "1.0.1"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
