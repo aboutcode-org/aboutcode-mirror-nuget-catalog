@@ -1,0 +1,2329 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22608.json",
+  "@type": "CatalogPage",
+  "commitId": "69f3427c-a689-4130-a770-e2d07dd14867",
+  "commitTimeStamp": "2026-06-08T15:15:39.1283437Z",
+  "count": 287,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.15.39/dignus.actor.core.2.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69f3427c-a689-4130-a770-e2d07dd14867",
+      "commitTimeStamp": "2026-06-08T15:15:39.1283437Z",
+      "nuget:id": "Dignus.Actor.Core",
+      "nuget:version": "2.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.15.39/credfeto.database.source.generation.1.2.210.2218-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69f3427c-a689-4130-a770-e2d07dd14867",
+      "commitTimeStamp": "2026-06-08T15:15:39.1283437Z",
+      "nuget:id": "Credfeto.Database.Source.Generation",
+      "nuget:version": "1.2.210.2218-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.15.39/credfeto.database.sqlserver.1.2.210.2218-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69f3427c-a689-4130-a770-e2d07dd14867",
+      "commitTimeStamp": "2026-06-08T15:15:39.1283437Z",
+      "nuget:id": "Credfeto.Database.SqlServer",
+      "nuget:version": "1.2.210.2218-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.15.39/credfeto.database.pgsql.1.2.210.2218-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69f3427c-a689-4130-a770-e2d07dd14867",
+      "commitTimeStamp": "2026-06-08T15:15:39.1283437Z",
+      "nuget:id": "Credfeto.Database.Pgsql",
+      "nuget:version": "1.2.210.2218-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.59/credfeto.dotnet.repo.formatter.osx-arm64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5185b9a1-89ef-41d7-98a1-7ba41d1a3b70",
+      "commitTimeStamp": "2026-06-08T15:14:59.566218Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.osx-arm64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.59/credfeto.dotnet.repo.tools.cmd.win-arm64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5185b9a1-89ef-41d7-98a1-7ba41d1a3b70",
+      "commitTimeStamp": "2026-06-08T15:14:59.566218Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd.win-arm64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.59/credfeto.docker.healthcheck.http.client.0.0.67.851-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5185b9a1-89ef-41d7-98a1-7ba41d1a3b70",
+      "commitTimeStamp": "2026-06-08T15:14:59.566218Z",
+      "nuget:id": "Credfeto.Docker.HealthCheck.Http.Client",
+      "nuget:version": "0.0.67.851-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.59/credfeto.dotnet.repo.tools.cmd.osx-arm64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5185b9a1-89ef-41d7-98a1-7ba41d1a3b70",
+      "commitTimeStamp": "2026-06-08T15:14:59.566218Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd.osx-arm64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.59/credfeto.dotnet.repo.tools.cmd.linux-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5185b9a1-89ef-41d7-98a1-7ba41d1a3b70",
+      "commitTimeStamp": "2026-06-08T15:14:59.566218Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd.linux-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.formatter.linux-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.linux-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tools.release.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Release.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.formatter.linux-arm64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.linux-arm64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.formatter.osx-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.osx-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tools.dependencies.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Dependencies.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tracking.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tracking.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tools.cmd.win-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd.win-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tools.cmd.osx-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd.osx-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.formatter.win-x64.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.win-x64",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tracking.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tracking",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/credfeto.dotnet.repo.tools.extensions.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Extensions",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.14.22/z.bulkoperations.6.2.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "002e35a8-1025-43ae-bbba-2f067e70bf4b",
+      "commitTimeStamp": "2026-06-08T15:14:22.488165Z",
+      "nuget:id": "Z.BulkOperations",
+      "nuget:version": "6.2.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.git.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Git",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.templateupdate.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.TemplateUpdate.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.formatter.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.cleanup.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.CleanUp.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.cleanup.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.CleanUp",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.packages.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Packages",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.git.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Git.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.templateupdate.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.TemplateUpdate",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/virtocommerce.webhooksmodule.data.mysql.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "VirtoCommerce.WebhooksModule.Data.MySql",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.dependencies.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Dependencies",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.release.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Release",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.dotnet.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.DotNet",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.build.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Build.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.dotnet.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.DotNet.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.packages.interfaces.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Packages.Interfaces",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.43/credfeto.dotnet.repo.tools.cmd.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a5e1894a-b964-4d17-88d9-431f7dbd30fa",
+      "commitTimeStamp": "2026-06-08T15:13:43.0664312Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Cmd",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/orionlock.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "OrionLock",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/credfeto.docker.healthcheck.http.client.0.0.67.850-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "Credfeto.Docker.HealthCheck.Http.Client",
+      "nuget:version": "0.0.67.850-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/credfeto.version.information.generator.1.0.128.1283-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "Credfeto.Version.Information.Generator",
+      "nuget:version": "1.0.128.1283-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/virtocommerce.webhooksmodule.data.postgresql.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "VirtoCommerce.WebhooksModule.Data.PostgreSql",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/credfeto.dotnet.repo.tools.models.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Models",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/orionlock.redis.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "OrionLock.Redis",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/virtocommerce.webhooksmodule.core.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "VirtoCommerce.WebhooksModule.Core",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.13.07/credfeto.dotnet.repo.tools.build.1.5.2.3079-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "669c0b3d-a23a-4fb9-9e0f-424f6635b8c3",
+      "commitTimeStamp": "2026-06-08T15:13:07.7228708Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Tools.Build",
+      "nuget:version": "1.5.2.3079-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.eventbusmodule.data.3.1009.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.EventBusModule.Data",
+      "nuget:version": "3.1009.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/orionlock.entityframeworkcore.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "OrionLock.EntityFrameworkCore",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.eventbusmodule.data.sqlserver.3.1009.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.EventBusModule.Data.SqlServer",
+      "nuget:version": "3.1009.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.webhooksmodule.data.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.WebhooksModule.Data",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/orionlock.testing.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "OrionLock.Testing",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.eventbusmodule.data.mysql.3.1009.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.EventBusModule.Data.MySql",
+      "nuget:version": "3.1009.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.webhooksmodule.data.sqlserver.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.WebhooksModule.Data.SqlServer",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/xsd2fsharp.tool.1.0.1.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "xsd2fsharp.tool",
+      "nuget:version": "1.0.1.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/orionlock.sqlserver.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "OrionLock.SqlServer",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.eventbusmodule.core.3.1009.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.EventBusModule.Core",
+      "nuget:version": "3.1009.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/orionlock.postgres.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "OrionLock.Postgres",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/virtocommerce.eventbusmodule.data.postgresql.3.1009.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "VirtoCommerce.EventBusModule.Data.PostgreSql",
+      "nuget:version": "3.1009.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.12.30/xsd2fsharp.1.0.1.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8f6e6ae0-f4d1-4717-9d23-110059208a2a",
+      "commitTimeStamp": "2026-06-08T15:12:30.4730287Z",
+      "nuget:id": "xsd2fsharp",
+      "nuget:version": "1.0.1.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/virtocommerce.priceexportimportmodule.core.3.1001.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "VirtoCommerce.PriceExportImportModule.Core",
+      "nuget:version": "3.1001.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/virtocommerce.customerexportimportmodule.core.3.1001.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "VirtoCommerce.CustomerExportImportModule.Core",
+      "nuget:version": "3.1001.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/virtocommerce.customerexportimportmodule.data.3.1001.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "VirtoCommerce.CustomerExportImportModule.Data",
+      "nuget:version": "3.1001.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/credfeto.package.push.osx-arm64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/xdchat.1.260608.2309.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "XDChat",
+      "nuget:version": "1.260608.2309"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/pax.chess.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "pax.chess",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.51/credfeto.database.source.generation.1.2.210.2217-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ce238af-cb1a-41bb-9fb0-b382c8f0e6d9",
+      "commitTimeStamp": "2026-06-08T15:11:51.7376973Z",
+      "nuget:id": "Credfeto.Database.Source.Generation",
+      "nuget:version": "1.2.210.2217-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/xsd2fsharp.tool.1.0.1.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "xsd2fsharp.tool",
+      "nuget:version": "1.0.1.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/aboextensions.0.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "AboExtensions",
+      "nuget:version": "0.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/observables.restapi.r3.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Observables.RestAPI.R3",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/credfeto.services.startup.1.1.150.1701-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Credfeto.Services.Startup",
+      "nuget:version": "1.1.150.1701-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/observables.websocket.reactive.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Observables.WebSocket.Reactive",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/credfeto.services.startup.interfaces.1.1.150.1701-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Credfeto.Services.Startup.Interfaces",
+      "nuget:version": "1.1.150.1701-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/observables.mqtt.reactive.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Observables.Mqtt.Reactive",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/credfeto.extensions.linq.1.0.152.1667-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Credfeto.Extensions.Linq",
+      "nuget:version": "1.0.152.1667-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/observables.restapi.reactive.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "Observables.RestAPI.Reactive",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.11.16/virtocommerce.priceexportimportmodule.data.3.1001.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc340d01-2cb3-4acf-8319-a901b73a418f",
+      "commitTimeStamp": "2026-06-08T15:11:16.1441366Z",
+      "nuget:id": "VirtoCommerce.PriceExportImportModule.Data",
+      "nuget:version": "3.1001.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.mqtt.r3.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.Mqtt.R3",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.events.r3.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.Events.R3",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/credfeto.package.push.linux-arm64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/virtocommerce.assetsmodule.data.postgresql.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "VirtoCommerce.AssetsModule.Data.PostgreSql",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/credfeto.database.1.2.210.2217-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Credfeto.Database",
+      "nuget:version": "1.2.210.2217-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/virtocommerce.assetsmodule.data.sqlserver.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "VirtoCommerce.AssetsModule.Data.SqlServer",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.signalr.r3.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.SignalR.R3",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.signalr.reactive.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.SignalR.Reactive",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.websocket.r3.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.WebSocket.R3",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/observables.events.reactive.0.1.0-preview5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Observables.Events.Reactive",
+      "nuget:version": "0.1.0-preview5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/credfeto.database.pgsql.1.2.210.2217-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Credfeto.Database.Pgsql",
+      "nuget:version": "1.2.210.2217-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.10.35/credfeto.database.interfaces.1.2.210.2217-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d18e702-ed2a-4307-8d2e-77d192ad6d75",
+      "commitTimeStamp": "2026-06-08T15:10:35.325668Z",
+      "nuget:id": "Credfeto.Database.Interfaces",
+      "nuget:version": "1.2.210.2217-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/retrosharp.z80.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "RetroSharp.Z80",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/virtocommerce.assetsmodule.data.mysql.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "VirtoCommerce.AssetsModule.Data.MySql",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.osx-x64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/kjac.searchprovider.postgresql.1.0.0-alpha.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Kjac.SearchProvider.PostgreSql",
+      "nuget:version": "1.0.0-alpha.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.random.interfaces.1.0.155.1763-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Random.Interfaces",
+      "nuget:version": "1.0.155.1763-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.database.sqlserver.1.2.210.2217-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Database.SqlServer",
+      "nuget:version": "1.2.210.2217-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/virtocommerce.assetsmodule.data.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "VirtoCommerce.AssetsModule.Data",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.win-x64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/virtocommerce.assetsmodule.core.3.1003.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "VirtoCommerce.AssetsModule.Core",
+      "nuget:version": "3.1003.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/retrosharp.generation.intermediate.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "RetroSharp.Generation.Intermediate",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/zafiro.compilers.z80dotnet.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Zafiro.Compilers.Z80DotNet",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.random.1.0.155.1763-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Random",
+      "nuget:version": "1.0.155.1763-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.version.information.generator.1.0.128.1282-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Version.Information.Generator",
+      "nuget:version": "1.0.128.1282-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.win-arm64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push.win-arm64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/swifthub.services.1.10.73.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Swifthub.Services",
+      "nuget:version": "1.10.73"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.osx-arm64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push.osx-arm64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/credfeto.package.push.linux-x64.1.6.177.1844-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1844-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/retrosharp.tool.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "RetroSharp.Tool",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.57/xsd2fsharp.1.0.1.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "14a7900d-12d1-4b0c-8bdb-b28084c92b60",
+      "commitTimeStamp": "2026-06-08T15:09:57.7554966Z",
+      "nuget:id": "xsd2fsharp",
+      "nuget:version": "1.0.1.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.services.startup.interfaces.1.1.150.1700-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.Services.Startup.Interfaces",
+      "nuget:version": "1.1.150.1700-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.changelog.cmd.linux-arm64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.semanticanalysis.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.SemanticAnalysis",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.parser.model.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.Parser.Model",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/microsoft.graph.beta.6.2.0-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Microsoft.Graph.Beta",
+      "nuget:version": "6.2.0-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.random.1.0.155.1762-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.Random",
+      "nuget:version": "1.0.155.1762-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/zafiro.compilers.sixty502dotnet.shared.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Zafiro.Compilers.Sixty502DotNet.Shared",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.gameboy.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.GameBoy",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/omegainc.framework.net.ef.repository.3.0.2.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "OmegaInc.Framework.Net.EF.Repository",
+      "nuget:version": "3.0.2.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.changelog.cmd.osx-arm64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/testz80assembler.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "TestZ80Assembler",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.parser.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.Parser",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.nes.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.NES",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/finbourne.sdk.0.1.44.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Finbourne.Sdk",
+      "nuget:version": "0.1.44"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.changelog.cmd.win-x64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-x64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/retrosharp.core.0.0.111.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "RetroSharp.Core",
+      "nuget:version": "0.0.111"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.enumeration.source.generation.1.2.145.1957-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation",
+      "nuget:version": "1.2.145.1957-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/credfeto.services.startup.1.1.150.1700-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Credfeto.Services.Startup",
+      "nuget:version": "1.1.150.1700-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.09.18/soenneker.email.senders.resend.4.0.547.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4645ff8b-9388-4509-bfd3-a5c7a93bf3e4",
+      "commitTimeStamp": "2026-06-08T15:09:18.2398275Z",
+      "nuget:id": "Soenneker.Email.Senders.Resend",
+      "nuget:version": "4.0.547"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.bank.sicredi.0.1.9.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Bank.Sicredi",
+      "nuget:version": "0.1.9.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.changelog.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.ChangeLog",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.changelog.cmd.osx-x64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-x64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.whaticket.1.0.4.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.WhaTicket",
+      "nuget:version": "1.0.4.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.changelog.cmd.win-arm64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.googlecloud.2.2.7.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.GoogleCloud",
+      "nuget:version": "2.2.7.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.common.2.2.5.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Common",
+      "nuget:version": "2.2.5.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.mail.2.2.7.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Mail",
+      "nuget:version": "2.2.7.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/soenneker.utils.datetimeoffsets.4.0.133.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Soenneker.Utils.DateTimeOffsets",
+      "nuget:version": "4.0.133"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.http.2.2.7.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Http",
+      "nuget:version": "2.2.7.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.changelog.cmd.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.mysql.1.0.4.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.MySQL",
+      "nuget:version": "1.0.4.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.bank.pix.0.1.9.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Bank.Pix",
+      "nuget:version": "0.1.9.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.changelog.cmd.linux-x64.1.10.195.1996-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.195.1996-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.enumeration.source.generation.attributes.1.2.145.1957-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation.Attributes",
+      "nuget:version": "1.2.145.1957-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.bank.cresol.0.1.9.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Bank.Cresol",
+      "nuget:version": "0.1.9.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.strategy.3.0.1.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.Strategy",
+      "nuget:version": "3.0.1.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.ef.business.3.0.2.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.EF.Business",
+      "nuget:version": "3.0.2.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/credfeto.random.interfaces.1.0.155.1762-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "Credfeto.Random.Interfaces",
+      "nuget:version": "1.0.155.1762-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.40/omegainc.framework.net.aws.2.2.7.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a2ab507b-bf88-45cd-b7bc-fb314b65f280",
+      "commitTimeStamp": "2026-06-08T15:08:40.5201507Z",
+      "nuget:id": "OmegaInc.Framework.Net.AWS",
+      "nuget:version": "2.2.7.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/beep.om.i.local.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Beep.OM.I.Local",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.update.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Update",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.enumeration.source.generation.attributes.1.2.145.1956-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation.Attributes",
+      "nuget:version": "1.2.145.1956-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/omegainc.framework.net.brasilapi.1.0.5.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "OmegaInc.Framework.Net.BrasilAPI",
+      "nuget:version": "1.0.5.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/omegainc.framework.net.onesignal.2.2.5.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "OmegaInc.Framework.Net.OneSignal",
+      "nuget:version": "2.2.5.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/invex.atom.module.azurestorage.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Invex.Atom.Module.AzureStorage",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/funfair.buildcheck.interfaces.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "FunFair.BuildCheck.Interfaces",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.push.osx-x64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Push.osx-x64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/greygui.0.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "GreyGui",
+      "nuget:version": "0.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.update.win-arm64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Update.win-arm64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.update.osx-x64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Update.osx-x64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/invex.atom.tool.linux-arm64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Invex.Atom.Tool.linux-arm64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/funfair.buildcheck.solutionchecks.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "FunFair.BuildCheck.SolutionChecks",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/kahuna.shared.0.1.16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Kahuna.Shared",
+      "nuget:version": "0.1.16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/omegainc.framework.net.bank.sicoob.0.1.9.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "OmegaInc.Framework.Net.Bank.Sicoob",
+      "nuget:version": "0.1.9.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/omegainc.framework.net.ef.data.3.0.2.112.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "OmegaInc.Framework.Net.EF.Data",
+      "nuget:version": "3.0.2.112"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.push.linux-arm64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Push.linux-arm64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/beep.om.i.message.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Beep.OM.I.Message",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.08.03/credfeto.package.push.linux-x64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "98e86d81-4851-4b10-809c-bc1d6ecdfddb",
+      "commitTimeStamp": "2026-06-08T15:08:03.1452825Z",
+      "nuget:id": "Credfeto.Package.Push.linux-x64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.enumeration.source.generation.1.2.145.1956-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Enumeration.Source.Generation",
+      "nuget:version": "1.2.145.1956-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/invex.atom.module.azurekeyvault.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Invex.Atom.Module.AzureKeyVault",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/beep.om.object.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Beep.OM.Object",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.push.win-x64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Push.win-x64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/funfair.buildcheck.win-arm64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "FunFair.BuildCheck.win-arm64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/funfair.buildcheck.linux-arm64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "FunFair.BuildCheck.linux-arm64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/meziantou.polyfill.1.0.146.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Meziantou.Polyfill",
+      "nuget:version": "1.0.146"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/funfair.buildcheck.osx-x64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "FunFair.BuildCheck.osx-x64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.update.osx-arm64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Update.osx-arm64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.push.win-arm64.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Push.win-arm64",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/xfeed.infrastructure.common.1.20260608.1500.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Xfeed.Infrastructure.Common",
+      "nuget:version": "1.20260608.1500"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.update.win-x64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Update.win-x64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/beep.om.i.query.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Beep.OM.I.Query",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.update.linux-x64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Update.linux-x64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.package.update.linux-arm64.1.10.218.2286-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.218.2286-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/beep.om.i.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Beep.OM.I",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/funfair.buildcheck.win-x64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "FunFair.BuildCheck.win-x64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/beep.om.i.history.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Beep.OM.I.History",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/credfeto.changelog.cmd.win-x64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-x64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.07.23/invex.atom.tool.osx-x64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b3027bf9-57f2-402f-8478-0b08d37fc844",
+      "commitTimeStamp": "2026-06-08T15:07:23.4417229Z",
+      "nuget:id": "Invex.Atom.Tool.osx-x64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/credfeto.changelog.cmd.win-arm64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.win-arm64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/invex.atom.module.githubworkflows.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Invex.Atom.Module.GithubWorkflows",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/soenneker.email.dispatcher.4.0.314.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Soenneker.Email.Dispatcher",
+      "nuget:version": "4.0.314"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/credfeto.changelog.cmd.osx-x64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-x64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.projectchecks.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck.ProjectChecks",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/invex.atom.module.devopsworkflows.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Invex.Atom.Module.DevopsWorkflows",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/andy.codeindex.shared.2026.6.8-rc.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Andy.CodeIndex.Shared",
+      "nuget:version": "2026.6.8-rc.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.osx-arm64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck.osx-arm64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/invex.atom.tool.win-x64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Invex.Atom.Tool.win-x64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/andy.codeindex.infrastructure.2026.6.8-rc.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Andy.CodeIndex.Infrastructure",
+      "nuget:version": "2026.6.8-rc.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.runner.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck.Runner",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/credfeto.package.push.1.6.177.1843-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Credfeto.Package.Push",
+      "nuget:version": "1.6.177.1843-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.linux-x64.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck.linux-x64",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/invex.atom.workflows.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Invex.Atom.Workflows",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/invex.atom.tool.linux-x64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Invex.Atom.Tool.linux-x64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/andy.codeindex.application.2026.6.8-rc.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Andy.CodeIndex.Application",
+      "nuget:version": "2026.6.8-rc.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/funfair.buildcheck.helpers.474.2.8.2313-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "FunFair.BuildCheck.Helpers",
+      "nuget:version": "474.2.8.2313-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/credfeto.changelog.cmd.osx-arm64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.osx-arm64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.46/citolab.qtijsonschema.converters.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49615e7-c8d7-4bd1-b933-3bd8e95a2fdd",
+      "commitTimeStamp": "2026-06-08T15:06:46.5981383Z",
+      "nuget:id": "Citolab.QtiJsonSchema.Converters",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/citolab.qtijsonschema.models.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Citolab.QtiJsonSchema.Models",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/credfeto.changelog.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Credfeto.ChangeLog",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/kokos-me-dotnet-evodoc-evocache.sdk.1.0.0-dev-8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Kokos-me-dotnet-evodoc-evocache.SDK",
+      "nuget:version": "1.0.0-dev-8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/funfair.buildcheck.win-arm64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "FunFair.BuildCheck.win-arm64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/credfeto.changelog.cmd.linux-arm64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-arm64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/microsensys.iidreaderlibrary.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Microsensys.iIDReaderLibrary",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/beep.om.i.global.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Beep.OM.I.Global",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.module.gitversion.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Module.GitVersion",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/credfeto.changelog.cmd.linux-x64.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd.linux-x64",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.build.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Build",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.module.dotnet.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Module.Dotnet",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.tool.osx-arm64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Tool.osx-arm64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/credfeto.changelog.cmd.1.10.195.1995-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Credfeto.ChangeLog.Cmd",
+      "nuget:version": "1.10.195.1995-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/tcm.core.1.0.22.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "TCM.Core",
+      "nuget:version": "1.0.22"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/andy.codeindex.domain.2026.6.8-rc.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Andy.CodeIndex.Domain",
+      "nuget:version": "2026.6.8-rc.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/beep.om.i.report.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Beep.OM.I.Report",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.tool.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Tool",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/invex.atom.tool.win-arm64.3.0.0-rc.201.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Invex.Atom.Tool.win-arm64",
+      "nuget:version": "3.0.0-rc.201"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/beep.om.i.drive.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Beep.OM.I.Drive",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.06.06/credfeto.package.update.linux-arm64.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6b08292e-0bcb-4285-9199-952299c166c6",
+      "commitTimeStamp": "2026-06-08T15:06:06.8638615Z",
+      "nuget:id": "Credfeto.Package.Update.linux-arm64",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.runner.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck.Runner",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.generation.intermediate.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.Generation.Intermediate",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.linux-x64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck.linux-x64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.z80.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.Z80",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.solutionchecks.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck.SolutionChecks",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.interfaces.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck.Interfaces",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/microsensys.iidreaderlibrary.2.0.1-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Microsensys.iIDReaderLibrary",
+      "nuget:version": "2.0.1-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/horaios.de.charis.6.6.8.1514.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "horaios.de.Charis",
+      "nuget:version": "6.6.8.1514"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.nes.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.NES",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.semanticanalysis.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.SemanticAnalysis",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/credfeto.package.update.osx-x64.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Credfeto.Package.Update.osx-x64",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/credfeto.package.update.linux-x64.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Credfeto.Package.Update.linux-x64",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/beep.om.enum.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Beep.OM.Enum",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.parser.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.Parser",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/beep.om.i.communication.1.1.4-build.31.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Beep.OM.I.Communication",
+      "nuget:version": "1.1.4-build.31"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/zafiro.compilers.sixty502dotnet.shared.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "Zafiro.Compilers.Sixty502DotNet.Shared",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/funfair.buildcheck.osx-arm64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "FunFair.BuildCheck.osx-arm64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.05.25/retrosharp.parser.model.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1bddc626-56e2-4e57-8291-9037ab2293ef",
+      "commitTimeStamp": "2026-06-08T15:05:25.4064561Z",
+      "nuget:id": "RetroSharp.Parser.Model",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/testz80assembler.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "TestZ80Assembler",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/jetbrains.psi.features.uiinteractive.livetemplates.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.LiveTemplates",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/credfeto.package.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Credfeto.Package",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/zafiro.compilers.z80dotnet.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Zafiro.Compilers.Z80DotNet",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/funfair.buildcheck.linux-arm64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "FunFair.BuildCheck.linux-arm64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/credfeto.package.update.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Credfeto.Package.Update",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/funfair.buildcheck.helpers.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "FunFair.BuildCheck.Helpers",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/horaios.de.charis.blazorbase.6.6.8.1514.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "horaios.de.Charis.BlazorBase",
+      "nuget:version": "6.6.8.1514"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/jetbrains.resharper.sdk.internal.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "JetBrains.ReSharper.SDK.Internal",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/retrosharp.tool.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "RetroSharp.Tool",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/funfair.buildcheck.projectchecks.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "FunFair.BuildCheck.ProjectChecks",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/credfeto.package.update.win-arm64.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Credfeto.Package.Update.win-arm64",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/credfeto.package.update.win-x64.1.10.218.2285-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Credfeto.Package.Update.win-x64",
+      "nuget:version": "1.10.218.2285-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/kokos-me-dotnet-evodoc-evocache.shared.1.0.0-dev-8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "Kokos-me-dotnet-evodoc-evocache.Shared",
+      "nuget:version": "1.0.0-dev-8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/funfair.buildcheck.osx-x64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "FunFair.BuildCheck.osx-x64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/jetbrains.psi.features.visualstudio.unittesting.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.UnitTesting",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/funfair.buildcheck.win-x64.474.2.8.2312-ban-warnings-no.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "FunFair.BuildCheck.win-x64",
+      "nuget:version": "474.2.8.2312-ban-warnings-no"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/retrosharp.gameboy.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "RetroSharp.GameBoy",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/jetbrains.psi.features.uiinteractive.refactorings.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "JetBrains.Psi.Features.UIInteractive.Refactorings",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.46/retrosharp.core.0.0.110.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ad92bd5-7243-4a66-8c1e-544a780ba0be",
+      "commitTimeStamp": "2026-06-08T15:04:46.1223238Z",
+      "nuget:id": "RetroSharp.Core",
+      "nuget:version": "0.0.110"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.standalone.wpf.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.Standalone.WPF",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.psi.features.visualstudio.vsproduct.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.VsProduct",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.vsproduct.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.VsProduct",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs17.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs17",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.vscttoctocompiler.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.VsctToCtoCompiler",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.sincevs16roslynsourcegeneratorsaware.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs16RoslynSourceGeneratorsAware",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.sincevs18.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs18",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs16.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs16",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.sincevs17copilot.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs17Copilot",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs11.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs11",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.standalone.shell.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.Standalone.Shell",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.psi.features.visualstudio.sincevs17.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Psi.Features.VisualStudio.SinceVs17",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs15.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs15",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs14.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs14",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.installer.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.Installer",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.standalone.textcontrol.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.Standalone.TextControl",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.sincevs17.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.SinceVs17",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.core.agentmodelcontext.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.Core.AgentModelContext",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.justvs18.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.JustVs18",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.08.15.04.08/jetbrains.platform.visualstudio.backend.outofprocess.262.0.20260603.61056-eap05.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b8f86b8e-a302-44e7-a38c-31cc1e369fb6",
+      "commitTimeStamp": "2026-06-08T15:04:08.135391Z",
+      "nuget:id": "JetBrains.Platform.VisualStudio.Backend.OutOfProcess",
+      "nuget:version": "262.0.20260603.61056-eap05"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
