@@ -1,0 +1,841 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22671.json",
+  "@type": "CatalogPage",
+  "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+  "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+  "count": 101,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.simplesystemsmanagement.4.0.8.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.SimpleSystemsManagement",
+      "nuget:version": "4.0.8.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.appconfigdata.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.AppConfigData",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.computeoptimizerautomation.4.0.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.ComputeOptimizerAutomation",
+      "nuget:version": "4.0.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/i-synergy.framework.storage.s3.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "I-Synergy.Framework.Storage.S3",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.textract.4.0.4.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.Textract",
+      "nuget:version": "4.0.4.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.kinesisanalytics.4.0.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.KinesisAnalytics",
+      "nuget:version": "4.0.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.frauddetector.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.FraudDetector",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.mailmanager.4.0.6.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.MailManager",
+      "nuget:version": "4.0.6.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.wafregional.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.WAFRegional",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.cognitosync.4.0.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.CognitoSync",
+      "nuget:version": "4.0.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.securityir.4.0.7.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.SecurityIR",
+      "nuget:version": "4.0.7.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.timestreamquery.4.0.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.TimestreamQuery",
+      "nuget:version": "4.0.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.b2bi.4.0.5.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.B2bi",
+      "nuget:version": "4.0.5.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.serverlessapplicationrepository.4.0.2.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.ServerlessApplicationRepository",
+      "nuget:version": "4.0.2.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.awsmarketplacemetering.4.0.5.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.AWSMarketplaceMetering",
+      "nuget:version": "4.0.5.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.georoutes.4.0.7.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.GeoRoutes",
+      "nuget:version": "4.0.7.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.sso.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.SSO",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.appsync.4.0.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.AppSync",
+      "nuget:version": "4.0.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/i-synergy.framework.opentelemetry.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "I-Synergy.Framework.OpenTelemetry",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.s3vectors.4.0.6.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.S3Vectors",
+      "nuget:version": "4.0.6.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.waf.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.WAF",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/i-synergy.framework.physics.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "I-Synergy.Framework.Physics",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.39.30/awssdk.scheduler.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a8197ea9-d5b3-45de-a976-9dd7d6da50c6",
+      "commitTimeStamp": "2026-06-22T22:39:30.6086128Z",
+      "nuget:id": "AWSSDK.Scheduler",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.datasync.4.0.11.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.DataSync",
+      "nuget:version": "4.0.11.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.polly.4.0.7.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.Polly",
+      "nuget:version": "4.0.7.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.opensearchservice.4.0.24.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.OpenSearchService",
+      "nuget:version": "4.0.24.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.partnercentralchannel.4.0.2.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.PartnerCentralChannel",
+      "nuget:version": "4.0.2.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.verifiedpermissions.4.0.9.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.VerifiedPermissions",
+      "nuget:version": "4.0.9.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.printer.label.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.Printer.Label",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/cratis.chronicle.testing.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "Cratis.Chronicle.Testing",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.dataexchange.4.0.6.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.DataExchange",
+      "nuget:version": "4.0.6.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.mvvm.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.Mvvm",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.monitoring.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.Monitoring",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.personalize.4.0.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.Personalize",
+      "nuget:version": "4.0.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.messagebus.azure.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.MessageBus.Azure",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.extensions.crtintegration.4.0.0.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.Extensions.CrtIntegration",
+      "nuget:version": "4.0.0.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.transcribestreaming.4.0.7.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.TranscribeStreaming",
+      "nuget:version": "4.0.7.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.entityresolution.4.0.8.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.EntityResolution",
+      "nuget:version": "4.0.8.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.storage.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.Storage",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.opentelemetry.applicationinsights.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.OpenTelemetry.ApplicationInsights",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.route53recoveryreadiness.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.Route53RecoveryReadiness",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.healthlake.4.0.6.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.HealthLake",
+      "nuget:version": "4.0.6.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.fis.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.FIS",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.kinesisvideoarchivedmedia.4.0.2.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.KinesisVideoArchivedMedia",
+      "nuget:version": "4.0.2.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/i-synergy.framework.mail.sendgrid.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "I-Synergy.Framework.Mail.SendGrid",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.48/awssdk.oam.4.0.4.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e91debbf-4b90-4216-b84d-9c7d90e5f8f2",
+      "commitTimeStamp": "2026-06-22T22:38:48.7547575Z",
+      "nuget:id": "AWSSDK.OAM",
+      "nuget:version": "4.0.4.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.cloudsearch.4.0.2.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.CloudSearch",
+      "nuget:version": "4.0.2.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/cratis.chronicle.aspire.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "Cratis.Chronicle.Aspire",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.marketplacediscovery.4.0.1.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.MarketplaceDiscovery",
+      "nuget:version": "4.0.1.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.geomaps.4.0.6.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.GeoMaps",
+      "nuget:version": "4.0.6.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.printer.label.dymo.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.Printer.Label.Dymo",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.ui.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.UI",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.messagebus.rabbitmq.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.MessageBus.RabbitMQ",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.ui.winui.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.UI.WinUI",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.mail.microsoft365.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.Mail.Microsoft365",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.arczonalshift.4.0.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.ARCZonalShift",
+      "nuget:version": "4.0.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.repostspace.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.Repostspace",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.workspacesweb.4.0.10.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.WorkSpacesWeb",
+      "nuget:version": "4.0.10.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.quicksight.4.0.27.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.QuickSight",
+      "nuget:version": "4.0.27.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.socialmessaging.4.0.7.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.SocialMessaging",
+      "nuget:version": "4.0.7.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/cratis.chronicle.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "Cratis.Chronicle",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.cloudhsm.4.0.3.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.CloudHSM",
+      "nuget:version": "4.0.3.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.keyvault.openbao.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.KeyVault.OpenBao",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.computeoptimizer.4.0.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.ComputeOptimizer",
+      "nuget:version": "4.0.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.storage.azure.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.Storage.Azure",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.eventsourcing.storage.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.EventSourcing.Storage",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.opentelemetry.sentry.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.OpenTelemetry.Sentry",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/awssdk.bedrock.4.0.30.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "AWSSDK.Bedrock",
+      "nuget:version": "4.0.30.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.38.08/i-synergy.framework.ui.maui.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9d469fe-6c16-4fd9-9209-444d52435aaa",
+      "commitTimeStamp": "2026-06-22T22:38:08.5362107Z",
+      "nuget:id": "I-Synergy.Framework.UI.Maui",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.automations.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.Automations",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.elasticfilesystem.4.0.4.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.ElasticFileSystem",
+      "nuget:version": "4.0.4.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.awsmarketplacecommerceanalytics.4.0.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.AWSMarketplaceCommerceAnalytics",
+      "nuget:version": "4.0.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.eventsourcing.storage.azure.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.EventSourcing.Storage.Azure",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.applicationsignals.4.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.ApplicationSignals",
+      "nuget:version": "4.0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.contracts.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.Contracts",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.codeanalysis.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.CodeAnalysis",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.keyvault.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.KeyVault",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.notificationscontacts.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.NotificationsContacts",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.aspnetcore.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.AspNetCore",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.xunit.integration.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.XUnit.Integration",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.greengrassv2.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.GreengrassV2",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.aspnetcore.authentication.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.AspNetCore.Authentication",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.mail.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.Mail",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.monitoring.client.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.Monitoring.Client",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.route53recoverycontrolconfig.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.Route53RecoveryControlConfig",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.api.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.Api",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.lookoutequipment.4.0.2.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.LookoutEquipment",
+      "nuget:version": "4.0.2.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.messagebus.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.MessageBus",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.codeconnections.4.0.4.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.CodeConnections",
+      "nuget:version": "4.0.4.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.connections.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.Connections",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.eventsourcing.storage.s3.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.EventSourcing.Storage.S3",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.cqrs.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.CQRS",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.pinpoint.4.0.3.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.Pinpoint",
+      "nuget:version": "4.0.3.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.io.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.IO",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.keyvault.azure.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.KeyVault.Azure",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.eventsourcing.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.EventSourcing",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/cratis.chronicle.workbench.15.35.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "Cratis.Chronicle.Workbench",
+      "nuget:version": "15.35.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/awssdk.kinesisvideowebrtcstorage.4.0.3.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "AWSSDK.KinesisVideoWebRTCStorage",
+      "nuget:version": "4.0.3.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.aspnetcore.monitoring.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.AspNetCore.Monitoring",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.aspnetcore.multitenancy.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.AspNetCore.MultiTenancy",
+      "nuget:version": "2026.10623.10006-preview"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.06.22.22.37.25/i-synergy.framework.globalization.2026.10623.10006-preview.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bedd59ca-2d17-4067-b2b9-7e052868f79d",
+      "commitTimeStamp": "2026-06-22T22:37:25.317216Z",
+      "nuget:id": "I-Synergy.Framework.Globalization",
+      "nuget:version": "2026.10623.10006-preview"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
