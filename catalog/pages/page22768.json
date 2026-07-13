@@ -1,0 +1,4057 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22768.json",
+  "@type": "CatalogPage",
+  "commitId": "1ea1845b-689f-4e96-ae88-10251143f9b2",
+  "commitTimeStamp": "2026-07-13T15:04:38.0354903Z",
+  "count": 503,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.04.38/neutrinoparticles.v1_2.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ea1845b-689f-4e96-ae88-10251143f9b2",
+      "commitTimeStamp": "2026-07-13T15:04:38.0354903Z",
+      "nuget:id": "NeutrinoParticles.V1_2",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.04.38/terrafluent.pdf.reporting.2.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ea1845b-689f-4e96-ae88-10251143f9b2",
+      "commitTimeStamp": "2026-07-13T15:04:38.0354903Z",
+      "nuget:id": "TerraFluent.Pdf.Reporting",
+      "nuget:version": "2.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.04.01/soenneker.tests.benchmark.4.0.124.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f15595cd-89ff-4d39-8f12-46f7a41aa0de",
+      "commitTimeStamp": "2026-07-13T15:04:01.7668733Z",
+      "nuget:id": "Soenneker.Tests.Benchmark",
+      "nuget:version": "4.0.124"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.04.01/librewinforms.windowsformsintegration.0.1.0-preview.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f15595cd-89ff-4d39-8f12-46f7a41aa0de",
+      "commitTimeStamp": "2026-07-13T15:04:01.7668733Z",
+      "nuget:id": "LibreWinForms.WindowsFormsIntegration",
+      "nuget:version": "0.1.0-preview.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.03.26/messagehook.kafka.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ed3eb50-c5d1-48a3-bffd-3200ec0d2fd1",
+      "commitTimeStamp": "2026-07-13T15:03:26.7753284Z",
+      "nuget:id": "MessageHook.Kafka",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.03.26/librewinforms.sdk.0.1.0-preview.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ed3eb50-c5d1-48a3-bffd-3200ec0d2fd1",
+      "commitTimeStamp": "2026-07-13T15:03:26.7753284Z",
+      "nuget:id": "LibreWinForms.Sdk",
+      "nuget:version": "0.1.0-preview.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.02.50/librewinforms.system.windows.forms.0.1.0-preview.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8ed111e-81c6-4c8c-b84b-52d6fa7a83f8",
+      "commitTimeStamp": "2026-07-13T15:02:50.7359461Z",
+      "nuget:id": "LibreWinForms.System.Windows.Forms",
+      "nuget:version": "0.1.0-preview.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.02.50/existforall.simplesettings.binders.2.0.0-alpha.0.130.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8ed111e-81c6-4c8c-b84b-52d6fa7a83f8",
+      "commitTimeStamp": "2026-07-13T15:02:50.7359461Z",
+      "nuget:id": "ExistForAll.SimpleSettings.Binders",
+      "nuget:version": "2.0.0-alpha.0.130"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.02.14/existforall.simplesettings.core.aspnet.2.0.0-alpha.0.130.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "165be679-0ccb-4038-b3b2-8aeabb344b1e",
+      "commitTimeStamp": "2026-07-13T15:02:14.4800206Z",
+      "nuget:id": "ExistForAll.SimpleSettings.Core.AspNet",
+      "nuget:version": "2.0.0-alpha.0.130"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.02.14/existforall.simplesettings.2.0.0-alpha.0.130.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "165be679-0ccb-4038-b3b2-8aeabb344b1e",
+      "commitTimeStamp": "2026-07-13T15:02:14.4800206Z",
+      "nuget:id": "ExistForAll.SimpleSettings",
+      "nuget:version": "2.0.0-alpha.0.130"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.02.14/existforall.simplesettings.extensions.generichost.2.0.0-alpha.0.130.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "165be679-0ccb-4038-b3b2-8aeabb344b1e",
+      "commitTimeStamp": "2026-07-13T15:02:14.4800206Z",
+      "nuget:id": "ExistForAll.SimpleSettings.Extensions.GenericHost",
+      "nuget:version": "2.0.0-alpha.0.130"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.01.39/labapi.extensions.0.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "acec3428-4733-45e3-9c3d-e41ac7cdd68c",
+      "commitTimeStamp": "2026-07-13T15:01:39.726903Z",
+      "nuget:id": "LabApi.Extensions",
+      "nuget:version": "0.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.01.03/blueblazor.6.7.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "11c4799d-a940-4383-9617-85b746cb3d47",
+      "commitTimeStamp": "2026-07-13T15:01:03.3983847Z",
+      "nuget:id": "BlueBlazor",
+      "nuget:version": "6.7.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.00.26/pdf4llm.1.28.0-rc.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "87bfed2a-9595-4271-a58c-e35102c3ad18",
+      "commitTimeStamp": "2026-07-13T15:00:26.6916933Z",
+      "nuget:id": "PDF4LLM",
+      "nuget:version": "1.28.0-rc.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.00.26/ngs.modulehost.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "87bfed2a-9595-4271-a58c-e35102c3ad18",
+      "commitTimeStamp": "2026-07-13T15:00:26.6916933Z",
+      "nuget:id": "NGS.ModuleHost",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.15.00.26/sunamowinstd.26.7.13.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "87bfed2a-9595-4271-a58c-e35102c3ad18",
+      "commitTimeStamp": "2026-07-13T15:00:26.6916933Z",
+      "nuget:id": "SunamoWinStd",
+      "nuget:version": "26.7.13.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.59.10/krosoft.extensions.jobs.hangfire.2026.7.13.8174.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f02dd9ce-a164-461f-bda5-92d50f1ebccf",
+      "commitTimeStamp": "2026-07-13T14:59:10.78666Z",
+      "nuget:id": "Krosoft.Extensions.Jobs.Hangfire",
+      "nuget:version": "2026.7.13.8174"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.59.10/funfair.codeanalysis.7.2.8.2188-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f02dd9ce-a164-461f-bda5-92d50f1ebccf",
+      "commitTimeStamp": "2026-07-13T14:59:10.78666Z",
+      "nuget:id": "FunFair.CodeAnalysis",
+      "nuget:version": "7.2.8.2188-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.58/beep.dal.settings.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0594cfce-7afb-498f-bc1a-b0d792e41e94",
+      "commitTimeStamp": "2026-07-13T14:57:58.1940693Z",
+      "nuget:id": "Beep.DAL.Settings",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/cretnet.blazor.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "CretNet.Blazor",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/umbraco.forms.staticassets.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Umbraco.Forms.StaticAssets",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/beep.dal.queries.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Beep.DAL.Queries",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/beep.dal.provider.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Beep.DAL.Provider",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/beep.dal.queries.benchmarks.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Beep.DAL.Queries.Benchmarks",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/umbraco.forms.examine.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Umbraco.Forms.Examine",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.57.22/beep.dal.base.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9d76b7cc-2013-42ff-a184-41da6886c3d7",
+      "commitTimeStamp": "2026-07-13T14:57:22.5831833Z",
+      "nuget:id": "Beep.DAL.Base",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/camusdb.sqlsh.0.5.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "CamusDB.SqlSh",
+      "nuget:version": "0.5.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/baseforge.api.0.3.2-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "BaseForge.API",
+      "nuget:version": "0.3.2-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/beep.dal.converter.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "Beep.DAL.Converter",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/cretnet.platform.data.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "CretNet.Platform.Data",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/cretnet.fluentvalidation.dependencyinjection.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "CretNet.FluentValidation.DependencyInjection",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/beep.dal.core.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "Beep.DAL.Core",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/beep.dal.engine.1.1.1-build.278.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "Beep.DAL.Engine",
+      "nuget:version": "1.1.1-build.278"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/cretnet.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "CretNet",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.47/cretnet.platform.blazor.server.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8650a9ea-6430-4ad1-a21f-0e1019a6ef2f",
+      "commitTimeStamp": "2026-07-13T14:56:47.0347611Z",
+      "nuget:id": "CretNet.Platform.Blazor.Server",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.playground.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Playground",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/umbraco.forms.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "Umbraco.Forms",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.blazor.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Blazor",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.data.abstractions.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Data.Abstractions",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.fluxor.generators.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Fluxor.Generators",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.storage.sharepoint.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Storage.Sharepoint",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/umbraco.forms.web.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "Umbraco.Forms.Web",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/umbraco.forms.core.providers.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "Umbraco.Forms.Core.Providers",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/umbraco.forms.core.13.9.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "Umbraco.Forms.Core",
+      "nuget:version": "13.9.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.fluxor.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Fluxor",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.webapi.utilities.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.WebApi.Utilities",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/cretnet.platform.storage.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "CretNet.Platform.Storage",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.56.12/baseforge.core.0.3.2-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05a9c512-0b20-49f9-9ab1-0c6848603027",
+      "commitTimeStamp": "2026-07-13T14:56:12.106273Z",
+      "nuget:id": "BaseForge.Core",
+      "nuget:version": "0.3.2-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.55.37/bt.redirectmanager.1.8.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6699e03f-b161-470a-acb7-5444c04e5cb6",
+      "commitTimeStamp": "2026-07-13T14:55:37.5837553Z",
+      "nuget:id": "BT.RedirectManager",
+      "nuget:version": "1.8.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.55.37/fnlquerybuilder.0.2.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6699e03f-b161-470a-acb7-5444c04e5cb6",
+      "commitTimeStamp": "2026-07-13T14:55:37.5837553Z",
+      "nuget:id": "FNLQueryBuilder",
+      "nuget:version": "0.2.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.55.37/baseforge.tools.0.3.2-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6699e03f-b161-470a-acb7-5444c04e5cb6",
+      "commitTimeStamp": "2026-07-13T14:55:37.5837553Z",
+      "nuget:id": "BaseForge.Tools",
+      "nuget:version": "0.3.2-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.55.37/baseforge.codegen.0.3.2-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6699e03f-b161-470a-acb7-5444c04e5cb6",
+      "commitTimeStamp": "2026-07-13T14:55:37.5837553Z",
+      "nuget:id": "BaseForge.CodeGen",
+      "nuget:version": "0.3.2-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.54.59/baseforge.infrastructure.0.3.2-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "afe3d976-8dd3-46ae-8af9-3e1455a45e6e",
+      "commitTimeStamp": "2026-07-13T14:54:59.59206Z",
+      "nuget:id": "BaseForge.Infrastructure",
+      "nuget:version": "0.3.2-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.54.20/pulsetrade.comm.spa.dynamic.0.1.3-beta82.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c3afc164-f955-405d-b55a-a568a26fb05d",
+      "commitTimeStamp": "2026-07-13T14:54:20.9779959Z",
+      "nuget:id": "PulseTrade.Comm.Spa.Dynamic",
+      "nuget:version": "0.1.3-beta82"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/dotnet-rivet.0.41.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "dotnet-rivet",
+      "nuget:version": "0.41.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/pulsetrade.comm.resourcenode.sqlserver.0.1.0-alpha17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "PulseTrade.Comm.ResourceNode.SqlServer",
+      "nuget:version": "0.1.0-alpha17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/aidotnet.native.clblast.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "AiDotNet.Native.CLBlast",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/pulsetrade.comm.spa.host.taresearch.client.0.1.0-alpha15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "PulseTrade.Comm.Spa.Host.TAResearch.Client",
+      "nuget:version": "0.1.0-alpha15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/aidotnet.native.cuda.fragments.2.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.2",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/pulsetrade.comm.login.pcsl.0.1.0-alpha34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "PulseTrade.Comm.Login.Pcsl",
+      "nuget:version": "0.1.0-alpha34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/pulsetrade.comm.resourcenode.taresearch.0.1.0-alpha2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "PulseTrade.Comm.ResourceNode.TAResearch",
+      "nuget:version": "0.1.0-alpha2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.44/aidotnet.native.cuda.fragments.3.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5377aa13-16c9-4252-9994-3aca1c0febe0",
+      "commitTimeStamp": "2026-07-13T14:53:44.3654461Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.3",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.resourcenode.pcsl.0.1.0-alpha29.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.ResourceNode.Pcsl",
+      "nuget:version": "0.1.0-alpha29"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.spa.dynamic.ptcs.0.1.0-alpha7-win16.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.Spa.Dynamic.Ptcs",
+      "nuget:version": "0.1.0-alpha7-win16"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.native.cuda.fragments.1.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.1",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/com.etsoo.serviceapp.1.3.48.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "com.etsoo.ServiceApp",
+      "nuget:version": "1.3.48"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.native.cuda.fragments.4.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.4",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.native.cuda.fragments.8.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.8",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.spa.login.0.1.0-alpha30.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.Spa.Login",
+      "nuget:version": "0.1.0-alpha30"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.spa.dynamic.ptcs.client.0.1.0-alpha8-win17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.Spa.Dynamic.Ptcs.Client",
+      "nuget:version": "0.1.0-alpha8-win17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.resourcenode.durableproxy.0.1.0-alpha41.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.ResourceNode.DurableProxy",
+      "nuget:version": "0.1.0-alpha41"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.native.cuda.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Native.CUDA",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.tensors.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Tensors",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.spa.acl.0.1.0-alpha28.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.Spa.ACL",
+      "nuget:version": "0.1.0-alpha28"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/aidotnet.native.rocm.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "AiDotNet.Native.ROCm",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.53.07/pulsetrade.comm.gw.ptcs.1.0.0-beta20.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "72cb1e61-34db-4211-9927-028a028e2b11",
+      "commitTimeStamp": "2026-07-13T14:53:07.4628231Z",
+      "nuget:id": "PulseTrade.Comm.GW.PTCS",
+      "nuget:version": "1.0.0-beta20"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.cuda.fragments.6.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.6",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.cuda.fragments.5.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.5",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/pulsetrade.comm.spa.0.2.5-beta93.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "PulseTrade.Comm.Spa",
+      "nuget:version": "0.2.5-beta93"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/rivet.attributes.0.41.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "Rivet.Attributes",
+      "nuget:version": "0.41.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.cuda.fragments.7.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.CUDA.Fragments.7",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/kokos-me-dotnet-evodoc-sign.sdk.1.0.0-dev-2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "kokos-me-dotnet-evodoc-sign.SDK",
+      "nuget:version": "1.0.0-dev-2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.openblas.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.OpenBLAS",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.onednn.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.OneDNN",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/aidotnet.native.moltenvk.0.114.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "AiDotNet.Native.MoltenVK",
+      "nuget:version": "0.114.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.52.29/cratis.arc.proxygenerator.build.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4abdaac2-5c61-4400-afea-3fa3d3df5359",
+      "commitTimeStamp": "2026-07-13T14:52:29.0650389Z",
+      "nuget:id": "Cratis.Arc.ProxyGenerator.Build",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.52/kokos-me-dotnet-evodoc-sign.shared.1.0.0-dev-2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "de04bf0d-bb59-494e-a973-aa9b795599db",
+      "commitTimeStamp": "2026-07-13T14:51:52.65895Z",
+      "nuget:id": "kokos-me-dotnet-evodoc-sign.Shared",
+      "nuget:version": "1.0.0-dev-2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.52/cratis.arc.proxygenerator.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "de04bf0d-bb59-494e-a973-aa9b795599db",
+      "commitTimeStamp": "2026-07-13T14:51:52.65895Z",
+      "nuget:id": "Cratis.Arc.ProxyGenerator",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.17/cratis.arc.mongodb.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43f3026c-fdb0-47bf-b601-0a3420bb2a84",
+      "commitTimeStamp": "2026-07-13T14:51:17.4999342Z",
+      "nuget:id": "Cratis.Arc.MongoDB",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.17/cratis.arc.chronicle.codeanalysis.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43f3026c-fdb0-47bf-b601-0a3420bb2a84",
+      "commitTimeStamp": "2026-07-13T14:51:17.4999342Z",
+      "nuget:id": "Cratis.Arc.Chronicle.CodeAnalysis",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.17/cratis.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43f3026c-fdb0-47bf-b601-0a3420bb2a84",
+      "commitTimeStamp": "2026-07-13T14:51:17.4999342Z",
+      "nuget:id": "Cratis",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.51.17/dotstat.sdmxmodels.2.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43f3026c-fdb0-47bf-b601-0a3420bb2a84",
+      "commitTimeStamp": "2026-07-13T14:51:17.4999342Z",
+      "nuget:id": "DotStat.SdmxModels",
+      "nuget:version": "2.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.codeanalysis.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.CodeAnalysis",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.chronicle.testing.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Chronicle.Testing",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.core.codeanalysis.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Core.CodeAnalysis",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/photinox.blazor.4.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "PhotinoX.Blazor",
+      "nuget:version": "4.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.testing.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Testing",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/onescriptrt.10.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "OneScriptRT",
+      "nuget:version": "10.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.testing.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Testing",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.swagger.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Swagger",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.openapi.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.OpenApi",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.core.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Core",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/cratis.arc.chronicle.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "Cratis.Arc.Chronicle",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.40/gdl.idas.webapi.client.wpf.2026.7.13.1013.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b901250d-f5dd-4ddb-ab57-2c9032218540",
+      "commitTimeStamp": "2026-07-13T14:50:40.1406943Z",
+      "nuget:id": "GDL.IDAS.WebApi.Client.Wpf",
+      "nuget:version": "2026.7.13.1013"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.04/onescript.interview.10.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49ac2c6-73db-45fc-8e18-f22eb40e2b4f",
+      "commitTimeStamp": "2026-07-13T14:50:04.4377621Z",
+      "nuget:id": "OneScript.Interview",
+      "nuget:version": "10.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.04/cratis.arc.entityframeworkcore.20.54.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49ac2c6-73db-45fc-8e18-f22eb40e2b4f",
+      "commitTimeStamp": "2026-07-13T14:50:04.4377621Z",
+      "nuget:id": "Cratis.Arc.EntityFrameworkCore",
+      "nuget:version": "20.54.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.50.04/onescript.runtime.10.0.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f49ac2c6-73db-45fc-8e18-f22eb40e2b4f",
+      "commitTimeStamp": "2026-07-13T14:50:04.4377621Z",
+      "nuget:id": "OneScript.Runtime",
+      "nuget:version": "10.0.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.49.29/gdl.idas.contracts.2026.7.13.1013.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "380fd693-8358-47ca-a2a2-338f46ea7495",
+      "commitTimeStamp": "2026-07-13T14:49:29.822557Z",
+      "nuget:id": "GDL.IDAS.Contracts",
+      "nuget:version": "2026.7.13.1013"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.49.29/gdl.idas.crypto.2026.7.13.1013.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "380fd693-8358-47ca-a2a2-338f46ea7495",
+      "commitTimeStamp": "2026-07-13T14:49:29.822557Z",
+      "nuget:id": "GDL.IDAS.Crypto",
+      "nuget:version": "2026.7.13.1013"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.49.29/pulumi.kubernetescertmanager.0.3.0-alpha.1783951944.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "380fd693-8358-47ca-a2a2-338f46ea7495",
+      "commitTimeStamp": "2026-07-13T14:49:29.822557Z",
+      "nuget:id": "Pulumi.KubernetesCertManager",
+      "nuget:version": "0.3.0-alpha.1783951944"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.48.54/stylesharp.analyzers.3.21.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cc892f2-e0b1-4b20-851c-831c183591ab",
+      "commitTimeStamp": "2026-07-13T14:48:54.869579Z",
+      "nuget:id": "StyleSharp.Analyzers",
+      "nuget:version": "3.21.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.48.54/gdl.idas.logging.2026.7.13.1013.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cc892f2-e0b1-4b20-851c-831c183591ab",
+      "commitTimeStamp": "2026-07-13T14:48:54.869579Z",
+      "nuget:id": "GDL.IDAS.Logging",
+      "nuget:version": "2026.7.13.1013"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.48.54/gdl.idas.webapi.client.2026.7.13.1013.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7cc892f2-e0b1-4b20-851c-831c183591ab",
+      "commitTimeStamp": "2026-07-13T14:48:54.869579Z",
+      "nuget:id": "GDL.IDAS.WebApi.Client",
+      "nuget:version": "2026.7.13.1013"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/simplyworks.bus.rabbitmqviewer.8.1.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "SimplyWorks.Bus.RabbitMqViewer",
+      "nuget:version": "8.1.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/voalle.voallehub.sdk.1.1.80.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "Voalle.VoalleHub.SDK",
+      "nuget:version": "1.1.80"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/voalle.voallehub.sdk.1.1.78.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "Voalle.VoalleHub.SDK",
+      "nuget:version": "1.1.78"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/simplyworks.bus.8.1.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "SimplyWorks.Bus",
+      "nuget:version": "8.1.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/simplyworks.bitween.sdk.8.1.58.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "SimplyWorks.Bitween.Sdk",
+      "nuget:version": "8.1.58"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/voalle.voallehub.sdk.1.1.79.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "Voalle.VoalleHub.SDK",
+      "nuget:version": "1.1.79"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.44/performancesharp.analyzers.3.21.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9966ecfb-ce33-4ccb-8ddc-20d36a442ec5",
+      "commitTimeStamp": "2026-07-13T14:47:44.0926818Z",
+      "nuget:id": "PerformanceSharp.Analyzers",
+      "nuget:version": "3.21.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.06/simplyworks.surl.sdk.8.0.65.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8148882-5e00-4efa-a579-5a60030d3301",
+      "commitTimeStamp": "2026-07-13T14:47:06.7484394Z",
+      "nuget:id": "SimplyWorks.Surl.Sdk",
+      "nuget:version": "8.0.65"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.06/samsara.sdk.0.5.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8148882-5e00-4efa-a579-5a60030d3301",
+      "commitTimeStamp": "2026-07-13T14:47:06.7484394Z",
+      "nuget:id": "Samsara.Sdk",
+      "nuget:version": "0.5.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.06/simplyworks.bus.rabbitmqextensions.8.1.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8148882-5e00-4efa-a579-5a60030d3301",
+      "commitTimeStamp": "2026-07-13T14:47:06.7484394Z",
+      "nuget:id": "SimplyWorks.Bus.RabbitMqExtensions",
+      "nuget:version": "8.1.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.06/greatutilities.infrastructure.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8148882-5e00-4efa-a579-5a60030d3301",
+      "commitTimeStamp": "2026-07-13T14:47:06.7484394Z",
+      "nuget:id": "GreatUtilities.Infrastructure",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.47.06/umbraco.forms.staticassets.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c8148882-5e00-4efa-a579-5a60030d3301",
+      "commitTimeStamp": "2026-07-13T14:47:06.7484394Z",
+      "nuget:id": "Umbraco.Forms.StaticAssets",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/umbraco.forms.staticassets.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "Umbraco.Forms.StaticAssets",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/adv.3.3.9-alpha.0.3563.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "adv",
+      "nuget:version": "3.3.9-alpha.0.3563"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/com.etsoo.coreframework.1.5.92.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "com.etsoo.CoreFramework",
+      "nuget:version": "1.5.92"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/greatutilities.sharedlibrary.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "GreatUtilities.SharedLibrary",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/coflnet.sky.settings.client.0.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "Coflnet.Sky.Settings.Client",
+      "nuget:version": "0.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.46.30/greatutilities.data.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d311608c-8e6c-4fa2-9f66-0518d3b89941",
+      "commitTimeStamp": "2026-07-13T14:46:30.9329687Z",
+      "nuget:id": "GreatUtilities.Data",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/com.etsoo.web.1.3.94.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "com.etsoo.Web",
+      "nuget:version": "1.3.94"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/greatutilities.web.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "GreatUtilities.Web",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/simplyworks.efcoreextensions.pgsql.8.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "SimplyWorks.EfCoreExtensions.PgSql",
+      "nuget:version": "8.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/umbraco.forms.core.providers.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Umbraco.Forms.Core.Providers",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/com.etsoo.database.1.1.91.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "com.etsoo.Database",
+      "nuget:version": "1.1.91"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/com.etsoo.messagequeue.1.1.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "com.etsoo.MessageQueue",
+      "nuget:version": "1.1.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/umbraco.forms.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Umbraco.Forms",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/soenneker.monday.graphqlclient.4.0.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Soenneker.Monday.GraphQlClient",
+      "nuget:version": "4.0.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/umbraco.forms.web.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Umbraco.Forms.Web",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/simplyworks.efcoreextensions.8.1.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "SimplyWorks.EfCoreExtensions",
+      "nuget:version": "8.1.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/umbraco.forms.examine.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Umbraco.Forms.Examine",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/umbraco.forms.web.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "Umbraco.Forms.Web",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/com.etsoo.webutils.1.1.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "com.etsoo.WebUtils",
+      "nuget:version": "1.1.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/greatutilities.sourcegenerators.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "GreatUtilities.SourceGenerators",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.56/greatutilities.core.0.1.559-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57b1752b-469d-4bb2-ba72-3826dead1f93",
+      "commitTimeStamp": "2026-07-13T14:45:56.0886046Z",
+      "nuget:id": "GreatUtilities.Core",
+      "nuget:version": "0.1.559-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/umbraco.forms.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Umbraco.Forms",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/simplyworks.cqapi.8.2.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "SimplyWorks.CqApi",
+      "nuget:version": "8.2.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/umbraco.forms.core.18.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Umbraco.Forms.Core",
+      "nuget:version": "18.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/umbraco.forms.core.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Umbraco.Forms.Core",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/umbraco.forms.core.providers.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Umbraco.Forms.Core.Providers",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/umbraco.forms.examine.17.4.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Umbraco.Forms.Examine",
+      "nuget:version": "17.4.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/hikyaku.kaido.kafka.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "Hikyaku.Kaido.Kafka",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.45.18/simplyworks.cloudfiles.gc.extensions.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9681cd96-aa96-4bdb-b69b-94d12ccf5e30",
+      "commitTimeStamp": "2026-07-13T14:45:18.5561475Z",
+      "nuget:id": "SimplyWorks.CloudFiles.GC.Extensions",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/curiosity.frontend.26.7.2581.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "Curiosity.FrontEnd",
+      "nuget:version": "26.7.2581"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/simplyworks.cloudfiles.s3.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "SimplyWorks.CloudFiles.S3",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/xdcommons.excel.2604.101.86.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "XDCommons.Excel",
+      "nuget:version": "2604.101.86"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/simplyworks.cloudfiles.gc.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "SimplyWorks.CloudFiles.GC",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/com.etsoo.utils.1.2.33.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "com.etsoo.Utils",
+      "nuget:version": "1.2.33"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/curiosity.frontend.admin.26.7.2581.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "Curiosity.FrontEnd.Admin",
+      "nuget:version": "26.7.2581"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/simplyworks.cloudfiles.as.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "SimplyWorks.CloudFiles.AS",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/sw.emaileditor.1.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "SW.EmailEditor",
+      "nuget:version": "1.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/xdcommons.ui.2512.1012.81.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "XDCommons.UI",
+      "nuget:version": "2512.1012.81"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.42/simplyworks.cloudfiles.localtests.extensions.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6f931ff1-4860-4615-9760-aeaea82e832a",
+      "commitTimeStamp": "2026-07-13T14:44:42.5967674Z",
+      "nuget:id": "SimplyWorks.CloudFiles.LocalTests.Extensions",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/xdcommons.excel.2604.404.83.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "XDCommons.Excel",
+      "nuget:version": "2604.404.83"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/xdcommons.2604.101.88.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "XDCommons",
+      "nuget:version": "2604.101.88"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/xdcommons.2604.404.85.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "XDCommons",
+      "nuget:version": "2604.404.85"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/simplyworks.cloudfiles.as.extensions.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "SimplyWorks.CloudFiles.AS.Extensions",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/simplyworks.cloudfiles.oc.extensions.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "SimplyWorks.CloudFiles.OC.Extensions",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/simplyworks.cloudfiles.localtests.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "SimplyWorks.CloudFiles.LocalTests",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/simplyworks.cloudfiles.s3.extensions.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "SimplyWorks.CloudFiles.S3.Extensions",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.44.05/simplyworks.cloudfiles.oc.8.1.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "62abdf9a-5b3e-43c2-8637-49b5dfc5f4e0",
+      "commitTimeStamp": "2026-07-13T14:44:05.5099524Z",
+      "nuget:id": "SimplyWorks.CloudFiles.OC",
+      "nuget:version": "8.1.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/curiosity.frontend.api.26.7.2581.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "Curiosity.FrontEnd.API",
+      "nuget:version": "26.7.2581"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/dmon.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "dmon",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/funfair.buildversion.detection.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "FunFair.BuildVersion.Detection",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/xdcommons.2606.1.80.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "XDCommons",
+      "nuget:version": "2606.1.80"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/curiosity.components.26.7.2581.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "Curiosity.Components",
+      "nuget:version": "26.7.2581"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.43.30/dmon.providers.openai.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "88509b29-3029-47e8-91ce-056a19363a0f",
+      "commitTimeStamp": "2026-07-13T14:43:30.5569476Z",
+      "nuget:id": "Dmon.Providers.OpenAI",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/funfair.buildversion.publishers.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "FunFair.BuildVersion.Publishers",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/dmon.providers.anthropic.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Dmon.Providers.Anthropic",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/dmon.network.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Dmon.Network",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/dmon.tools.dmail.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Dmon.Tools.Dmail",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.serverless.8.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.Serverless",
+      "nuget:version": "8.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/hikyaku.kaido.stats.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Hikyaku.Kaido.Stats",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.excelimport.8.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.ExcelImport",
+      "nuget:version": "8.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/funfair.buildversion.win-arm64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "FunFair.BuildVersion.win-arm64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.serverless.sdk.8.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.Serverless.Sdk",
+      "nuget:version": "8.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.excelimport.extensions.8.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.ExcelImport.Extensions",
+      "nuget:version": "8.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/curiosity.frontend.core.26.7.2581.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Curiosity.FrontEnd.Core",
+      "nuget:version": "26.7.2581"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/hikyaku.mcp.server.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Hikyaku.MCP.Server",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/dmon.providers.gemini.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Dmon.Providers.Gemini",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.primitivetypes.8.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.PrimitiveTypes",
+      "nuget:version": "8.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/dmon.providers.ollama.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "Dmon.Providers.Ollama",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/simplyworks.httpextensions.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "SimplyWorks.HttpExtensions",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.53/funfair.buildversion.linux-x64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "916d13b4-87ad-4feb-ac4d-658897ad2a9a",
+      "commitTimeStamp": "2026-07-13T14:42:53.9009396Z",
+      "nuget:id": "FunFair.BuildVersion.linux-x64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/funfair.buildversion.osx-arm64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "FunFair.BuildVersion.osx-arm64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/hikyaku.kaido.rabbitmq.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Hikyaku.Kaido.RabbitMQ",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/funfair.buildversion.interfaces.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "FunFair.BuildVersion.Interfaces",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/hikyaku.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Hikyaku",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/dmoncore.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "dmoncore",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/simplyworks.exporttoexcel.8.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "SimplyWorks.ExportToExcel",
+      "nuget:version": "8.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/hikyaku.mcp.contracts.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Hikyaku.MCP.Contracts",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/bancosbrasileiros.6.2.353.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "BancosBrasileiros",
+      "nuget:version": "6.2.353"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/hikyaku.kaido.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Hikyaku.Kaido",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/funfair.buildversion.win-x64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "FunFair.BuildVersion.win-x64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/funfair.buildversion.linux-arm64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "FunFair.BuildVersion.linux-arm64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/dmon.providers.mlx.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Dmon.Providers.Mlx",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/simplyworks.logger.elasticsearch.8.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "SimplyWorks.Logger.ElasticSearch",
+      "nuget:version": "8.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/simplyworks.i18n.service.8.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "SimplyWorks.I18n.Service",
+      "nuget:version": "8.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/simplyworks.scheduler.pgsql.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "SimplyWorks.Scheduler.PgSql",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/hikyaku.kaido.grpc.10.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "Hikyaku.Kaido.GRPC",
+      "nuget:version": "10.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.42.16/funfair.buildversion.gittagbuildnumber.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "28434f05-dd6c-4df5-aa2d-3a90599d427b",
+      "commitTimeStamp": "2026-07-13T14:42:16.7586535Z",
+      "nuget:id": "FunFair.BuildVersion.GitTagBuildNumber",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/ces.winform.ui.1.32.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Ces.WinForm.UI",
+      "nuget:version": "1.32.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.memory.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Memory",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.publishers.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.Publishers",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.osx-x64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.osx-x64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.osx-x64.6.2.19.2132-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.osx-x64",
+      "nuget:version": "6.2.19.2132-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.osx-arm64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.osx-arm64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.providers.llamacpp.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Providers.LlamaCpp",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.linux-x64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.linux-x64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/mvvmcross.plugin.visibility.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "MvvmCross.Plugin.Visibility",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.scheduler.viewer.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Scheduler.Viewer",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.scheduler.sqlserver.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Scheduler.SqlServer",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.providers.mtplx.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Providers.Mtplx",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.scheduler.efcore.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Scheduler.EfCore",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.memory.meko.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Memory.Meko",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.tools.builtin.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Tools.Builtin",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.tools.dcal.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Tools.Dcal",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.scheduler.mysql.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Scheduler.MySql",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.tools.websearch.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Tools.WebSearch",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/dmon.abstractions.0.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "Dmon.Abstractions",
+      "nuget:version": "0.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.logger.console.8.1.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Logger.Console",
+      "nuget:version": "8.1.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.win-arm64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.win-arm64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/funfair.buildversion.win-x64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "FunFair.BuildVersion.win-x64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/simplyworks.scheduler.sdk.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "SimplyWorks.Scheduler.Sdk",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/mvvmcross.plugin.fieldbinding.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "MvvmCross.Plugin.FieldBinding",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.39/onespansign.sdk.11.69.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f94f7c89-d7be-4dd6-a887-6de7088afc4d",
+      "commitTimeStamp": "2026-07-13T14:41:39.6172011Z",
+      "nuget:id": "OneSpanSign.Sdk",
+      "nuget:version": "11.69.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.droidx.swiperefreshlayout.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.DroidX.SwipeRefreshLayout",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.plugin.resxlocalization.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.Plugin.ResxLocalization",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/funfair.buildversion.interfaces.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "FunFair.BuildVersion.Interfaces",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/simplyworks.rediscounter.8.0.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "SimplyWorks.RedisCounter",
+      "nuget:version": "8.0.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.tests.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.Tests",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/retrosharp.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "RetroSharp",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.plugin.json.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.Plugin.Json",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/funfair.buildversion.linux-arm64.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "FunFair.BuildVersion.linux-arm64",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/simplyworks.i18n.sdk.8.0.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "SimplyWorks.I18n.Sdk",
+      "nuget:version": "8.0.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/simplyworks.scheduler.8.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "SimplyWorks.Scheduler",
+      "nuget:version": "8.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.plugin.color.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.Plugin.Color",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/retrosharp.tool.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "RetroSharp.Tool",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/simplyworks.pdftemplarclient.8.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "SimplyWorks.PdfTemplarClient",
+      "nuget:version": "8.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.platforms.wpf.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.Platforms.Wpf",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.41.02/mvvmcross.droidx.material.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "71f462af-b367-445d-83b1-56d662632e2f",
+      "commitTimeStamp": "2026-07-13T14:41:02.1016821Z",
+      "nuget:id": "MvvmCross.DroidX.Material",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.plugin.messenger.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Plugin.Messenger",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/retrosharp.sdk.frontend.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "RetroSharp.Sdk.Frontend",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/retrosharp.generation.intermediate.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "RetroSharp.Generation.Intermediate",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/funfair.buildversion.detection.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "FunFair.BuildVersion.Detection",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.plugin.methodbinding.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Plugin.MethodBinding",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/cosmonova.engine.postgres.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "CosmoNova.Engine.Postgres",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.platforms.winui.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Platforms.WinUI",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/retrosharp.sdk.plugins.platformer2d.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "RetroSharp.Sdk.Plugins.Platformer2D",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.droidx.recyclerview.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.DroidX.RecyclerView",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/funfair.buildversion.gittagbuildnumber.6.2.19.2131-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "FunFair.BuildVersion.GitTagBuildNumber",
+      "nuget:version": "6.2.19.2131-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/zafiro.compilers.sixty502dotnet.shared.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "Zafiro.Compilers.Sixty502DotNet.Shared",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/cosmokv.cli.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "CosmoKv.Cli",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.plugin.resourceloader.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Plugin.ResourceLoader",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.plugin.jsonlocalization.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Plugin.JsonLocalization",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.droidx.leanback.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.DroidX.Leanback",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.40.25/mvvmcross.plugin.all.10.1.2-g8195b91a97.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cce726ba-14a2-4106-beea-125839aa9022",
+      "commitTimeStamp": "2026-07-13T14:40:25.6798437Z",
+      "nuget:id": "MvvmCross.Plugin.All",
+      "nuget:version": "10.1.2-g8195b91a97"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmosqlclient.cosmokv.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoSQLClient.CosmoKv",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/alis.core.physic.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Alis.Core.Physic",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/porticle.grpc.typemapper.1.14.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Porticle.Grpc.TypeMapper",
+      "nuget:version": "1.14.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmonova.storage.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoNova.Storage",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/alis.extension.graphic.sdl2.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Alis.Extension.Graphic.Sdl2",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/arbeidstilsynet.receiver.1.8.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Arbeidstilsynet.Receiver",
+      "nuget:version": "1.8.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/retrosharp.parser.model.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "RetroSharp.Parser.Model",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/retrosharp.core.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "RetroSharp.Core",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/alis.core.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Alis.Core",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/adv.3.3.9-alpha.0.3559.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "adv",
+      "nuget:version": "3.3.9-alpha.0.3559"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/retrosharp.semanticanalysis.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "RetroSharp.SemanticAnalysis",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmosqlclient.sqlite.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoSQLClient.Sqlite",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmonova.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoNova",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/retrosharp.parser.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "RetroSharp.Parser",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/alis.core.audio.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Alis.Core.Audio",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/testz80assembler.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "TestZ80Assembler",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmosqlclient.cosmokv.cli.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoSQLClient.CosmoKv.Cli",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/zafiro.compilers.z80dotnet.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "Zafiro.Compilers.Z80DotNet",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmoblob.client.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoBlob.Client",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/cosmonova.engine.abstractions.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "CosmoNova.Engine.Abstractions",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.46/retrosharp.z80.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c3caf34-a796-4e5f-81b1-11c9da833d31",
+      "commitTimeStamp": "2026-07-13T14:39:46.3519151Z",
+      "nuget:id": "RetroSharp.Z80",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/alis.core.graphic.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "Alis.Core.Graphic",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/retrosharp.gameboy.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "RetroSharp.GameBoy",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/retrosharp.nes.0.0.311.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "RetroSharp.NES",
+      "nuget:version": "0.0.311"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/alis.extension.thread.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "Alis.Extension.Thread",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/alis.extension.media.ffmpeg.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "Alis.Extension.Media.FFmpeg",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/alis.extension.network.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "Alis.Extension.Network",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.39.10/alis.extension.graphic.sfml.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0a4730e7-8992-454f-ae5d-31051b3bd3d5",
+      "commitTimeStamp": "2026-07-13T14:39:10.2856799Z",
+      "nuget:id": "Alis.Extension.Graphic.Sfml",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.38.33/alis.extension.language.translator.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64cfa1be-7f18-4ee0-af5d-1a0a11425354",
+      "commitTimeStamp": "2026-07-13T14:38:33.2592089Z",
+      "nuget:id": "Alis.Extension.Language.Translator",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.38.33/alis.extension.updater.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64cfa1be-7f18-4ee0-af5d-1a0a11425354",
+      "commitTimeStamp": "2026-07-13T14:38:33.2592089Z",
+      "nuget:id": "Alis.Extension.Updater",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.38.33/alis.extension.graphic.ui.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64cfa1be-7f18-4ee0-af5d-1a0a11425354",
+      "commitTimeStamp": "2026-07-13T14:38:33.2592089Z",
+      "nuget:id": "Alis.Extension.Graphic.Ui",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.38.33/alis.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64cfa1be-7f18-4ee0-af5d-1a0a11425354",
+      "commitTimeStamp": "2026-07-13T14:38:33.2592089Z",
+      "nuget:id": "Alis",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.38.33/alis.extension.security.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "64cfa1be-7f18-4ee0-af5d-1a0a11425354",
+      "commitTimeStamp": "2026-07-13T14:38:33.2592089Z",
+      "nuget:id": "Alis.Extension.Security",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.language.dialogue.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Language.Dialogue",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.core.ecs.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Core.Ecs",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.payment.stripe.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Payment.Stripe",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.math.proceduraldungeon.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Math.ProceduralDungeon",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.profile.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Profile",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.cloud.googledrive.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Cloud.GoogleDrive",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.math.highspeedpriorityqueue.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Math.HighSpeedPriorityQueue",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.57/alis.extension.io.filedialog.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "59a003ce-81b8-44c1-a0f6-315e8d775796",
+      "commitTimeStamp": "2026-07-13T14:37:57.8059216Z",
+      "nuget:id": "Alis.Extension.Io.FileDialog",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/alis.core.aspect.data.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Alis.Core.Aspect.Data",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/alis.core.aspect.memory.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Alis.Core.Aspect.Memory",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/kokos-me-dotnet-evodoc-evocache.sdk.2.0.0-feature.implementazione-evoproxy-2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Kokos-me-dotnet-evodoc-evocache.SDK",
+      "nuget:version": "2.0.0-feature.implementazione-evoproxy-2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/onescriptrt.10.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "OneScriptRT",
+      "nuget:version": "10.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/netcoremongo.1.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "NetCoreMongo",
+      "nuget:version": "1.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/alis.extension.graphic.glfw.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Alis.Extension.Graphic.Glfw",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/alis.extension.ads.googleads.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Alis.Extension.Ads.GoogleAds",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.37.20/alis.extension.cloud.dropbox.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "74edd1db-bb0c-4b1a-90fa-65699f18db7e",
+      "commitTimeStamp": "2026-07-13T14:37:20.1967675Z",
+      "nuget:id": "Alis.Extension.Cloud.DropBox",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.42/alis.core.aspect.logging.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "706bd797-4020-4c75-9e78-77a891fda89b",
+      "commitTimeStamp": "2026-07-13T14:36:42.7393253Z",
+      "nuget:id": "Alis.Core.Aspect.Logging",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.42/alis.core.aspect.fluent.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "706bd797-4020-4c75-9e78-77a891fda89b",
+      "commitTimeStamp": "2026-07-13T14:36:42.7393253Z",
+      "nuget:id": "Alis.Core.Aspect.Fluent",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.42/alis.core.aspect.math.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "706bd797-4020-4c75-9e78-77a891fda89b",
+      "commitTimeStamp": "2026-07-13T14:36:42.7393253Z",
+      "nuget:id": "Alis.Core.Aspect.Math",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.42/alis.core.aspect.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "706bd797-4020-4c75-9e78-77a891fda89b",
+      "commitTimeStamp": "2026-07-13T14:36:42.7393253Z",
+      "nuget:id": "Alis.Core.Aspect",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.42/alis.core.aspect.time.1.0.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "706bd797-4020-4c75-9e78-77a891fda89b",
+      "commitTimeStamp": "2026-07-13T14:36:42.7393253Z",
+      "nuget:id": "Alis.Core.Aspect.Time",
+      "nuget:version": "1.0.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/onescript.interview.10.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "OneScript.Interview",
+      "nuget:version": "10.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/misaconnect.einvoice.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "MisaConnect.EInvoice",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/kokos-me-dotnet-evodoc-evocache.shared.2.0.0-feature.implementazione-evoproxy-2.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "Kokos-me-dotnet-evodoc-evocache.Shared",
+      "nuget:version": "2.0.0-feature.implementazione-evoproxy-2.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/xframework.pos.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "XFramework.POS.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/xframework.communications.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "XFramework.Communications.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/bolt.net.server.1.0.0-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "Bolt.Net.Server",
+      "nuget:version": "1.0.0-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.36.07/trival.lib.main.teste.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "78c4ec93-7bb3-4e68-8745-b8f218a938d0",
+      "commitTimeStamp": "2026-07-13T14:36:07.3857759Z",
+      "nuget:id": "Trival.Lib.Main.Teste",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.bolt.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Bolt.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.identityserver.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.IdentityServer.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.notifications.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Notifications.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/bolt.net.media.1.0.0-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "Bolt.Net.Media",
+      "nuget:version": "1.0.0-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.pos.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.POS.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.inventario.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Inventario.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/cosmosqlclient.mssql.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "CosmoSQLClient.MsSql",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.wallets.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Wallets.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.notifications.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Notifications.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.smsgateway.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.SmsGateway.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/devcom.agenticruntime.plugin.googleworkspace.1.0.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "DevCom.AgenticRuntime.Plugin.GoogleWorkspace",
+      "nuget:version": "1.0.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/cosmosqlclient.mssql.pipelines.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "CosmoSQLClient.MsSql.Pipelines",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.community.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Community.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/misaconnect.esign.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "MisaConnect.ESign",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.storage.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Storage.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.storage.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Storage.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.wallets.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Wallets.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/cosmosqlclient.tds.protocol.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "CosmoSQLClient.Tds.Protocol",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.inventario.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Inventario.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/bolt.net.client.1.0.0-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "Bolt.Net.Client",
+      "nuget:version": "1.0.0-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.smsgateway.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.SmsGateway.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.community.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Community.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.identityserver.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.IdentityServer.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.attendance.integration.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Attendance.Integration",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/xframework.domain.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "XFramework.Domain",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.35.31/late.0.0.459.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "81b15d54-b401-4c53-bc3b-d62aa0ade098",
+      "commitTimeStamp": "2026-07-13T14:35:31.1670299Z",
+      "nuget:id": "Late",
+      "nuget:version": "0.0.459"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/xframework.communications.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "XFramework.Communications.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/bolt.net.media.browser.1.0.0-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "Bolt.Net.Media.Browser",
+      "nuget:version": "1.0.0-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/xfeed.infrastructure.common.1.20260713.1430.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "Xfeed.Infrastructure.Common",
+      "nuget:version": "1.20260713.1430"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.mssql.entityframeworkcore.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.MsSql.EntityFrameworkCore",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.core.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.Core",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.postgres.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.Postgres",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.mysql.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.MySql",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.postgres.entityframeworkcore.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.Postgres.EntityFrameworkCore",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/onescript.runtime.10.0.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "OneScript.Runtime",
+      "nuget:version": "10.0.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/xframework.attendance.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "XFramework.Attendance.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.cosmokvpipes.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.CosmoKvPipes",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/bolt.net.protocol.1.0.0-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "Bolt.Net.Protocol",
+      "nuget:version": "1.0.0-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/xframework.payments.domain.shared.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "XFramework.Payments.Domain.Shared",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/cosmosqlclient.mysql.entityframeworkcore.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "CosmoSQLClient.MySql.EntityFrameworkCore",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.55/xframework.core.1.0.1-dev.212.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "be305c7d-1e4a-4962-abda-0b94fa8f3d7c",
+      "commitTimeStamp": "2026-07-13T14:34:55.0155987Z",
+      "nuget:id": "XFramework.Core",
+      "nuget:version": "1.0.1-dev.212"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.19/cosmosqlclient.cosmokvhttp.6.63.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66180573-1ad0-4527-8ffa-45a76987ee9d",
+      "commitTimeStamp": "2026-07-13T14:34:19.1355886Z",
+      "nuget:id": "CosmoSQLClient.CosmoKvHttp",
+      "nuget:version": "6.63.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.34.19/voalle.voallehub.sdk.1.1.80.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "66180573-1ad0-4527-8ffa-45a76987ee9d",
+      "commitTimeStamp": "2026-07-13T14:34:19.1355886Z",
+      "nuget:id": "Voalle.VoalleHub.SDK",
+      "nuget:version": "1.1.80"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.45/zernio.0.0.459.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6eab833e-b364-4b66-a1c2-1760c41c15b6",
+      "commitTimeStamp": "2026-07-13T14:33:45.8245278Z",
+      "nuget:id": "Zernio",
+      "nuget:version": "0.0.459"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/late.0.0.458.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "Late",
+      "nuget:version": "0.0.458"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/hsu.formats.dataset.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "Hsu.Formats.Dataset",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/hsu.formats.replay.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "Hsu.Formats.Replay",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/hsu.formats.converters.firmware.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "Hsu.Formats.Converters.Firmware",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/hsu.formats.converters.trace.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "Hsu.Formats.Converters.Trace",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.33.08/eo.webbrowser.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "518682e4-d101-4218-bc8f-cf21b143e574",
+      "commitTimeStamp": "2026-07-13T14:33:08.262207Z",
+      "nuget:id": "EO.WebBrowser",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.32.31/hsu.formats.trace.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d8858de-5227-4548-b966-c92c1647a858",
+      "commitTimeStamp": "2026-07-13T14:32:31.8890268Z",
+      "nuget:id": "Hsu.Formats.Trace",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.32.31/infragistics.querybuilder.executor.1.0.2-prerelease.24.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d8858de-5227-4548-b966-c92c1647a858",
+      "commitTimeStamp": "2026-07-13T14:32:31.8890268Z",
+      "nuget:id": "Infragistics.QueryBuilder.Executor",
+      "nuget:version": "1.0.2-prerelease.24"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.32.31/dh.nmqtt.4.24.2026.713-beta1428.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d8858de-5227-4548-b966-c92c1647a858",
+      "commitTimeStamp": "2026-07-13T14:32:31.8890268Z",
+      "nuget:id": "DH.NMQTT",
+      "nuget:version": "4.24.2026.713-beta1428"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.32.31/hsu.formats.abstractions.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5d8858de-5227-4548-b966-c92c1647a858",
+      "commitTimeStamp": "2026-07-13T14:32:31.8890268Z",
+      "nuget:id": "Hsu.Formats.Abstractions",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.56/hsu.formats.firmware.2026.7.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "598fe638-bf35-4b07-b695-a528285b47f8",
+      "commitTimeStamp": "2026-07-13T14:31:56.6294196Z",
+      "nuget:id": "Hsu.Formats.Firmware",
+      "nuget:version": "2026.7.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.mstest.sdk.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.MsTest.Sdk",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.minimalapi.sdk.contracts.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.MinimalApi.Sdk.Contracts",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/eo.wpf.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "EO.Wpf",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.minimalapi.sdk.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.MinimalApi.Sdk",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.lambda.mstest.sdk.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.Lambda.MsTest.Sdk",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.dbprovider.contracts.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.DbProvider.Contracts",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/eo.webbrowser.wpf.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "EO.WebBrowser.Wpf",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.dbprovider.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.DbProvider",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.lambda.sdk.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.Lambda.Sdk",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.errorhandling.contracts.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.ErrorHandling.Contracts",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/siemens.aspnet.errorhandling.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Siemens.AspNet.ErrorHandling",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.31.21/pulumi.aws.7.36.0-alpha.1783945431.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "43960322-de1b-4178-bd3f-6b99d81f3ac7",
+      "commitTimeStamp": "2026-07-13T14:31:21.9870242Z",
+      "nuget:id": "Pulumi.Aws",
+      "nuget:version": "7.36.0-alpha.1783945431"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/fluidfences.1.3.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "FluidFences",
+      "nuget:version": "1.3.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/eo.web.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "EO.Web",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/eo.pdf.winform.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "EO.Pdf.WinForm",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/siemens.aspnet.lambda.sdk.contracts.7.6.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "Siemens.AspNet.Lambda.Sdk.Contracts",
+      "nuget:version": "7.6.5+1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/eo.extensions.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "EO.Extensions",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/zernio.0.0.458.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "Zernio",
+      "nuget:version": "0.0.458"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.46/eo.webbrowser.winform.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "30e735c2-842a-4b48-8e82-be501e80e996",
+      "commitTimeStamp": "2026-07-13T14:30:46.1835097Z",
+      "nuget:id": "EO.WebBrowser.WinForm",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.10/radzen.blazor.11.1.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "10e5e75c-664b-42ce-8b3f-0c813eb17290",
+      "commitTimeStamp": "2026-07-13T14:30:10.6177135Z",
+      "nuget:id": "Radzen.Blazor",
+      "nuget:version": "11.1.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.10/anthodingo.setup.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "10e5e75c-664b-42ce-8b3f-0c813eb17290",
+      "commitTimeStamp": "2026-07-13T14:30:10.6177135Z",
+      "nuget:id": "AnthoDingo.Setup",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.30.10/eo.pdf.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "10e5e75c-664b-42ce-8b3f-0c813eb17290",
+      "commitTimeStamp": "2026-07-13T14:30:10.6177135Z",
+      "nuget:id": "EO.Pdf",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.29.35/eo.pdf.wpf.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "021f01d6-f7a0-488b-96d4-418baa79cc84",
+      "commitTimeStamp": "2026-07-13T14:29:35.1731993Z",
+      "nuget:id": "EO.Pdf.Wpf",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.29.35/eo.pdf.mvc.26.2.42.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "021f01d6-f7a0-488b-96d4-418baa79cc84",
+      "commitTimeStamp": "2026-07-13T14:29:35.1731993Z",
+      "nuget:id": "EO.Pdf.Mvc",
+      "nuget:version": "26.2.42"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.29.35/kokos-me-dotnet-evodoc-sign.sdk.1.0.0-feature.feature-implementazione-webapi.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "021f01d6-f7a0-488b-96d4-418baa79cc84",
+      "commitTimeStamp": "2026-07-13T14:29:35.1731993Z",
+      "nuget:id": "kokos-me-dotnet-evodoc-sign.SDK",
+      "nuget:version": "1.0.0-feature.feature-implementazione-webapi.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.29.35/opentelemetry.instrumentation.hangfire.1.16.0-beta.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "021f01d6-f7a0-488b-96d4-418baa79cc84",
+      "commitTimeStamp": "2026-07-13T14:29:35.1731993Z",
+      "nuget:id": "OpenTelemetry.Instrumentation.Hangfire",
+      "nuget:version": "1.16.0-beta.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/funfair.buildversion.osx-arm64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "FunFair.BuildVersion.osx-arm64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/foxcart.payments.stripe.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "FoxCart.Payments.Stripe",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/infragistics.querybuilder.executor.1.0.2-prerelease.23.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "Infragistics.QueryBuilder.Executor",
+      "nuget:version": "1.0.2-prerelease.23"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/funfair.buildversion.win-x64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "FunFair.BuildVersion.win-x64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/kokos-me-dotnet-evodoc-sign.shared.1.0.0-feature.feature-implementazione-webapi.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "kokos-me-dotnet-evodoc-sign.Shared",
+      "nuget:version": "1.0.0-feature.feature-implementazione-webapi.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.28.24/pidgeonhealth.cli.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e24416cc-7f4d-40b6-a660-c81f66a4b37a",
+      "commitTimeStamp": "2026-07-13T14:28:24.3400322Z",
+      "nuget:id": "PidgeonHealth.CLI",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/funfair.buildversion.gittagbuildnumber.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FunFair.BuildVersion.GitTagBuildNumber",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/funfair.buildversion.publishers.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FunFair.BuildVersion.Publishers",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/foxcart.data.sqlserver.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FoxCart.Data.SQLServer",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/foxcart.data.sqlite.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FoxCart.Data.SQLite",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/funfair.buildversion.win-arm64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FunFair.BuildVersion.win-arm64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/pidgeon.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "pidgeon",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/funfair.buildversion.interfaces.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FunFair.BuildVersion.Interfaces",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/funfair.buildversion.linux-arm64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "FunFair.BuildVersion.linux-arm64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.49/synqpaydriver.0.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0cd8d32-01b4-480b-96d5-29ec7f2393d6",
+      "commitTimeStamp": "2026-07-13T14:27:49.5864682Z",
+      "nuget:id": "SynqpayDriver",
+      "nuget:version": "0.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/chillicream.nitro.adapters.mcp.16.5.0-p.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/foxcart.payments.invoice.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FoxCart.Payments.Invoice",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/mvvmcross.plugin.resxlocalization.10.1.2-g22c2635520.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "MvvmCross.Plugin.ResxLocalization",
+      "nuget:version": "10.1.2-g22c2635520"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/icetea.wpf.core.1.4.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "IceTea.Wpf.Core",
+      "nuget:version": "1.4.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/funfair.buildversion.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FunFair.BuildVersion",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/chillicream.nitro.adapters.mcp.16.5.0-p.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/funfair.buildversion.linux-x64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FunFair.BuildVersion.linux-x64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/pidgeon.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "pidgeon",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/chillicream.nitro.adapters.mcp.16.5.0-p.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/chillicream.nitro.adapters.mcp.16.5.0-p.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/funfair.buildversion.osx-x64.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FunFair.BuildVersion.osx-x64",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/chillicream.nitro.adapters.mcp.16.5.0-p.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/foxcart.views.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FoxCart.Views",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.27.12/funfair.buildversion.detection.6.2.19.2130-pre-commit-fixe.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "60fd611c-72f7-4368-9f7e-8ea9a5cf94b3",
+      "commitTimeStamp": "2026-07-13T14:27:12.6021835Z",
+      "nuget:id": "FunFair.BuildVersion.Detection",
+      "nuget:version": "6.2.19.2130-pre-commit-fixe"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/camusdb.entityframeworkcore.0.5.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "CamusDB.EntityFrameworkCore",
+      "nuget:version": "0.5.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/foxcart.payments.mollie.2.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "FoxCart.Payments.Mollie",
+      "nuget:version": "2.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/mvvmcross.droidx.leanback.10.1.2-g22c2635520.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "MvvmCross.DroidX.Leanback",
+      "nuget:version": "10.1.2-g22c2635520"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/mvvmcross.platforms.winui.10.1.2-g22c2635520.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "MvvmCross.Platforms.WinUI",
+      "nuget:version": "10.1.2-g22c2635520"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/mvvmcross.platforms.wpf.10.1.2-g22c2635520.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "MvvmCross.Platforms.Wpf",
+      "nuget:version": "10.1.2-g22c2635520"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.14.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.14"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.packaging.16.5.0-p.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp.Packaging",
+      "nuget:version": "16.5.0-p.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.18.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.18"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.packaging.16.5.0-p.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi.Packaging",
+      "nuget:version": "16.5.0-p.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.openapi.16.5.0-p.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.OpenApi",
+      "nuget:version": "16.5.0-p.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.07.13.14.26.36/chillicream.nitro.adapters.mcp.16.5.0-p.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a6279793-e31b-411a-a9ca-3f37b3bb69e2",
+      "commitTimeStamp": "2026-07-13T14:26:36.4911978Z",
+      "nuget:id": "ChilliCream.Nitro.Adapters.Mcp",
+      "nuget:version": "16.5.0-p.3"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
