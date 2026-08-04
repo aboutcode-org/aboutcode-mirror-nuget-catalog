@@ -1,0 +1,2921 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page22893.json",
+  "@type": "CatalogPage",
+  "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+  "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+  "count": 361,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomrissync.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/microsoft.agents.builder.testing.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Microsoft.Agents.Builder.Testing",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomrissync.synchron.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Synchron.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomsplitting.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomSplitting.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/microsoft.agents.client.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Microsoft.Agents.Client",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/microsoft.agents.builder.dialogs.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Microsoft.Agents.Builder.Dialogs",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/ww.cad.avalonia_net8.0.8.0.2026.8041-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "WW.Cad.Avalonia_Net8.0",
+      "nuget:version": "8.0.2026.8041-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomsplitting.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomSplitting.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomsplitting.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomSplitting.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomrissync.synchron.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Synchron",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/opentap.templates.9.34.0-beta.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "OpenTap.Templates",
+      "nuget:version": "9.34.0-beta.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/mgsoftdev.knowledgehub.storage.litedb.0.7.1-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "MgSoftDev.KnowledgeHub.Storage.LiteDb",
+      "nuget:version": "0.7.1-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/microsoft.agents.hosting.aspnetcore.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Microsoft.Agents.Hosting.AspNetCore",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomrissync.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/microsoft.agents.builder.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Microsoft.Agents.Builder",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/kayisoft.abp.dicomrissync.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.56.20/ww_net8.0.8.0.2026.8041-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12677d94-8fb8-43b8-860c-621a0789f727",
+      "commitTimeStamp": "2026-08-04T10:56:20.0829455Z",
+      "nuget:id": "WW_Net8.0",
+      "nuget:version": "8.0.2026.8041-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/sdlvulkan.renderer.webview.native.7.9.2051.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "SdlVulkan.Renderer.WebView.Native",
+      "nuget:version": "7.9.2051+db197af9252e0372c3fb8c3b5351b91b2d45f146"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/microsoft.agents.core.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Microsoft.Agents.Core",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomquerymanagement.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomrissync.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/sdlvulkan.renderer.webview.7.9.2051.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "SdlVulkan.Renderer.WebView",
+      "nuget:version": "7.9.2051+db197af9252e0372c3fb8c3b5351b91b2d45f146"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomrecycle.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/microsoft.agents.authentication.entraauthsidecar.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Microsoft.Agents.Authentication.EntraAuthSidecar",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomrecycle.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/mslx.sdk.1.5.6-dev-202608041852.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "MSLX.SDK",
+      "nuget:version": "1.5.6-dev-202608041852"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomrecycle.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/ww.cad_net8.0.8.0.2026.8041-trial.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "WW.Cad_Net8.0",
+      "nuget:version": "8.0.2026.8041-trial"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/microsoft.agents.extensions.teams.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Microsoft.Agents.Extensions.Teams",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/microsoft.agents.extensions.sharepoint.1.8.34-beta.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Microsoft.Agents.Extensions.SharePoint",
+      "nuget:version": "1.8.34-beta"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/kayisoft.abp.dicomrissync.synchron.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Synchron.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.42/sdlvulkan.renderer.inspector.7.9.2051.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "630f0185-aa69-4e75-bd6c-c30b6b077cd0",
+      "commitTimeStamp": "2026-08-04T10:55:42.0382013Z",
+      "nuget:id": "SdlVulkan.Renderer.Inspector",
+      "nuget:version": "7.9.2051+db197af9252e0372c3fb8c3b5351b91b2d45f146"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/rawcef.mac.1000.0.0-cef.151.3.14.ci.30902006736.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "RawCef.Mac",
+      "nuget:version": "1000.0.0-cef.151.3.14.ci.30902006736"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrissync.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/httpservices.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "HttpServices",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrecycle.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomquery.view.mysql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.MySQL",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/topsecret.protectedstring.xml.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "TopSecret.ProtectedString.Xml",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomquerymanagement.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrissync.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrecycle.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrissync.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrecycle.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomrissync.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomRisSync.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomquery.view.sqlserver.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.SqlServer",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.55.06/kayisoft.abp.dicomquerymanagement.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e6eff3f3-e40b-4c8e-870b-a8170ee313af",
+      "commitTimeStamp": "2026-08-04T10:55:06.2414966Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquery.view.gaussdb.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.GaussDB",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/propertymaster.dto.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "PropertyMaster.Dto",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedstring.linuxtpm.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedString.LinuxTpm",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedstring.configuration.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedString.Configuration",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/rawcef.linux.1000.0.0-cef.151.3.14.ci.30902006736.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "RawCef.Linux",
+      "nuget:version": "1000.0.0-cef.151.3.14.ci.30902006736"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/ncssbo.2603.2505.1.182.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "NCSSBO",
+      "nuget:version": "2603.2505.1.182"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedblob.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedBlob",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquery.view.oracle.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.Oracle",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquerymanagement.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquerymanagement.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedstring.windowstpm.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedString.WindowsTpm",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/rawcef.windows.1000.0.0-cef.151.3.14.ci.30902006736.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "RawCef.Windows",
+      "nuget:version": "1000.0.0-cef.151.3.14.ci.30902006736"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/influxdb3.client.1.10.0-dev.5933.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "InfluxDB3.Client",
+      "nuget:version": "1.10.0-dev.5933"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedstring.json.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedString.Json",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomrecycle.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquery.view.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomrecycle.clean.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomRecycle.Clean",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/topsecret.protectedstring.2.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "TopSecret.ProtectedString",
+      "nuget:version": "2.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquerymanagement.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicompushing.producer.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Producer.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicompushing.producer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Producer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.54.30/kayisoft.abp.dicomquerymanagement.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d9800560-d5ba-4548-85c8-7bc57108dff8",
+      "commitTimeStamp": "2026-08-04T10:54:30.173016Z",
+      "nuget:id": "Kayisoft.Abp.DicomQueryManagement.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicomquery.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicompushing.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicompushing.pushserver.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.PushServer",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicomquery.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/pulumi.aws.7.41.0-alpha.1785834415.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Pulumi.Aws",
+      "nuget:version": "7.41.0-alpha.1785834415"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicomquery.view.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicomquery.view.dm.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomQuery.View.DM",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicompushing.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.50/kayisoft.abp.dicompushing.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e62b7d9-7bbb-43c6-80ec-3f450c431962",
+      "commitTimeStamp": "2026-08-04T10:53:50.6724178Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.14/propertymaster.data.identifiers.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a300ccef-db27-4eed-958c-ef6ebaa6d6ec",
+      "commitTimeStamp": "2026-08-04T10:53:14.4532957Z",
+      "nuget:id": "PropertyMaster.Data.Identifiers",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.53.14/kayisoft.abp.dicompushing.producer.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a300ccef-db27-4eed-958c-ef6ebaa6d6ec",
+      "commitTimeStamp": "2026-08-04T10:53:14.4532957Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Producer.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/propertymaster.data.licensing.identifiers.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "PropertyMaster.Data.Licensing.Identifiers",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/soenneker.instantly.dfy.4.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "Soenneker.Instantly.Dfy",
+      "nuget:version": "4.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/nschema.5.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "NSchema",
+      "nuget:version": "5.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/propertymaster.dto.licensing.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "PropertyMaster.Dto.Licensing",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/propertymaster.business.services.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "PropertyMaster.Business.Services",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.38/kayisoft.abp.dicompushing.producer.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "91f3f17a-b9bb-413d-aa67-85f48205ca96",
+      "commitTimeStamp": "2026-08-04T10:52:38.8115146Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Producer.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.52.03/propertymaster.business.services.licensing.4.0.126.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ad8211af-b229-45dc-890e-e4fe919979b7",
+      "commitTimeStamp": "2026-08-04T10:52:03.3200176Z",
+      "nuget:id": "PropertyMaster.Business.Services.Licensing",
+      "nuget:version": "4.0.126"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.51.26/kayisoft.abp.dicompushing.consumer.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "992657a3-d264-456d-82c9-3449750ef1ce",
+      "commitTimeStamp": "2026-08-04T10:51:26.8356438Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Consumer",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.51.26/kayisoft.abp.dicompushing.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "992657a3-d264-456d-82c9-3449750ef1ce",
+      "commitTimeStamp": "2026-08-04T10:51:26.8356438Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.51.26/kayisoft.abp.dicompushing.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "992657a3-d264-456d-82c9-3449750ef1ce",
+      "commitTimeStamp": "2026-08-04T10:51:26.8356438Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.51/kayisoft.abp.dicompushing.consumer.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6fa93fbe-ce83-4cb5-8304-5317a18dd3ee",
+      "commitTimeStamp": "2026-08-04T10:50:51.5219342Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Consumer.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.51/kayisoft.abp.dicompushing.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6fa93fbe-ce83-4cb5-8304-5317a18dd3ee",
+      "commitTimeStamp": "2026-08-04T10:50:51.5219342Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.15/blazethespire.ritsulibmdk.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3eb96a58-2d3c-4e92-aefb-905f5fa3f235",
+      "commitTimeStamp": "2026-08-04T10:50:15.8335654Z",
+      "nuget:id": "BlazeTheSpire.RitsuLibMdk",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.15/kayisoft.abp.dicompushing.consumer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3eb96a58-2d3c-4e92-aefb-905f5fa3f235",
+      "commitTimeStamp": "2026-08-04T10:50:15.8335654Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Consumer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.15/kayisoft.abp.dicompushing.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3eb96a58-2d3c-4e92-aefb-905f5fa3f235",
+      "commitTimeStamp": "2026-08-04T10:50:15.8335654Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.15/kayisoft.abp.dicompushing.consumer.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3eb96a58-2d3c-4e92-aefb-905f5fa3f235",
+      "commitTimeStamp": "2026-08-04T10:50:15.8335654Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Consumer.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.50.15/kayisoft.abp.dicompushing.consumer.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3eb96a58-2d3c-4e92-aefb-905f5fa3f235",
+      "commitTimeStamp": "2026-08-04T10:50:15.8335654Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Consumer.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.49.03/tinweb.10.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "839aa425-e1dc-4781-953d-51e31ca7d26f",
+      "commitTimeStamp": "2026-08-04T10:49:03.1920843Z",
+      "nuget:id": "TinWeb",
+      "nuget:version": "10.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.49.03/kayisoft.abp.dicompermissionmanagement.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "839aa425-e1dc-4781-953d-51e31ca7d26f",
+      "commitTimeStamp": "2026-08-04T10:49:03.1920843Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.49.03/kayisoft.abp.dicompermissionmanagement.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "839aa425-e1dc-4781-953d-51e31ca7d26f",
+      "commitTimeStamp": "2026-08-04T10:49:03.1920843Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.48.26/kayisoft.abp.dicomnumbersmanagement.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c497d73-fff9-477d-89fa-2378dce843cb",
+      "commitTimeStamp": "2026-08-04T10:48:26.4577778Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.48.26/kayisoft.abp.dicompermissionmanagement.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c497d73-fff9-477d-89fa-2378dce843cb",
+      "commitTimeStamp": "2026-08-04T10:48:26.4577778Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.48.26/kayisoft.abp.dicompermissionmanagement.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c497d73-fff9-477d-89fa-2378dce843cb",
+      "commitTimeStamp": "2026-08-04T10:48:26.4577778Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicomnumbersmanagement.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicompermissionmanagement.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicompushing.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomPushing.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicompermissionmanagement.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicommerging.mongodb.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.MongoDB",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/volo.docs.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Volo.Docs.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicomnumbersmanagement.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/our.umbraco.postgresql.umbraco.forms.18.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Our.Umbraco.PostgreSql.Umbraco.Forms",
+      "nuget:version": "18.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.51/kayisoft.abp.dicompermissionmanagement.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e453b5c1-69fb-4f56-b080-276c0a9b84f9",
+      "commitTimeStamp": "2026-08-04T10:47:51.3921575Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/openur.ffprobestatic.9.0.0.408.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Openur.FFprobeStatic",
+      "nuget:version": "9.0.0.408"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicompermissionmanagement.domain.identity.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomPermissionManagement.Domain.Identity",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicomnumbersmanagement.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/mailstrom.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Mailstrom",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicomnumbersmanagement.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/katmatic.smartschool.1.2.0-ci122.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Katmatic.SmartSchool",
+      "nuget:version": "1.2.0-ci122"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicomnumbersmanagement.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/keyshot.sdk.cms.templating.2.0.0-beta2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "KeyShot.Sdk.Cms.Templating",
+      "nuget:version": "2.0.0-beta2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicomnumbersmanagement.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomNumbersManagement.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.47.13/kayisoft.abp.dicommerging.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b4e5fc45-9f48-4175-8a4b-76acb1bdaf1b",
+      "commitTimeStamp": "2026-08-04T10:47:13.6346294Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/katmatic.smartinventory.1.1.1-ci122.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Katmatic.SmartInventory",
+      "nuget:version": "1.1.1-ci122"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/kayisoft.abp.dicommatching.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/katmatic.core.1.2.0-ci122.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Katmatic.Core",
+      "nuget:version": "1.2.0-ci122"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/our.umbraco.postgresql.efcore.18.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Our.Umbraco.PostgreSql.EFCore",
+      "nuget:version": "18.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/kayisoft.abp.dicommerging.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/our.umbraco.postgresql.umbraco.license.18.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Our.Umbraco.PostgreSql.Umbraco.License",
+      "nuget:version": "18.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/our.umbraco.postgresql.18.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Our.Umbraco.PostgreSql",
+      "nuget:version": "18.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/kayisoft.abp.dicommatching.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.46.36/kayisoft.abp.dicommerging.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "af56cf17-783b-4d76-8643-61f269d07006",
+      "commitTimeStamp": "2026-08-04T10:46:36.3362363Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/volo.docs.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Volo.Docs.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommatching.producer.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Producer.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommerging.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommatching.producer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Producer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommatching.matcher.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Matcher",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommatching.producer.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Producer.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommatching.producer.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Producer.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommerging.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.56/kayisoft.abp.dicommerging.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bf22ffd2-e5d6-45b2-be57-53bdddd9ad8e",
+      "commitTimeStamp": "2026-08-04T10:45:56.6159914Z",
+      "nuget:id": "Kayisoft.Abp.DicomMerging.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/keyshot.sdk.cms.database.2.0.0-beta2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "KeyShot.Sdk.Cms.Database",
+      "nuget:version": "2.0.0-beta2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/volo.abp.backgroundjobs.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/dynatrace.oneagent.trimming.1.337.82.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "Dynatrace.OneAgent.Trimming",
+      "nuget:version": "1.337.82"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/volo.abp.featuremanagement.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "Volo.Abp.FeatureManagement.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/keyshot.sdk.cms.2.0.0-beta2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "KeyShot.Sdk.Cms",
+      "nuget:version": "2.0.0-beta2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/volo.docs.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "Volo.Docs.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.45.21/kayisoft.abp.dicommatching.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e72095bb-8832-428d-91e0-aa3f5f0a3564",
+      "commitTimeStamp": "2026-08-04T10:45:21.1295386Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/volo.docs.domain.shared.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "Volo.Docs.Domain.Shared",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/volo.docs.common.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "Volo.Docs.Common.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/kayisoft.abp.dicommatching.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/volo.abp.backgroundjobs.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/dgates.identity.notificationproviders.1.0.0-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "DGates.Identity.NotificationProviders",
+      "nuget:version": "1.0.0-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/itbees.ksef.fas.8.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "ITBees.Ksef.Fas",
+      "nuget:version": "8.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.44/volo.docs.mongodb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "2a6f9382-2504-4d4a-85ba-5a2d63370053",
+      "commitTimeStamp": "2026-08-04T10:44:44.5672215Z",
+      "nuget:id": "Volo.Docs.MongoDB",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.aspnetcore.components.server.mudblazorbasictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.Server.MudBlazorBasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.admin.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Admin.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.account.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.Account.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.application.contracts.shared.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Application.Contracts.Shared",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.common.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Common.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.admin.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Admin.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.admin.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Admin.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/kayisoft.abp.dicommatching.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.clientsimulation.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.ClientSimulation",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.basictheme.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.BasicTheme.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/kayisoft.abp.dicommatching.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/kayisoft.abp.dicommatching.consumer.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Consumer.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.domain.shared.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Domain.Shared",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.entityframeworkcore.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.EntityFrameworkCore",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.admin.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Admin.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.aspnetcore.components.webassembly.mudblazorbasictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorBasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.account.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.Account.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.admin.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Admin.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.admin.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Admin.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/rabbitsqllib.1.0.26.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "RabbitSqlLib",
+      "nuget:version": "1.0.26"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.docs.domain.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Docs.Domain",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.auditlogging.mongodb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.AuditLogging.MongoDB",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.entityframeworkcore.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.EntityFrameworkCore",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.auditlogging.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.AuditLogging.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.sourcecode.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.SourceCode",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/kayisoft.abp.dicommatching.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.blogging.admin.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Blogging.Admin.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.clientsimulation.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.ClientSimulation.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/kayisoft.abp.dicommatching.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.44.02/volo.abp.backgroundjobs.domain.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a9f9cb2a-e455-44bc-b175-03e23c79d7d9",
+      "commitTimeStamp": "2026-08-04T10:44:02.2236754Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.Domain",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.aspnetcore.mvc.ui.theme.basic.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Mvc.UI.Theme.Basic",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicommatching.consumer.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Consumer",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/link.cloud.core.shared.1.0.340.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Link.Cloud.Core.Shared",
+      "nuget:version": "1.0.340"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.ui.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.UI",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.aspnetcore.components.webassembly.basictheme.bundling.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme.Bundling",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.auditlogging.entityframeworkcore.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AuditLogging.EntityFrameworkCore",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.auditlogging.domain.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AuditLogging.Domain",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.admin.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.Admin.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.mongodb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.MongoDB",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.account.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.Account.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicomimport.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/itbees.ksef.credentials.8.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "ITBees.Ksef.Credentials",
+      "nuget:version": "8.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.backgroundjobs.entityframeworkcore.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.EntityFrameworkCore",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/webmarkupmin.nuglify.2.22.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "WebMarkupMin.NUglify",
+      "nuget:version": "2.22.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.admin.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.Admin.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.serialization.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.Serialization",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.account.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.Account.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicomimport.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/itbees.ksef.8.0.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "ITBees.Ksef",
+      "nuget:version": "8.0.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.admin.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.Admin.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.docs.common.application.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Docs.Common.Application",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicommatching.consumer.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Consumer.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.ui.navigation.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.UI.Navigation",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.aspnetcore.components.server.basictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.Server.BasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.validation.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.Validation.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.docs.common.httpapi.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Docs.Common.HttpApi.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.aspnetcore.components.web.basictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.Web.BasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.basictheme.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.BasicTheme.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.abp.aspnetcore.components.webassembly.mudblazorbasictheme.bundling.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorBasicTheme.Bundling",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/volo.blogging.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Volo.Blogging.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicommatching.consumer.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Consumer.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.43.23/kayisoft.abp.dicommatching.consumer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "46dce839-dd3c-4fa1-846f-d5b23cc90141",
+      "commitTimeStamp": "2026-08-04T10:43:23.6926063Z",
+      "nuget:id": "Kayisoft.Abp.DicomMatching.Consumer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.account.web.identityserver.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Account.Web.IdentityServer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.account.web.openiddict.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Account.Web.OpenIddict",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.cli.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Cli",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.aspnetcore.components.web.mudblazorbasictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.Web.MudBlazorBasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.blogging.domain.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Blogging.Domain",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.minify.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Minify",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.backgroundjobs.mongodb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.MongoDB",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomimport.producer.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Producer.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.aspnetcore.components.webassembly.basictheme.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.AspNetCore.Components.WebAssembly.BasicTheme",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomimport.producer.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Producer.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomcompression.postcompressor.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.PostCompressor.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.auditlogging.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.AuditLogging.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomimport.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.account.blazor.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Account.Blazor",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.entityframeworkcore.postgresql.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.EntityFrameworkCore.PostgreSql",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomimport.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.account.httpapi.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.Account.HttpApi",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.objectmapping.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.ObjectMapping",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.remoteservices.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.RemoteServices",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.auditlogging.domain.shared.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.AuditLogging.Domain.Shared",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomcompression.postcompressor.postgresql.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.PostCompressor.PostgreSql",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.testbase.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.TestBase",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/kayisoft.abp.dicomimport.producer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Producer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.texttemplating.core.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.TextTemplating.Core",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.40/volo.abp.rabbitmq.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "55ced420-7a38-45a5-a696-5a614e272cbc",
+      "commitTimeStamp": "2026-08-04T10:42:40.0676747Z",
+      "nuget:id": "Volo.Abp.RabbitMQ",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.maui.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Maui.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.timing.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Timing",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.mongodb.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.MongoDB",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomimport.producer.kafka.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Producer.Kafka",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomimport.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.account.installer.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Account.Installer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.account.application.contracts.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Account.Application.Contracts",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.postcompressor.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.PostCompressor",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.quartz.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Quartz",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/ccxt.4.5.71.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "ccxt",
+      "nuget:version": "4.5.71"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.settings.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Settings",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.kafka.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Kafka",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.uow.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Uow",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.httpapi.client.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.HttpApi.Client",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.swashbuckle.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Swashbuckle",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.sms.aliyun.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Sms.Aliyun",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.account.blazor.mudblazor.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Account.Blazor.MudBlazor",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.http.client.identitymodel.mauiblazor.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Http.Client.IdentityModel.MauiBlazor",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.postcompressor.activemq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.PostCompressor.ActiveMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.multitenancy.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.MultiTenancy",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.sms.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Sms",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.localization.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Localization",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.sms.tencentcloud.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Sms.TencentCloud",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.security.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Security",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.policy.httpapi.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.HttpApi",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.backgroundjobs.domain.shared.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.BackgroundJobs.Domain.Shared",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomimport.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.virtualfilesystem.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.VirtualFileSystem",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.texttemplating.razor.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.TextTemplating.Razor",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.identitymodel.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.IdentityModel",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.json.systemtextjson.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Json.SystemTextJson",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/volo.abp.validation.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Volo.Abp.Validation",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomcompression.postcompressor.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.PostCompressor.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.42.02/kayisoft.abp.dicomimport.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b7a89d2-9060-480f-addb-099dcb114f37",
+      "commitTimeStamp": "2026-08-04T10:42:02.9912605Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.fluentvalidation.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.FluentValidation",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomcompression.mongodb.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.MongoDB",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.client.dapr.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http.Client.Dapr",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomaccess.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.ldap.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Ldap.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.ldap.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Ldap",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.objectextending.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.ObjectExtending",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.mailkit.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.MailKit",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomaccess.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.distributedlocking.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.DistributedLocking",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.threading.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Threading",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.imaging.skiasharp.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Imaging.SkiaSharp",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.texttemplating.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.TextTemplating",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.texttemplating.scriban.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.TextTemplating.Scriban",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.memorydb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.MemoryDb",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.mongodb.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.MongoDB",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomaccess.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.localization.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Localization.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.client.identitymodel.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http.Client.IdentityModel",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomimport.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomImport.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.client.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http.Client",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.multitenancy.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.MultiTenancy.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/tsi.sharedkernel.4.10.8.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Tsi.SharedKernel",
+      "nuget:version": "4.10.8"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomcompression.policy.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomaccess.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/kayisoft.abp.dicomabnormal.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.json.newtonsoft.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Json.Newtonsoft",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.client.identitymodel.webassembly.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http.Client.IdentityModel.WebAssembly",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.mapperly.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Mapperly",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.specifications.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Specifications",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.json.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Json",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.http.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.Http.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.hangfire.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.HangFire",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.41.25/volo.abp.azureservicebus.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ebde555-f157-4373-a551-aa82024e332b",
+      "commitTimeStamp": "2026-08-04T10:41:25.0431557Z",
+      "nuget:id": "Volo.Abp.AzureServiceBus",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomaccess.application.contracts.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.Application.Contracts",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomaccess.qr.scp.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAccess.QR.SCP",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.mongodb.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.MongoDB",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.protocols.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.Protocols",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomcompression.policy.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Policy.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.features.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Features",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomcompression.application.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Application",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.entityframeworkcore.sqlite.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EntityFrameworkCore.Sqlite",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.exceptionhandling.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.ExceptionHandling",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.imaging.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Imaging.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomcompression.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.dapr.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Dapr",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.eventbus.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EventBus.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.globalfeatures.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.GlobalFeatures",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.blobstoring.aws.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Aws",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.imaging.magicknet.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Imaging.MagickNet",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.imaging.aspnetcore.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Imaging.AspNetCore",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kontent.ai.modelgenerator.10.3.0-beta-2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kontent.Ai.ModelGenerator",
+      "nuget:version": "10.3.0-beta-2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomcompression.domain.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomCompression.Domain",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.gdpr.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Gdpr.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.entityframeworkcore.sqlserver.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EntityFrameworkCore.SqlServer",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.http.client.web.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Http.Client.Web",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.json.abstractions.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Json.Abstractions",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.imaging.imagesharp.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Imaging.ImageSharp",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.entityframeworkcore.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.EntityFrameworkCore",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.guids.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.Guids",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.entityframeworkcore.mysql.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EntityFrameworkCore.MySQL",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.eventbus.kafka.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EventBus.Kafka",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicom.splitter.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.Dicom.Splitter",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.tickerq.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.TickerQ",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.blobstoring.azure.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.BlobStoring.Azure",
+      "nuget:version": "10.7.0-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.producer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.Producer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.consumer.rabbitmq.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.Consumer.RabbitMQ",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/kayisoft.abp.dicomabnormal.domain.shared.5.3.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Kayisoft.Abp.DicomAbnormal.Domain.Shared",
+      "nuget:version": "5.3.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.04.10.40.46/volo.abp.entityframeworkcore.mysql.pomelo.10.7.0-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1ebe2939-8d76-4102-9de6-ba78485539e6",
+      "commitTimeStamp": "2026-08-04T10:40:46.1218238Z",
+      "nuget:id": "Volo.Abp.EntityFrameworkCore.MySQL.Pomelo",
+      "nuget:version": "10.7.0-rc.1"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
