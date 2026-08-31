@@ -1,0 +1,105 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page23028.json",
+  "@type": "CatalogPage",
+  "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+  "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+  "count": 9,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/ktsu.ktsutools.sync.1.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "ktsu.KtsuTools.Sync",
+      "nuget:version": "1.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/soenneker.utils.json.4.0.2668.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "Soenneker.Utils.Json",
+      "nuget:version": "4.0.2668"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/soenneker.attio.openapiclientutil.4.0.39.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "Soenneker.Attio.OpenApiClientUtil",
+      "nuget:version": "4.0.39"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/ktsu.gitlfscache.tool.1.8.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "ktsu.GitLfsCache.Tool",
+      "nuget:version": "1.8.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/soenneker.docker.hub.openapiclient.4.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "Soenneker.Docker.Hub.OpenApiClient",
+      "nuget:version": "4.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/ktsu.appdatastorage.1.16.47.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "ktsu.AppDataStorage",
+      "nuget:version": "1.16.47"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/soenneker.servicebus.suite.4.0.3116.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "Soenneker.ServiceBus.Suite",
+      "nuget:version": "4.0.3116"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/soenneker.quo.openapiclientutil.4.0.144.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "Soenneker.Quo.OpenApiClientUtil",
+      "nuget:version": "4.0.144"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.08.31.23.14.34/ktsu.gitlfscache.1.8.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "755e27ce-522c-47df-9696-a47a87871a71",
+      "commitTimeStamp": "2026-08-31T23:14:34.0316758Z",
+      "nuget:id": "ktsu.GitLfsCache",
+      "nuget:version": "1.8.10"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
