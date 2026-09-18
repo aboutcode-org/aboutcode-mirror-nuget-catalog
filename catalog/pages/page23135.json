@@ -1,0 +1,2353 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page23135.json",
+  "@type": "CatalogPage",
+  "commitId": "9145f994-f9e0-4c1b-a948-bb5373c5e28f",
+  "commitTimeStamp": "2026-09-18T17:13:43.8279195Z",
+  "count": 290,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.13.43/daml.ledger.abstractions.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9145f994-f9e0-4c1b-a948-bb5373c5e28f",
+      "commitTimeStamp": "2026-09-18T17:13:43.8279195Z",
+      "nuget:id": "Daml.Ledger.Abstractions",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.13.43/daml.runtime.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9145f994-f9e0-4c1b-a948-bb5373c5e28f",
+      "commitTimeStamp": "2026-09-18T17:13:43.8279195Z",
+      "nuget:id": "Daml.Runtime",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.13.06/denny09310.aspnetcore.blazor.templates.1.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fae44aad-1553-4584-9c17-b31f4fcbda97",
+      "commitTimeStamp": "2026-09-18T17:13:06.7553082Z",
+      "nuget:id": "Denny09310.AspNetCore.Blazor.Templates",
+      "nuget:version": "1.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.13.06/daml.codegen.testing.conformance.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fae44aad-1553-4584-9c17-b31f4fcbda97",
+      "commitTimeStamp": "2026-09-18T17:13:06.7553082Z",
+      "nuget:id": "Daml.Codegen.Testing.Conformance",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.13.06/meetkai.mka1.0.11.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fae44aad-1553-4584-9c17-b31f4fcbda97",
+      "commitTimeStamp": "2026-09-18T17:13:06.7553082Z",
+      "nuget:id": "MeetKai.MKA1",
+      "nuget:version": "0.11.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.12.31/daml.codegen.csharp.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8058b621-036a-4da4-89f0-a526583ee4e6",
+      "commitTimeStamp": "2026-09-18T17:12:31.4892849Z",
+      "nuget:id": "Daml.Codegen.CSharp",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.12.31/zakmunitofworkservices.1.5.56.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8058b621-036a-4da4-89f0-a526583ee4e6",
+      "commitTimeStamp": "2026-09-18T17:12:31.4892849Z",
+      "nuget:id": "ZakmUnitOfWorkServices",
+      "nuget:version": "1.5.56"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.12.31/daml.ledger.abstractions.testing.conformance.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8058b621-036a-4da4-89f0-a526583ee4e6",
+      "commitTimeStamp": "2026-09-18T17:12:31.4892849Z",
+      "nuget:id": "Daml.Ledger.Abstractions.Testing.Conformance",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.12.31/daml.codegen.intermediate.0.5.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8058b621-036a-4da4-89f0-a526583ee4e6",
+      "commitTimeStamp": "2026-09-18T17:12:31.4892849Z",
+      "nuget:id": "Daml.Codegen.Intermediate",
+      "nuget:version": "0.5.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.11.56/ghul.compiler.59.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dad1dd7f-8d53-4129-9861-b406649d29f3",
+      "commitTimeStamp": "2026-09-18T17:11:56.7857342Z",
+      "nuget:id": "ghul.compiler",
+      "nuget:version": "59.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.10.45/ghul.analysis.protocol.59.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb87e82b-481d-4bb5-91cf-8eb275dbd423",
+      "commitTimeStamp": "2026-09-18T17:10:45.0583844Z",
+      "nuget:id": "ghul.analysis.protocol",
+      "nuget:version": "59.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.10.45/pulumi.kubernetes.4.35.0-alpha.1789747678.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bb87e82b-481d-4bb5-91cf-8eb275dbd423",
+      "commitTimeStamp": "2026-09-18T17:10:45.0583844Z",
+      "nuget:id": "Pulumi.Kubernetes",
+      "nuget:version": "4.35.0-alpha.1789747678"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.10.10/js65.browser.2.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "353233c1-ad1d-46b1-bf26-4453abf9152e",
+      "commitTimeStamp": "2026-09-18T17:10:10.6828309Z",
+      "nuget:id": "js65.browser",
+      "nuget:version": "2.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.09.35/purview.valueobjects.1.0.0-prerelease.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "894bee02-4754-45de-9d0e-59bf78231378",
+      "commitTimeStamp": "2026-09-18T17:09:35.6658847Z",
+      "nuget:id": "Purview.ValueObjects",
+      "nuget:version": "1.0.0-prerelease.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.08.55/js65.clearscript.2.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42416772-4ece-4f51-9e75-c8dae3f4f28e",
+      "commitTimeStamp": "2026-09-18T17:08:55.6341229Z",
+      "nuget:id": "js65.clearscript",
+      "nuget:version": "2.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.08.55/js65.hermes.2.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42416772-4ece-4f51-9e75-c8dae3f4f28e",
+      "commitTimeStamp": "2026-09-18T17:08:55.6341229Z",
+      "nuget:id": "js65.hermes",
+      "nuget:version": "2.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.08.20/actualchat.core.2.21.209-alpha-ge8e5197c9b.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c706cf0-4bc1-4b39-afd2-cb04d0c9d611",
+      "commitTimeStamp": "2026-09-18T17:08:20.9139122Z",
+      "nuget:id": "ActualChat.Core",
+      "nuget:version": "2.21.209-alpha-ge8e5197c9b"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.08.20/ghul.cli.0.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c706cf0-4bc1-4b39-afd2-cb04d0c9d611",
+      "commitTimeStamp": "2026-09-18T17:08:20.9139122Z",
+      "nuget:id": "ghul.cli",
+      "nuget:version": "0.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.08.20/credfeto.docker.healthcheck.http.client.0.0.80.1157-main.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1c706cf0-4bc1-4b39-afd2-cb04d0c9d611",
+      "commitTimeStamp": "2026-09-18T17:08:20.9139122Z",
+      "nuget:id": "Credfeto.Docker.HealthCheck.Http.Client",
+      "nuget:version": "0.0.80.1157-main"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/js65.interop.2.0.21.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "js65.interop",
+      "nuget:version": "2.0.21"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.web.mvc5.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.Web.Mvc5.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.expressapp.multitenancy.webapi.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.WebApi.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.wpf.prismadapters.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.Wpf.PrismAdapters.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.wpf.spellchecker.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.Wpf.SpellChecker.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.wpf.core.extensions.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.Wpf.Core.Extensions.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.expressapp.security.aspnetcore.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.AspNetCore",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.expressapp.aspnetcore.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.ExpressApp.AspNetCore.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.aiintegration.blazor.richedit.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.RichEdit.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.aiintegration.winforms.reporting.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.AIIntegration.WinForms.Reporting",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.aiintegration.blazor.chat.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Chat.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.expressapp.win.all.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.ExpressApp.Win.All.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.aiintegration.azure.textanalytics.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.AIIntegration.Azure.TextAnalytics.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.42/devexpress.win.scheduler.googlecalendar.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e14cee32-3f46-450d-af12-6c5914239f7a",
+      "commitTimeStamp": "2026-09-18T17:07:42.0698142Z",
+      "nuget:id": "DevExpress.Win.Scheduler.GoogleCalendar.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.reporting.core.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Reporting.Core.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devextreme.aspnet.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExtreme.AspNet.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.printing.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Printing",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.drawing.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Drawing.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.blazor.chat.webview.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Chat.WebView.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.maui.projecttemplates.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.MAUI.ProjectTemplates",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.docs.presentation.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Docs.Presentation",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.charts.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Charts.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.efcore.extensions.blazor.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.EFCore.Extensions.Blazor.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.map.core.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Map.Core.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.validation.win.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Validation.Win",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.blazor.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.charts.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Charts",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.wpf.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Wpf.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.webapi.efcore.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.WebApi.EFCore.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.drawing.skia.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Drawing.Skia",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.win.design.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Win.Design.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aspnetcore.dashboard.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AspNetCore.Dashboard.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.scaffolding.core.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Scaffolding.Core.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.efcore.extensions.blazor.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.EFCore.Extensions.Blazor.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.document.processor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Document.Processor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.docs.pdf.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Docs.Pdf",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.printing.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Printing.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.core.all.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Core.All.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.pivotgrid.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.PivotGrid.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.pdf.skiarenderer.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Pdf.SkiaRenderer.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.treelisteditors.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.TreeListEditors.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.dashboard.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Dashboard.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.notifications.win.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Notifications.Win.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.treelisteditors.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.TreeListEditors.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.xpo.extensions.blazor.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.scaffolding.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Scaffolding.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.office.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Office",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.easytest.blazoradapter.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.EasyTest.BlazorAdapter.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.fileattachment.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.FileAttachment.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.statemachine.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.StateMachine.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.treemap.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.TreeMap.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/ecassistant.console.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "ECAssistant.Console",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.schedulerextensions.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.SchedulerExtensions.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.dashboards.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.wpf.chat.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Wpf.Chat",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.themes.office2010silver.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Themes.Office2010Silver",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.mvc5.dashboard.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Mvc5.Dashboard",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.ai.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.AI.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.desktop.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Desktop.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.blazor.resources.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Blazor.Resources",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.efcore.extensions.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.EFCore.Extensions.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.blazor.dashboard.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Blazor.Dashboard",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.office.core.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Office.Core.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.typedstyles.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.TypedStyles.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.audittrail.efcore.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.AuditTrail.EFCore.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.blazor.chat.webview.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Chat.WebView.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.reportsv2.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.ReportsV2.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.webapi.xpo.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.WebApi.Xpo.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.aspnetcore.efcore.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.AspNetCore.EFCore.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.data.desktop.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Data.Desktop.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.win.efcore.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Win.EFCore.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.drawing.skia.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Drawing.Skia.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.dashboards.win.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.Win",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.dashboard.common.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Dashboard.Common.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.utils.ui.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Utils.UI",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.reporting.azure.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Reporting.Azure",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.ai.win.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.AI.Win",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.pdf.drawing.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Pdf.Drawing.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.aspnetcore.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.AspNetCore.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.blazor.reporting.jsbasedcontrols.common.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Blazor.Reporting.JSBasedControls.Common",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.mvc.dashboard.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Mvc.Dashboard.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.wpf.chat.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Wpf.Chat.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aspnetcore.projecttemplates.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AspNetCore.ProjectTemplates",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.xpo.extensions.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.semanticsearch.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.SemanticSearch.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.navbar.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.NavBar.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.carousel.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Carousel.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.grid.printing.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Grid.Printing.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.persistent.baseimpl.efcore.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Persistent.BaseImpl.EFCore",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.richedit.core.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.RichEdit.Core.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.dialogs.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Dialogs.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.projecttemplates.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.ProjectTemplates",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.dashboard.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Dashboard.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.validation.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Validation.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.design.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Design.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.openai.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.OpenAI.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.schedulerextensions.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.SchedulerExtensions.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.blazor.themes.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Blazor.Themes",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.demos.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Demos.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.dashboard.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Dashboard.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.scheduler.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Scheduler.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.web.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Web.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.persistent.baseimpl.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Persistent.BaseImpl.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.treelisteditors.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.TreeListEditors.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.azure.translation.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Azure.Translation.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.themes.office2013.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Themes.Office2013",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.accordion.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Accordion.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.dialogs.core.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Dialogs.Core.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.gantt.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Gantt.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.document.processor.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Document.Processor.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.semanticsearch.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.SemanticSearch",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.conditionalappearance.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.ConditionalAppearance",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.webapi.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.WebApi.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.pivotgrid.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.PivotGrid.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.multitenancy.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.office.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Office.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.aiintegration.blazor.editors.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Editors.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.reporting.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Reporting",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.pivotgrid.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.PivotGrid.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.validation.win.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Validation.Win.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.schedulingreporting.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.SchedulingReporting",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.treemap.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.TreeMap",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.spreadsheet.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Spreadsheet.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.audittrail.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.AuditTrail.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.security.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.ai.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.AI.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.modeleditor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.ModelEditor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.reportsv2.blazor.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.ReportsV2.Blazor.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.spreadsheet.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Spreadsheet",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.gauges.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Gauges.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.office.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Office.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.web.scheduler.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Web.Scheduler",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.blazor.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Blazor.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.pivotgrid.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.PivotGrid.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.wpf.demos.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Wpf.Demos.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.chart.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Chart.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/tianwen.lib.8.2.18531.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "TianWen.Lib",
+      "nuget:version": "8.2.18531+8f2d1ed8f14b79a04a372e7fddd99f4643a9fe7d"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.win.map.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.Win.Map.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.07.03/devexpress.expressapp.notifications.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "5ce7c4c7-b2a6-46cf-9197-ca83ba70297f",
+      "commitTimeStamp": "2026-09-18T17:07:03.7879141Z",
+      "nuget:id": "DevExpress.ExpressApp.Notifications.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.blazor.layout.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Layout.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.dashboards.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.ai.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.AI.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.win.schedulerextensions.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Win.SchedulerExtensions",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.reportsv2.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.ReportsV2.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.persistent.baseimpl.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Persistent.BaseImpl.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.easytest.winadapter.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.EasyTest.WinAdapter",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/actualchat.api.2.21.209-alpha-ge8e5197c9b.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "ActualChat.Api",
+      "nuget:version": "2.21.209-alpha-ge8e5197c9b"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.dashboards.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.webapi.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.WebApi.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.winforms.semanticsearch.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.WinForms.SemanticSearch.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.win.map.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Win.Map.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.statemachine.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.StateMachine.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.charts.core.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Charts.Core.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.wpf.office.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Wpf.Office.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.wpf.diagram.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Wpf.Diagram.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.fileattachment.blazor.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.FileAttachment.Blazor.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.webapi.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.WebApi.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.blazor.editors.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Editors.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/actualchat.api.contracts.2.21.209-alpha-ge8e5197c9b.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "ActualChat.Api.Contracts",
+      "nuget:version": "2.21.209-alpha-ge8e5197c9b"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.web.reporting.common.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.Web.Reporting.Common",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.win.efcore.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Win.EFCore",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.scheduler.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Scheduler.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.web.reporting.common.services.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Web.Reporting.Common.Services.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.win.dashboard.design.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Win.Dashboard.Design.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.wpf.docking.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Wpf.Docking.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.security.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.blazor.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.aspnetcore.efcore.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.AspNetCore.EFCore.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.pdf.core.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Pdf.Core.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.docs.core.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Docs.Core",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aspire.aspnetcore.reporting.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Aspire.AspNetCore.Reporting",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.easytest.blazoradapter.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.EasyTest.BlazorAdapter",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.win.xpo.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Win.Xpo.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.win.navigation.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Win.Navigation",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.wpf.layoutcontrol.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Wpf.LayoutControl.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.aiintegration.semanticsearch.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.AIIntegration.SemanticSearch.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.win.all.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Win.All.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.web.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Web.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.win.printing.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Win.Printing.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.spellchecker.core.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.SpellChecker.Core.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.drawing.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Drawing.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.chart.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Chart.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.security.aspnetcore.xpo.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.AspNetCore.Xpo",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/sufficit.blazor.ui.2.26.918.1328.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "Sufficit.Blazor.UI",
+      "nuget:version": "2.26.918.1328"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.pdf.drawing.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.Pdf.Drawing.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.06.25/devexpress.expressapp.multitenancy.blazor.efcore.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cb6d97b7-81fc-48b4-851c-2ce00570b15c",
+      "commitTimeStamp": "2026-09-18T17:06:25.4437169Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor.EFCore.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.carousel.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Carousel.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.multitenancy.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.propertygrid.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.PropertyGrid.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.navbar.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.NavBar.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.navbar.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.NavBar",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.pdf.drawing.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Pdf.Drawing",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.blazor.richedit.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Blazor.RichEdit.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.core.all.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Core.All.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.web.office.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Web.Office.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.gauges.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.Gauges.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.dashboards.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.audittrail.xpo.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.AuditTrail.Xpo.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.core.extensions.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Core.Extensions",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.treemap.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.TreeMap",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.projecttemplates.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.WPF.ProjectTemplates",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.azure.translation.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.Azure.Translation.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.reporting.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.Reporting.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.scaffolding.ef6.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Scaffolding.EF6.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.win.all.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Win.All",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.spellchecker.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.SpellChecker.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.persistent.baseimpl.xpo.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Persistent.BaseImpl.Xpo",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.images.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Images.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/iris-agent.win-arm64.0.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "iris-agent.win-arm64",
+      "nuget:version": "0.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.themes.office2007silver.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Themes.Office2007Silver",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.grid.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.Grid.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/denny09310.aspnetcore.blazor.templates.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "Denny09310.AspNetCore.Blazor.Templates",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.security.efcore.extensions.win.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.EFCore.Extensions.Win",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.persistent.baseimpl.xpo.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Persistent.BaseImpl.Xpo.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.web.resources.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Web.Resources.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.cloneobject.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.CloneObject.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.data.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Data",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.charts.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Charts.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.expressioneditor.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.ExpressionEditor.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.multitenancy.efcore.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.EFCore",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/integration.devkit.threadlocks.contracts.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "Integration.DevKit.ThreadLocks.Contracts",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.wpf.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.Wpf",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/credfeto.dotnet.repo.formatter.win-x64.1.5.15.3724-framework-setti.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "Credfeto.DotNet.Repo.Formatter.win-x64",
+      "nuget:version": "1.5.15.3724-framework-setti"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.security.xpo.extensions.blazor.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.Xpo.Extensions.Blazor.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.blazor.viewer.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Blazor.Viewer.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.themes.win10light.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Themes.Win10Light",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.blazor.pivottable.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Blazor.PivotTable.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.themes.office2016blackse.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Themes.Office2016BlackSE",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.codeanalysis.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.CodeAnalysis",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.fileattachment.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.FileAttachment.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.audittrail.efcore.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.AuditTrail.EFCore.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.azure.textanalytics.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.Azure.TextAnalytics.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.scaffolding.wcf.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Scaffolding.WCF.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.dialogs.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.Dialogs",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.ai.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.AI.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.docs.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.Docs",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.pivotgrid.core.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.PivotGrid.Core.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.verticalgrid.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.VerticalGrid.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.semanticsearch.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.SemanticSearch.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/integration.devkit.threadlocks.contracts.1.0.1.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "Integration.DevKit.ThreadLocks.Contracts",
+      "nuget:version": "1.0.1.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.web.mvc.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Web.Mvc.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.gauges.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Gauges.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.data.desktop.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Data.Desktop.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.viewvariantsmodule.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.ViewVariantsModule.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.multitenancy.blazor.xpo.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor.Xpo.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.aiintegration.blazor.reporting.viewer.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.AIIntegration.Blazor.Reporting.Viewer.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.treemap.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.TreeMap.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.efcore.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.EFCore",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.wpf.map.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Wpf.Map.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.win.verticalgrid.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Win.VerticalGrid.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.security.xpo.extensions.win.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Security.Xpo.Extensions.Win.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.pdf.core.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Pdf.Core.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.dashboards.blazor.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Dashboards.Blazor",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.notifications.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Notifications",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.datavisualization.core.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.DataVisualization.Core.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.win.de.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Win.de",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.validation.ja.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.Validation.ja",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.expressapp.multitenancy.blazor.xpo.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.ExpressApp.MultiTenancy.Blazor.Xpo.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.easytest.testexecutor.es.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.EasyTest.TestExecutor.es",
+      "nuget:version": "26.1.4-pre-26200"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.09.18.17.05.48/devexpress.mvvm.26.1.4-pre-26200.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8aafcb7a-ccc2-44dd-9756-189dfd557403",
+      "commitTimeStamp": "2026-09-18T17:05:48.7362504Z",
+      "nuget:id": "DevExpress.Mvvm",
+      "nuget:version": "26.1.4-pre-26200"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
