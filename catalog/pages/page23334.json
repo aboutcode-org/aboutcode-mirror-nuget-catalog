@@ -1,0 +1,2745 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page23334.json",
+  "@type": "CatalogPage",
+  "commitId": "3331bb88-b332-4034-8f51-fcae9e33dc48",
+  "commitTimeStamp": "2026-10-17T10:14:46.6612106Z",
+  "count": 339,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.14.46/rawcef.binaries.macosx64.release.1000.0.0-cef.156.0.7.ci.39023627665.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3331bb88-b332-4034-8f51-fcae9e33dc48",
+      "commitTimeStamp": "2026-10-17T10:14:46.6612106Z",
+      "nuget:id": "RawCef.Binaries.Macosx64.Release",
+      "nuget:version": "1000.0.0-cef.156.0.7.ci.39023627665"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.14.46/rawcef.binaries.macosarm64.debug.1000.0.0-cef.156.0.7.ci.39023627665.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3331bb88-b332-4034-8f51-fcae9e33dc48",
+      "commitTimeStamp": "2026-10-17T10:14:46.6612106Z",
+      "nuget:id": "RawCef.Binaries.Macosarm64.Debug",
+      "nuget:version": "1000.0.0-cef.156.0.7.ci.39023627665"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.14.12/ray.infrastructure.0.1.0-alpha.38.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc634d3e-07d7-4aee-8f2b-4f24d6808233",
+      "commitTimeStamp": "2026-10-17T10:14:12.0306212Z",
+      "nuget:id": "Ray.Infrastructure",
+      "nuget:version": "0.1.0-alpha.38"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.14.12/templock.0.9.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dc634d3e-07d7-4aee-8f2b-4f24d6808233",
+      "commitTimeStamp": "2026-10-17T10:14:12.0306212Z",
+      "nuget:id": "TempLock",
+      "nuget:version": "0.9.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.13.28/monosmith.linux-x64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0d1bcbf-d198-4e81-a8fb-935ec5bfce66",
+      "commitTimeStamp": "2026-10-17T10:13:28.4516663Z",
+      "nuget:id": "monosmith.linux-x64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.13.28/rawcef.binaries.windows32.release.1000.0.0-cef.156.0.7.ci.39023627665.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0d1bcbf-d198-4e81-a8fb-935ec5bfce66",
+      "commitTimeStamp": "2026-10-17T10:13:28.4516663Z",
+      "nuget:id": "RawCef.Binaries.Windows32.Release",
+      "nuget:version": "1000.0.0-cef.156.0.7.ci.39023627665"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.13.28/monosmith.win-arm64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e0d1bcbf-d198-4e81-a8fb-935ec5bfce66",
+      "commitTimeStamp": "2026-10-17T10:13:28.4516663Z",
+      "nuget:id": "monosmith.win-arm64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.42/monosmith.osx-x64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7154d985-1565-4d7d-ad38-4e48d00d5150",
+      "commitTimeStamp": "2026-10-17T10:12:42.5727528Z",
+      "nuget:id": "monosmith.osx-x64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.42/monosmith.linux-arm64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7154d985-1565-4d7d-ad38-4e48d00d5150",
+      "commitTimeStamp": "2026-10-17T10:12:42.5727528Z",
+      "nuget:id": "monosmith.linux-arm64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.42/eggencoder.4.66.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7154d985-1565-4d7d-ad38-4e48d00d5150",
+      "commitTimeStamp": "2026-10-17T10:12:42.5727528Z",
+      "nuget:id": "EggEncoder",
+      "nuget:version": "4.66.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.42/monosmith.win-x64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7154d985-1565-4d7d-ad38-4e48d00d5150",
+      "commitTimeStamp": "2026-10-17T10:12:42.5727528Z",
+      "nuget:id": "monosmith.win-x64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.42/vex.controls.themes.1.6.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7154d985-1565-4d7d-ad38-4e48d00d5150",
+      "commitTimeStamp": "2026-10-17T10:12:42.5727528Z",
+      "nuget:id": "Vex.Controls.Themes",
+      "nuget:version": "1.6.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.08/monosmith.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f691d048-bcc5-4407-9598-15f5c2a94d18",
+      "commitTimeStamp": "2026-10-17T10:12:08.3197375Z",
+      "nuget:id": "monosmith",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.08/anthelper.1.6.104.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f691d048-bcc5-4407-9598-15f5c2a94d18",
+      "commitTimeStamp": "2026-10-17T10:12:08.3197375Z",
+      "nuget:id": "AntHelper",
+      "nuget:version": "1.6.104"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.08/cratis.ai.7.70.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f691d048-bcc5-4407-9598-15f5c2a94d18",
+      "commitTimeStamp": "2026-10-17T10:12:08.3197375Z",
+      "nuget:id": "Cratis.AI",
+      "nuget:version": "7.70.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.08/vex.controls.1.6.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f691d048-bcc5-4407-9598-15f5c2a94d18",
+      "commitTimeStamp": "2026-10-17T10:12:08.3197375Z",
+      "nuget:id": "Vex.Controls",
+      "nuget:version": "1.6.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.12.08/monosmith.osx-arm64.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f691d048-bcc5-4407-9598-15f5c2a94d18",
+      "commitTimeStamp": "2026-10-17T10:12:08.3197375Z",
+      "nuget:id": "monosmith.osx-arm64",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.10.52/lukdrasil.stepuplogging.6.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f7f537a1-7d56-439b-be01-b616d352fc5d",
+      "commitTimeStamp": "2026-10-17T10:10:52.5064572Z",
+      "nuget:id": "Lukdrasil.StepUpLogging",
+      "nuget:version": "6.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.09.31/beep.businesslogic.1.0.1-build.90.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "9b77bb09-3b12-4711-b3eb-dcb33a212668",
+      "commitTimeStamp": "2026-10-17T10:09:31.4124035Z",
+      "nuget:id": "Beep.BusinessLogic",
+      "nuget:version": "1.0.1-build.90"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.08.51/beep.repositories.1.0.1-build.90.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c1f0bf72-a7c9-498c-9f5c-77f9a3a8c778",
+      "commitTimeStamp": "2026-10-17T10:08:51.2746699Z",
+      "nuget:id": "Beep.Repositories",
+      "nuget:version": "1.0.1-build.90"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.07.35/sysadminslv.asn1parser.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0c4ea5e-7e05-4a8f-8cc5-644d0d86a0a2",
+      "commitTimeStamp": "2026-10-17T10:07:35.1628529Z",
+      "nuget:id": "SysadminsLV.Asn1Parser",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.56/vouchfx.sdk.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4032cdfe-2290-4ad1-8f0f-a1b51658d94a",
+      "commitTimeStamp": "2026-10-17T10:06:56.6368529Z",
+      "nuget:id": "Vouchfx.Sdk",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.56/monosmith.linux-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4032cdfe-2290-4ad1-8f0f-a1b51658d94a",
+      "commitTimeStamp": "2026-10-17T10:06:56.6368529Z",
+      "nuget:id": "monosmith.linux-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.56/monosmith.osx-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4032cdfe-2290-4ad1-8f0f-a1b51658d94a",
+      "commitTimeStamp": "2026-10-17T10:06:56.6368529Z",
+      "nuget:id": "monosmith.osx-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.56/monosmith.win-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4032cdfe-2290-4ad1-8f0f-a1b51658d94a",
+      "commitTimeStamp": "2026-10-17T10:06:56.6368529Z",
+      "nuget:id": "monosmith.win-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.56/opencertserver.acme.server.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "4032cdfe-2290-4ad1-8f0f-a1b51658d94a",
+      "commitTimeStamp": "2026-10-17T10:06:56.6368529Z",
+      "nuget:id": "opencertserver.acme.server",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/arc56.generated.algorandfoundation.algosdk-future-ts.1.0.1.2026101709.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "Arc56.Generated.algorandfoundation.algosdk-future-ts",
+      "nuget:version": "1.0.1.2026101709"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/monosmith.win-arm64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "monosmith.win-arm64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/opencertserver.est.server.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "opencertserver.est.server",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/vouchfx.sdk.testing.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "Vouchfx.Sdk.Testing",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/monosmith.osx-arm64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "monosmith.osx-arm64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/vouchfx.engine.abstractions.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "Vouchfx.Engine.Abstractions",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/opencertserver.acme.abstractions.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "opencertserver.acme.abstractions",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/opencertserver.acme.yarp.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "opencertserver.acme.yarp",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/opencertserver.ca.utils.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "opencertserver.ca.utils",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/arc56.generated.tripleight.aupm.1.0.3.2026101709.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "Arc56.Generated.TriplEight.AuPM",
+      "nuget:version": "1.0.3.2026101709"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/monosmith.linux-arm64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "monosmith.linux-arm64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.06.15/tracex.aspnetcore.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0f58903f-cda3-4f84-8892-a10ac045d174",
+      "commitTimeStamp": "2026-10-17T10:06:15.3193465Z",
+      "nuget:id": "TraceX.AspNetCore",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/webority.social.content.ai.0.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "Webority.Social.Content.Ai",
+      "nuget:version": "0.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/opencertserver.acme.aspnetclient.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "opencertserver.acme.aspnetclient",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/monosmith.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "monosmith",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/opencertserver.est.client.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "opencertserver.est.client",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/vouchfx.engine.compilation.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "Vouchfx.Engine.Compilation",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/vouchfx.engine.authoring.1.0.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "Vouchfx.Engine.Authoring",
+      "nuget:version": "1.0.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/hua.sort.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "Hua.Sort",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.38/webority.social.content.0.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c343e51a-b293-409c-9948-40e68b28ccaf",
+      "commitTimeStamp": "2026-10-17T10:05:38.9438821Z",
+      "nuget:id": "Webority.Social.Content",
+      "nuget:version": "0.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/opencertserver.tpm.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "opencertserver.tpm",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/opencertserver.tss.net.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "opencertserver.tss.net",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/akkafsimcpserver.1.4.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "AkkaFsiMcpServer",
+      "nuget:version": "1.4.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/opencertserver.ca.server.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "opencertserver.ca.server",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/certesslim.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "CertesSlim",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/arc56.generated.tripleight.spm.1.0.6.2026101709.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "Arc56.Generated.TriplEight.SPM",
+      "nuget:version": "1.0.6.2026101709"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/tracex.core.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "TraceX.Core",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/opencertserver.ca.3.9.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "opencertserver.ca",
+      "nuget:version": "3.9.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.05.04/webority.store.ai.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "ddef03b9-338f-4b4e-9271-c1370b77964f",
+      "commitTimeStamp": "2026-10-17T10:05:04.3342831Z",
+      "nuget:id": "Webority.Store.Ai",
+      "nuget:version": "0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.04.27/webority.store.admin.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82d35aa6-4551-4d25-b7da-e91ad0639164",
+      "commitTimeStamp": "2026-10-17T10:04:27.8333483Z",
+      "nuget:id": "Webority.Store.Admin",
+      "nuget:version": "0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.04.27/webority.store.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82d35aa6-4551-4d25-b7da-e91ad0639164",
+      "commitTimeStamp": "2026-10-17T10:04:27.8333483Z",
+      "nuget:id": "Webority.Store",
+      "nuget:version": "0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.04.27/oms.framework.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82d35aa6-4551-4d25-b7da-e91ad0639164",
+      "commitTimeStamp": "2026-10-17T10:04:27.8333483Z",
+      "nuget:id": "Oms.Framework",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.04.27/arc56.generated.ludovit-scholtz.algo-safe.1.0.6.2026101709.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "82d35aa6-4551-4d25-b7da-e91ad0639164",
+      "commitTimeStamp": "2026-10-17T10:04:27.8333483Z",
+      "nuget:id": "Arc56.Generated.ludovit-scholtz.algo-safe",
+      "nuget:version": "1.0.6.2026101709"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.52/ray.infrastructure.0.1.0-alpha.37.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0ea7897-2957-4ec6-b925-25c097ebe384",
+      "commitTimeStamp": "2026-10-17T10:03:52.9421821Z",
+      "nuget:id": "Ray.Infrastructure",
+      "nuget:version": "0.1.0-alpha.37"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.52/webority.store.entityframeworkcore.0.10.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0ea7897-2957-4ec6-b925-25c097ebe384",
+      "commitTimeStamp": "2026-10-17T10:03:52.9421821Z",
+      "nuget:id": "Webority.Store.EntityFrameworkCore",
+      "nuget:version": "0.10.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.52/netcoreapplicationtemplate.2.11.5.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0ea7897-2957-4ec6-b925-25c097ebe384",
+      "commitTimeStamp": "2026-10-17T10:03:52.9421821Z",
+      "nuget:id": "NetCoreApplicationTemplate",
+      "nuget:version": "2.11.5"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.52/webority.social.0.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0ea7897-2957-4ec6-b925-25c097ebe384",
+      "commitTimeStamp": "2026-10-17T10:03:52.9421821Z",
+      "nuget:id": "Webority.Social",
+      "nuget:version": "0.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.52/pulsetrade.shared.fs.1.571.101.302-win13.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d0ea7897-2957-4ec6-b925-25c097ebe384",
+      "commitTimeStamp": "2026-10-17T10:03:52.9421821Z",
+      "nuget:id": "PulseTrade.Shared.fs",
+      "nuget:version": "1.571.101.302-win13"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.18/fakka.proc.supervisor.1.571.101.400-win40.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c67449e2-250f-4e87-bc3b-d2c9d4fce5e8",
+      "commitTimeStamp": "2026-10-17T10:03:18.1578635Z",
+      "nuget:id": "FAkka.Proc.Supervisor",
+      "nuget:version": "1.571.101.400-win40"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.18/fakka.fsi.supervisor.1.571.101.400-win15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c67449e2-250f-4e87-bc3b-d2c9d4fce5e8",
+      "commitTimeStamp": "2026-10-17T10:03:18.1578635Z",
+      "nuget:id": "FAkka.FSI.Supervisor",
+      "nuget:version": "1.571.101.400-win15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.03.18/webority.social.admin.0.5.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "c67449e2-250f-4e87-bc3b-d2c9d4fce5e8",
+      "commitTimeStamp": "2026-10-17T10:03:18.1578635Z",
+      "nuget:id": "Webority.Social.Admin",
+      "nuget:version": "0.5.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.00.12/psdoframework.tool.1.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7881a1ef-d1e0-4e7c-b934-00e99ea47aeb",
+      "commitTimeStamp": "2026-10-17T10:00:12.2638476Z",
+      "nuget:id": "PSDoFramework.Tool",
+      "nuget:version": "1.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.00.12/monosmith.osx-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7881a1ef-d1e0-4e7c-b934-00e99ea47aeb",
+      "commitTimeStamp": "2026-10-17T10:00:12.2638476Z",
+      "nuget:id": "monosmith.osx-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.00.12/cratis.scene.model.4.68.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7881a1ef-d1e0-4e7c-b934-00e99ea47aeb",
+      "commitTimeStamp": "2026-10-17T10:00:12.2638476Z",
+      "nuget:id": "Cratis.Scene.Model",
+      "nuget:version": "4.68.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.00.12/monosmith.linux-arm64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7881a1ef-d1e0-4e7c-b934-00e99ea47aeb",
+      "commitTimeStamp": "2026-10-17T10:00:12.2638476Z",
+      "nuget:id": "monosmith.linux-arm64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.10.00.12/dmart.client.1.6.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7881a1ef-d1e0-4e7c-b934-00e99ea47aeb",
+      "commitTimeStamp": "2026-10-17T10:00:12.2638476Z",
+      "nuget:id": "Dmart.Client",
+      "nuget:version": "1.6.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/dmart.models.1.6.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "Dmart.Models",
+      "nuget:version": "1.6.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/dmart.sqladapter.1.6.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "Dmart.SqlAdapter",
+      "nuget:version": "1.6.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/webority.audit.testing.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "Webority.Audit.Testing",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/monosmith.win-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "monosmith.win-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/dmart.querygrammar.1.6.10.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "Dmart.QueryGrammar",
+      "nuget:version": "1.6.10"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/monosmith.linux-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "monosmith.linux-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.59.33/monosmith.osx-arm64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a4b792b6-008d-4c39-9f95-8b7a52d0dbf9",
+      "commitTimeStamp": "2026-10-17T09:59:33.6597201Z",
+      "nuget:id": "monosmith.osx-arm64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.58/webority.audit.azuretables.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b39c22d-c5ac-45bc-bf68-9ce7354fb99f",
+      "commitTimeStamp": "2026-10-17T09:58:58.347413Z",
+      "nuget:id": "Webority.Audit.AzureTables",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.58/webority.audit.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b39c22d-c5ac-45bc-bf68-9ce7354fb99f",
+      "commitTimeStamp": "2026-10-17T09:58:58.347413Z",
+      "nuget:id": "Webority.Audit",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.58/monosmith.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b39c22d-c5ac-45bc-bf68-9ce7354fb99f",
+      "commitTimeStamp": "2026-10-17T09:58:58.347413Z",
+      "nuget:id": "monosmith",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.58/tryagi.shotstack.1.0.1-dev.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b39c22d-c5ac-45bc-bf68-9ce7354fb99f",
+      "commitTimeStamp": "2026-10-17T09:58:58.347413Z",
+      "nuget:id": "tryAGI.Shotstack",
+      "nuget:version": "1.0.1-dev.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.58/monosmith.win-arm64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0b39c22d-c5ac-45bc-bf68-9ce7354fb99f",
+      "commitTimeStamp": "2026-10-17T09:58:58.347413Z",
+      "nuget:id": "monosmith.win-arm64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/webority.audit.razor.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "Webority.Audit.Razor",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/webority.audit.entityframeworkcore.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "Webority.Audit.EntityFrameworkCore",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/cratis.scene.engine.4.68.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "Cratis.Scene.Engine",
+      "nuget:version": "4.68.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/templock.0.9.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "TempLock",
+      "nuget:version": "0.9.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/webority.audit.aspnetcore.0.16.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "Webority.Audit.AspNetCore",
+      "nuget:version": "0.16.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.58.23/webority.azure.telemetry.0.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d7712de4-4fb6-41aa-8112-2129a063a244",
+      "commitTimeStamp": "2026-10-17T09:58:23.581603Z",
+      "nuget:id": "Webority.Azure.Telemetry",
+      "nuget:version": "0.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.57.48/webority.azure.storage.0.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a5532ff-681d-4262-8ca5-8164edf76882",
+      "commitTimeStamp": "2026-10-17T09:57:48.3832433Z",
+      "nuget:id": "Webority.Azure.Storage",
+      "nuget:version": "0.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.57.48/webority.azure.telemetry.jobs.0.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a5532ff-681d-4262-8ca5-8164edf76882",
+      "commitTimeStamp": "2026-10-17T09:57:48.3832433Z",
+      "nuget:id": "Webority.Azure.Telemetry.Jobs",
+      "nuget:version": "0.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.57.48/yesodscript.engine.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a5532ff-681d-4262-8ca5-8164edf76882",
+      "commitTimeStamp": "2026-10-17T09:57:48.3832433Z",
+      "nuget:id": "YesodScript.Engine",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.57.48/webority.azure.telemetry.functions.0.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7a5532ff-681d-4262-8ca5-8164edf76882",
+      "commitTimeStamp": "2026-10-17T09:57:48.3832433Z",
+      "nuget:id": "Webority.Azure.Telemetry.Functions",
+      "nuget:version": "0.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.57.13/webority.ads.ai.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "d5e72e53-353c-428a-85e9-403dc4025199",
+      "commitTimeStamp": "2026-10-17T09:57:13.6695862Z",
+      "nuget:id": "Webority.Ads.Ai",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.37/webority.azure.monitor.0.25.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "408e64d1-fda3-4073-8663-e42cde53897c",
+      "commitTimeStamp": "2026-10-17T09:56:37.9327083Z",
+      "nuget:id": "Webority.Azure.Monitor",
+      "nuget:version": "0.25.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.37/webority.ads.linkedin.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "408e64d1-fda3-4073-8663-e42cde53897c",
+      "commitTimeStamp": "2026-10-17T09:56:37.9327083Z",
+      "nuget:id": "Webority.Ads.LinkedIn",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.37/webority.ads.meta.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "408e64d1-fda3-4073-8663-e42cde53897c",
+      "commitTimeStamp": "2026-10-17T09:56:37.9327083Z",
+      "nuget:id": "Webority.Ads.Meta",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.37/webority.ads.microsoft.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "408e64d1-fda3-4073-8663-e42cde53897c",
+      "commitTimeStamp": "2026-10-17T09:56:37.9327083Z",
+      "nuget:id": "Webority.Ads.Microsoft",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.01/webority.ads.aspnetcore.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32011fb9-61b9-4285-a8da-80a43d976b5c",
+      "commitTimeStamp": "2026-10-17T09:56:01.4321629Z",
+      "nuget:id": "Webority.Ads.AspNetCore",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.01/webority.ads.google.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32011fb9-61b9-4285-a8da-80a43d976b5c",
+      "commitTimeStamp": "2026-10-17T09:56:01.4321629Z",
+      "nuget:id": "Webority.Ads.Google",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.56.01/webority.ads.testing.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "32011fb9-61b9-4285-a8da-80a43d976b5c",
+      "commitTimeStamp": "2026-10-17T09:56:01.4321629Z",
+      "nuget:id": "Webority.Ads.Testing",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.55.26/webority.ads.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6782c280-66ca-4afd-8f14-90fe365fb801",
+      "commitTimeStamp": "2026-10-17T09:55:26.1327315Z",
+      "nuget:id": "Webority.Ads",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.0.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "0.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.2.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "2.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.2.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "2.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.0.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "0.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.2.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "2.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/tracex.core.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "TraceX.Core",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.3.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.3.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.3.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.3.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.0.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "0.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.0.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "0.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.0.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "0.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.osx-arm64.0.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "0.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-musl-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.54.12/shotdetector.native.linux-arm64.1.3.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b7d925ec-9bcd-4195-b608-15ee35e561f1",
+      "commitTimeStamp": "2026-10-17T09:54:12.2349412Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "1.3.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.0.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "0.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.0.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "0.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.10.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.10.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.0.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "0.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.0.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "0.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.2.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "2.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.0.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "0.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.2.2.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native",
+      "nuget:version": "2.2.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.9.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.9.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.3.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.3.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.11.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.11.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.4.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.4.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.4.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.4.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.0.8.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "0.8.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.2.0.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "2.0.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.7.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.7.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.3.0-preview.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.3.0-preview.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.2.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "2.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.linux-x64.1.13.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "1.13.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.3.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.3.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.53.35/shotdetector.native.win-x64.1.6.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "75dcdece-d6e7-457a-84f6-84ee569ab9b5",
+      "commitTimeStamp": "2026-10-17T09:53:35.2954586Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "1.6.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/runic.translations.tooling.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "Runic.Translations.Tooling",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/runic.translations.commandline.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "Runic.Translations.CommandLine",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/alcops.analyzers.1.3.2-beta.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "ALCops.Analyzers",
+      "nuget:version": "1.3.2-beta.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/runic.translations.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "Runic.Translations",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/3dengine.5.2.43.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "3DEngine",
+      "nuget:version": "5.2.43"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/tracex.aspnetcore.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "TraceX.AspNetCore",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/runic.translations.wpf.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "Runic.Translations.Wpf",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/dotnet-runic-translations.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "dotnet-runic-translations",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.59/ascom.alpaca.components.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "68c4b355-eced-4830-be22-14f072daf66d",
+      "commitTimeStamp": "2026-10-17T09:52:59.3000232Z",
+      "nuget:id": "ASCOM.Alpaca.Components",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/runic.translations.build.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "Runic.Translations.Build",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/ascom.astrometrytools.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "ASCOM.AstrometryTools",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/runic.translations.templates.0.7.0-preview.3.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "Runic.Translations.Templates",
+      "nuget:version": "0.7.0-preview.3"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/rp.wpfstyledwindow.1.0.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "RP.WpfStyledWindow",
+      "nuget:version": "1.0.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/rp.wpfstyledwindow.1.0.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "RP.WpfStyledWindow",
+      "nuget:version": "1.0.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/runic.application.testing.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "Runic.Application.Testing",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/rp.wpfstyledwindow.1.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "RP.WpfStyledWindow",
+      "nuget:version": "1.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.52.23/ascom.com.choosersa.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f0177e72-8467-4135-9c95-15efd1ab845a",
+      "commitTimeStamp": "2026-10-17T09:52:23.2188973Z",
+      "nuget:id": "ASCOM.Com.ChooserSA",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.51.45/newlife.novadb.1.0.2026.1017-beta0946.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "05c910bd-a7c9-4999-82d3-f2cc70ee580c",
+      "commitTimeStamp": "2026-10-17T09:51:45.5089877Z",
+      "nuget:id": "NewLife.NovaDb",
+      "nuget:version": "1.0.2026.1017-beta0946"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.51.09/ascom.alpaca.device.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "521e3215-30e6-4410-950e-777152a7b5c7",
+      "commitTimeStamp": "2026-10-17T09:51:09.360053Z",
+      "nuget:id": "ASCOM.Alpaca.Device",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.51.09/ascom.tools.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "521e3215-30e6-4410-950e-777152a7b5c7",
+      "commitTimeStamp": "2026-10-17T09:51:09.360053Z",
+      "nuget:id": "ASCOM.Tools",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/runic.platform.linux.portal.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "Runic.Platform.Linux.Portal",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/firecrawl.1.1.3-dev.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "Firecrawl",
+      "nuget:version": "1.1.3-dev.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/runic.application.views.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "Runic.Application.Views",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/ascom.common.components.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "ASCOM.Common.Components",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/runic.platform.linux.polkit.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "Runic.Platform.Linux.Polkit",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.50.27/ascom.com.components.4.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "8dad5bb6-6dec-4a85-9034-01219c1aafd2",
+      "commitTimeStamp": "2026-10-17T09:50:27.0151595Z",
+      "nuget:id": "ASCOM.Com.Components",
+      "nuget:version": "4.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.platform.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Platform",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.assets.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Assets",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.desktop.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Desktop",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.platform.linux.gtk4.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Platform.Linux.Gtk4",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.assets.aspnetcore.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Assets.AspNetCore",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.assets.desktop.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Assets.Desktop",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.application.views.cswebui.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Application.Views.CsWebUi",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.52/runic.platform.administration.windows.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fccb4556-9006-4454-bce7-db727dc9262b",
+      "commitTimeStamp": "2026-10-17T09:49:52.1151432Z",
+      "nuget:id": "Runic.Platform.Administration.Windows",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/dotnet-runic.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "dotnet-runic",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.desktop.gtk4.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Desktop.Gtk4",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.platform.macos.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Platform.MacOS",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.platform.linux.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Platform.Linux",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.application.templates.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Application.Templates",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/mentaldesk.tui.0.3.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "MentalDesk.Tui",
+      "nuget:version": "0.3.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.create.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Create",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/pokeapi.models.1.0.197.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "PokeApi.Models",
+      "nuget:version": "1.0.197"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.navigation.reactiveui.reactive.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Navigation.ReactiveUI.Reactive",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.navigation.reactiveui.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Navigation.ReactiveUI",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.application.views.desktop.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Application.Views.Desktop",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.platform.runtime.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Platform.Runtime",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.platform.windows.elevation.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Platform.Windows.Elevation",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/firecrawl.cli.1.1.3-dev.34.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Firecrawl.Cli",
+      "nuget:version": "1.1.3-dev.34"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.49.16/runic.navigation.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f8ac33ef-b441-40f4-94e6-6f0c9d42961a",
+      "commitTimeStamp": "2026-10-17T09:49:16.3324659Z",
+      "nuget:id": "Runic.Navigation",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/shotdetector.native.linux-musl-x64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "ShotDetector.Native.linux-musl-x64",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/runic.application.views.wpf.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "Runic.Application.Views.Wpf",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/runic.application.views.reactiveui.reactive.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "Runic.Application.Views.ReactiveUI.Reactive",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/shotdetector.native.osx-arm64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "ShotDetector.Native.osx-arm64",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/runic.application.views.reactiveui.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "Runic.Application.Views.ReactiveUI",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/shotdetector.native.linux-arm64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "ShotDetector.Native.linux-arm64",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.40/runic.navigation.wpf.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6ba8c05e-8cd9-4b6f-a717-e5cf35be5813",
+      "commitTimeStamp": "2026-10-17T09:48:40.3443543Z",
+      "nuget:id": "Runic.Navigation.Wpf",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/shotdetector.native.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "ShotDetector.Native",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/taurikit.sidecar.loopback.aspnetcore.0.21.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "TauriKit.Sidecar.Loopback.AspNetCore",
+      "nuget:version": "0.21.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/shotdetector.native.win-x64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "ShotDetector.Native.win-x64",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/runic.platform.windows.0.8.0-preview.4.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "Runic.Platform.Windows",
+      "nuget:version": "0.8.0-preview.4"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/shotdetector.native.linux-x64.2.2.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "ShotDetector.Native.linux-x64",
+      "nuget:version": "2.2.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.48.05/coworkee.studio.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "6e9be1e2-9c84-48fd-b911-b61f1daeffee",
+      "commitTimeStamp": "2026-10-17T09:48:05.5772223Z",
+      "nuget:id": "Coworkee.Studio",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.47.30/taurikit.sidecar.loopback.0.21.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "540bc96d-1925-49cb-aa41-6ad22cb0cafc",
+      "commitTimeStamp": "2026-10-17T09:47:30.8981709Z",
+      "nuget:id": "TauriKit.Sidecar.Loopback",
+      "nuget:version": "0.21.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.56/searchstack.publicapi.6.12.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e15c497a-bf72-49df-b93b-480e2844d427",
+      "commitTimeStamp": "2026-10-17T09:46:56.078829Z",
+      "nuget:id": "SearchStack.PublicApi",
+      "nuget:version": "6.12.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.21/coworkee.templates.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fc121cd0-f4b9-4351-a04c-ef3870ec5655",
+      "commitTimeStamp": "2026-10-17T09:46:21.2109676Z",
+      "nuget:id": "Coworkee.Templates",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.21/newheap.platform.events.cap.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fc121cd0-f4b9-4351-a04c-ef3870ec5655",
+      "commitTimeStamp": "2026-10-17T09:46:21.2109676Z",
+      "nuget:id": "NewHeap.Platform.Events.Cap",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.21/avadevtools.12.1.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fc121cd0-f4b9-4351-a04c-ef3870ec5655",
+      "commitTimeStamp": "2026-10-17T09:46:21.2109676Z",
+      "nuget:id": "AvaDevTools",
+      "nuget:version": "12.1.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.21/coworkee.cli.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fc121cd0-f4b9-4351-a04c-ef3870ec5655",
+      "commitTimeStamp": "2026-10-17T09:46:21.2109676Z",
+      "nuget:id": "Coworkee.Cli",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.46.21/newheap.platform.ai.common.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "fc121cd0-f4b9-4351-a04c-ef3870ec5655",
+      "commitTimeStamp": "2026-10-17T09:46:21.2109676Z",
+      "nuget:id": "NewHeap.Platform.AI.Common",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.files.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.Files",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/newheap.platform.ai.aspnet.mvc.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "NewHeap.Platform.AI.AspNet.Mvc",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.eventbus.rabbitmq.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.EventBus.RabbitMq",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/newheap.platform.common.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "NewHeap.Platform.Common",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.contracts.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.Contracts",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/newheap.platform.ai.chat.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "NewHeap.Platform.AI.Chat",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.responsefilters.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.ResponseFilters",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/newheap.platform.databaseread.tool.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "NewHeap.Platform.DatabaseRead.Tool",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.auditing.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.Auditing",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/mentaldesk.tui.0.3.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "MentalDesk.Tui",
+      "nuget:version": "0.3.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.ai.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.Ai",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.odata.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.OData",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.testing.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.Testing",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/newheap.platform.ai.chat.sqlserver.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "NewHeap.Platform.AI.Chat.SqlServer",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.43/coworkee.extendedattributes.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "bd113c1a-40be-4b34-82b3-baf44d8683b6",
+      "commitTimeStamp": "2026-10-17T09:45:43.5537327Z",
+      "nuget:id": "Coworkee.ExtendedAttributes",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.realtime.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Realtime",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.bff.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Bff",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/sjolystinnovation.appkit.sitesettings.0.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "SjolystInnovation.AppKit.SiteSettings",
+      "nuget:version": "0.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.storage.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Storage",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.client.blazor.cliententities.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Client.Blazor.ClientEntities",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.identity.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Identity",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.domain.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Domain",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.backgroundjobs.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.BackgroundJobs",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.search.elasticsearch.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Search.Elasticsearch",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.reporting.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Reporting",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.notifications.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Notifications",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.aspnet.common.postgresql.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AspNet.Common.PostgreSql",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.authserver.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.AuthServer",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.search.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Search",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.aspnet.common.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AspNet.Common",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.workflows.elsa.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Workflows.Elsa",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.account.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Account",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.client.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Client",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.ai.generators.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AI.Generators",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.application.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Application",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.client.blazor.reporting.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Client.Blazor.Reporting",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.aspnetcore.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.AspNetCore",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.ai.agentframework.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AI.AgentFramework",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.common.test.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.Common.Test",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.aspnet.common.sqlserver.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AspNet.Common.SqlServer",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.ai.chat.aspnet.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AI.Chat.AspNet",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/newheap.platform.ai.chat.postgresql.14.0.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "NewHeap.Platform.AI.Chat.PostgreSql",
+      "nuget:version": "14.0.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.features.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Features",
+      "nuget:version": "0.0.1.32"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.17.09.45.07/coworkee.theming.0.0.1.32.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "dff31996-3e69-4dba-a67c-46cf3747a396",
+      "commitTimeStamp": "2026-10-17T09:45:07.0775103Z",
+      "nuget:id": "Coworkee.Theming",
+      "nuget:version": "0.0.1.32"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
