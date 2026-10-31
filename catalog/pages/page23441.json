@@ -1,0 +1,1385 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page23441.json",
+  "@type": "CatalogPage",
+  "commitId": "39d1fd73-78cd-4545-9bc5-c8aa40453771",
+  "commitTimeStamp": "2026-10-31T04:10:47.2220226Z",
+  "count": 169,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.10.47/aotcross.sysroot.linux-x64.10.0.0-preview.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "39d1fd73-78cd-4545-9bc5-c8aa40453771",
+      "commitTimeStamp": "2026-10-31T04:10:47.2220226Z",
+      "nuget:id": "AotCross.Sysroot.linux-x64",
+      "nuget:version": "10.0.0-preview.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.58/core.persistencelayer.1.0.57-beta.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b248e9c5-8a9a-41ee-a90b-ae7d6dc6a5e7",
+      "commitTimeStamp": "2026-10-31T04:09:58.8463697Z",
+      "nuget:id": "Core.PersistenceLayer",
+      "nuget:version": "1.0.57-beta.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.58/aotcross.sysroot.osx-arm64.10.0.0-preview.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b248e9c5-8a9a-41ee-a90b-ae7d6dc6a5e7",
+      "commitTimeStamp": "2026-10-31T04:09:58.8463697Z",
+      "nuget:id": "AotCross.Sysroot.osx-arm64",
+      "nuget:version": "10.0.0-preview.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.58/core.persistencelayer.1.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "b248e9c5-8a9a-41ee-a90b-ae7d6dc6a5e7",
+      "commitTimeStamp": "2026-10-31T04:09:58.8463697Z",
+      "nuget:id": "Core.PersistenceLayer",
+      "nuget:version": "1.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.20/aotcross.osx-arm64.10.0.0-preview.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "691dafca-a341-4825-b0da-50d1d59299cd",
+      "commitTimeStamp": "2026-10-31T04:09:20.8497875Z",
+      "nuget:id": "AotCross.osx-arm64",
+      "nuget:version": "10.0.0-preview.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.20/murf.1.0.1-dev.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "691dafca-a341-4825-b0da-50d1d59299cd",
+      "commitTimeStamp": "2026-10-31T04:09:20.8497875Z",
+      "nuget:id": "Murf",
+      "nuget:version": "1.0.1-dev.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.20/xamarin.documentreader.api.android.9.10.950-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "691dafca-a341-4825-b0da-50d1d59299cd",
+      "commitTimeStamp": "2026-10-31T04:09:20.8497875Z",
+      "nuget:id": "Xamarin.DocumentReader.Api.Android",
+      "nuget:version": "9.10.950-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.20/murf.cli.1.0.1-dev.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "691dafca-a341-4825-b0da-50d1d59299cd",
+      "commitTimeStamp": "2026-10-31T04:09:20.8497875Z",
+      "nuget:id": "Murf.CLI",
+      "nuget:version": "1.0.1-dev.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.09.20/net.agora.extensions.spatialaudio.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "691dafca-a341-4825-b0da-50d1d59299cd",
+      "commitTimeStamp": "2026-10-31T04:09:20.8497875Z",
+      "nuget:id": "Net.Agora.Extensions.SpatialAudio.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.08.27/xamarin.documentreader.api.ios.9.10.950-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ab3d18e-7453-4b93-9f8c-9515a3e8bd68",
+      "commitTimeStamp": "2026-10-31T04:08:27.1941525Z",
+      "nuget:id": "Xamarin.DocumentReader.Api.iOS",
+      "nuget:version": "9.10.950-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.08.27/core.crosscuttingconcernlayer.1.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ab3d18e-7453-4b93-9f8c-9515a3e8bd68",
+      "commitTimeStamp": "2026-10-31T04:08:27.1941525Z",
+      "nuget:id": "Core.CrossCuttingConcernLayer",
+      "nuget:version": "1.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.08.27/net.agora.extensions.ains.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ab3d18e-7453-4b93-9f8c-9515a3e8bd68",
+      "commitTimeStamp": "2026-10-31T04:08:27.1941525Z",
+      "nuget:id": "Net.Agora.Extensions.Ains.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.08.27/core.applicationlayer.1.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ab3d18e-7453-4b93-9f8c-9515a3e8bd68",
+      "commitTimeStamp": "2026-10-31T04:08:27.1941525Z",
+      "nuget:id": "Core.ApplicationLayer",
+      "nuget:version": "1.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.08.27/core.securitylayer.1.0.57.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "3ab3d18e-7453-4b93-9f8c-9515a3e8bd68",
+      "commitTimeStamp": "2026-10-31T04:08:27.1941525Z",
+      "nuget:id": "Core.SecurityLayer",
+      "nuget:version": "1.0.57"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.07.41/core.applicationlayer.1.0.57-beta.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e05bb448-6c4b-42f7-aa00-4e45fd7b50ae",
+      "commitTimeStamp": "2026-10-31T04:07:41.2188082Z",
+      "nuget:id": "Core.ApplicationLayer",
+      "nuget:version": "1.0.57-beta.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.07.41/core.securitylayer.1.0.57-beta.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e05bb448-6c4b-42f7-aa00-4e45fd7b50ae",
+      "commitTimeStamp": "2026-10-31T04:07:41.2188082Z",
+      "nuget:id": "Core.SecurityLayer",
+      "nuget:version": "1.0.57-beta.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.07.41/core.crosscuttingconcernlayer.1.0.57-beta.62.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e05bb448-6c4b-42f7-aa00-4e45fd7b50ae",
+      "commitTimeStamp": "2026-10-31T04:07:41.2188082Z",
+      "nuget:id": "Core.CrossCuttingConcernLayer",
+      "nuget:version": "1.0.57-beta.62"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.07.41/aotcross.linux-x64.10.0.0-preview.9.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "e05bb448-6c4b-42f7-aa00-4e45fd7b50ae",
+      "commitTimeStamp": "2026-10-31T04:07:41.2188082Z",
+      "nuget:id": "AotCross.linux-x64",
+      "nuget:version": "10.0.0-preview.9"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.06.44/moka.ai.0.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "cafa0708-6957-4569-b9d9-b7efe4f74e10",
+      "commitTimeStamp": "2026-10-31T04:06:44.4311105Z",
+      "nuget:id": "Moka.AI",
+      "nuget:version": "0.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.06.00/ntdls.persistence.2.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "175ea608-5b04-4b65-a9c7-b8eb3eab4f6d",
+      "commitTimeStamp": "2026-10-31T04:06:00.8714889Z",
+      "nuget:id": "NTDLS.Persistence",
+      "nuget:version": "2.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.06.00/uaparser.core.4.0.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "175ea608-5b04-4b65-a9c7-b8eb3eab4f6d",
+      "commitTimeStamp": "2026-10-31T04:06:00.8714889Z",
+      "nuget:id": "UAParser.Core",
+      "nuget:version": "4.0.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.06.00/chromafx.io.0.5.0-beta.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "175ea608-5b04-4b65-a9c7-b8eb3eab4f6d",
+      "commitTimeStamp": "2026-10-31T04:06:00.8714889Z",
+      "nuget:id": "ChromaFx.IO",
+      "nuget:version": "0.5.0-beta.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/lightui.1.1.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "LightUi",
+      "nuget:version": "1.1.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/chromafx.0.5.0-beta.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "ChromaFx",
+      "nuget:version": "0.5.0-beta.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/moka.blazor.ai.0.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "Moka.Blazor.AI",
+      "nuget:version": "0.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/net.agora.extensions.clearvision.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "Net.Agora.Extensions.ClearVision.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/net.agora.signaling.mac.2.3.0.1-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "Net.Agora.Signaling.Mac",
+      "nuget:version": "2.3.0.1-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.05.12/net.agora.extensions.contentinspect.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1e5cd6ec-88a7-4d5c-9d45-0aaa78d0b44d",
+      "commitTimeStamp": "2026-10-31T04:05:12.5264556Z",
+      "nuget:id": "Net.Agora.Extensions.ContentInspect.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/moka.ai.onnx.0.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Moka.AI.Onnx",
+      "nuget:version": "0.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/net.agora.extensions.facecapture.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Net.Agora.Extensions.FaceCapture.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/thunder-dbf.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "thunder-dbf",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/net.agora.extensions.virtualbackground.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Net.Agora.Extensions.VirtualBackground.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/net.agora.extensions.av1encoder.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Net.Agora.Extensions.Av1Encoder.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/chromafx.processing.0.5.0-beta.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "ChromaFx.Processing",
+      "nuget:version": "0.5.0-beta.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/net.agora.extensions.videoencoder.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Net.Agora.Extensions.VideoEncoder.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/moka.ai.mcp.0.5.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "Moka.AI.Mcp",
+      "nuget:version": "0.5.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.04.29/fshotwatch.cli.0.14.0-alpha.132.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f1433a88-52ce-4114-bb13-eaf9859aea12",
+      "commitTimeStamp": "2026-10-31T04:04:29.6790772Z",
+      "nuget:id": "FsHotWatch.Cli",
+      "nuget:version": "0.14.0-alpha.132"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.03.50/extrode.husk.build.0.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21a2a053-031f-4a62-a2a7-1ad5444b4cdf",
+      "commitTimeStamp": "2026-10-31T04:03:50.6996568Z",
+      "nuget:id": "Extrode.Husk.Build",
+      "nuget:version": "0.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.03.50/net.agora.extensions.aiaec.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21a2a053-031f-4a62-a2a7-1ad5444b4cdf",
+      "commitTimeStamp": "2026-10-31T04:03:50.6996568Z",
+      "nuget:id": "Net.Agora.Extensions.Aiaec.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.03.50/thunder.dbf.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21a2a053-031f-4a62-a2a7-1ad5444b4cdf",
+      "commitTimeStamp": "2026-10-31T04:03:50.6996568Z",
+      "nuget:id": "Thunder.Dbf",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.03.50/chromafx.core.0.5.0-beta.45.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21a2a053-031f-4a62-a2a7-1ad5444b4cdf",
+      "commitTimeStamp": "2026-10-31T04:03:50.6996568Z",
+      "nuget:id": "ChromaFx.Core",
+      "nuget:version": "0.5.0-beta.45"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.03.50/net.agora.extensions.audiobeauty.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "21a2a053-031f-4a62-a2a7-1ad5444b4cdf",
+      "commitTimeStamp": "2026-10-31T04:03:50.6996568Z",
+      "nuget:id": "Net.Agora.Extensions.AudioBeauty.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.54/net.agora.extensions.videoqualityanalyzer.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57504090-9e7b-4524-84b1-e6006fa7d817",
+      "commitTimeStamp": "2026-10-31T04:02:54.1082956Z",
+      "nuget:id": "Net.Agora.Extensions.VideoQualityAnalyzer.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.54/net.agora.extensions.facedetection.mac.4.6.2.2-beta.12.17.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57504090-9e7b-4524-84b1-e6006fa7d817",
+      "commitTimeStamp": "2026-10-31T04:02:54.1082956Z",
+      "nuget:id": "Net.Agora.Extensions.FaceDetection.Mac",
+      "nuget:version": "4.6.2.2-beta.12.17"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.54/xamarin.documentreader.core.rfid.android.9.10.3861-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57504090-9e7b-4524-84b1-e6006fa7d817",
+      "commitTimeStamp": "2026-10-31T04:02:54.1082956Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.RFID.Android",
+      "nuget:version": "9.10.3861-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.54/thunder.dbf.sql.0.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57504090-9e7b-4524-84b1-e6006fa7d817",
+      "commitTimeStamp": "2026-10-31T04:02:54.1082956Z",
+      "nuget:id": "Thunder.Dbf.Sql",
+      "nuget:version": "0.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.54/extrode.husk.aspnetcore.0.1.0-preview.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "57504090-9e7b-4524-84b1-e6006fa7d817",
+      "commitTimeStamp": "2026-10-31T04:02:54.1082956Z",
+      "nuget:id": "Extrode.Husk.AspNetCore",
+      "nuget:version": "0.1.0-preview.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.postgresql.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore.PostgreSQL",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.caching.fusioncache.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore.Caching.FusionCache",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.caching.inmemory.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore.Caching.InMemory",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.dependencyinjection.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore.DependencyInjection",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/xamarin.documentreader.core.rfid.ios.9.10.3861-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.RFID.iOS",
+      "nuget:version": "9.10.3861-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.02.11/cachedefcore.sqlserver.1.1.2-rc.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "69d7470d-5de3-4bf8-8e17-3af7b1cab5e9",
+      "commitTimeStamp": "2026-10-31T04:02:11.9565732Z",
+      "nuget:id": "CachedEfCore.SqlServer",
+      "nuget:version": "1.1.2-rc.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.00.52/goo.widgets.0.17.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1b1bc2f4-2f2b-4c24-ad3a-b786d6eb5ca6",
+      "commitTimeStamp": "2026-10-31T04:00:52.8784455Z",
+      "nuget:id": "Goo.Widgets",
+      "nuget:version": "0.17.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.00.18/opentok.net.transformers.ios.2.34.1.2-beta.10.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5983eff-5e58-48ba-bd1f-1aca36599929",
+      "commitTimeStamp": "2026-10-31T04:00:18.0856213Z",
+      "nuget:id": "OpenTok.Net.Transformers.iOS",
+      "nuget:version": "2.34.1.2-beta.10.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.04.00.18/opentok.net.ios.2.34.1.2-beta.10.11.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "f5983eff-5e58-48ba-bd1f-1aca36599929",
+      "commitTimeStamp": "2026-10-31T04:00:18.0856213Z",
+      "nuget:id": "OpenTok.Net.iOS",
+      "nuget:version": "2.34.1.2-beta.10.11"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/joinery.dovetail.configuration.yaml.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Joinery.Dovetail.Configuration.Yaml",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/joinery.dovetail.analyzers.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Joinery.Dovetail.Analyzers",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/joinery.dovetail.sdk.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Joinery.Dovetail.Sdk",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/pulumi.snowflake.2.22.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Pulumi.Snowflake",
+      "nuget:version": "2.22.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/clarity.runtime.sqlite.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Clarity.Runtime.Sqlite",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/tochires.errors.0.1.12.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "TochiRes.Errors",
+      "nuget:version": "0.1.12"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/clarity.runtime.sqlserver.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Clarity.Runtime.SqlServer",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.47/clarity.runtime.postgresql.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "833a5fcb-44c7-4d7a-bf5d-241c20c63447",
+      "commitTimeStamp": "2026-10-31T03:57:47.9602802Z",
+      "nuget:id": "Clarity.Runtime.PostgreSql",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.05/aotcross.lld.win-x64.22.1.2.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25606ea1-3136-4544-b8e2-ffc1afd3f43e",
+      "commitTimeStamp": "2026-10-31T03:57:05.6416336Z",
+      "nuget:id": "AotCross.Lld.win-x64",
+      "nuget:version": "22.1.2"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.05/joinery.dovetail.opentelemetry.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25606ea1-3136-4544-b8e2-ffc1afd3f43e",
+      "commitTimeStamp": "2026-10-31T03:57:05.6416336Z",
+      "nuget:id": "Joinery.Dovetail.OpenTelemetry",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.05/joinery.dovetail.aspire.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25606ea1-3136-4544-b8e2-ffc1afd3f43e",
+      "commitTimeStamp": "2026-10-31T03:57:05.6416336Z",
+      "nuget:id": "Joinery.Dovetail.Aspire",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.57.05/joinery.dovetail.aspire.testing.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "25606ea1-3136-4544-b8e2-ffc1afd3f43e",
+      "commitTimeStamp": "2026-10-31T03:57:05.6416336Z",
+      "nuget:id": "Joinery.Dovetail.Aspire.Testing",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/xamarin.documentreader.core.ocrandmrzrfid.android.9.10.3860-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMrzRfid.Android",
+      "nuget:version": "9.10.3860-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/xamarin.documentreader.core.ocrandmrzrfid.ios.9.10.3860-rc.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Xamarin.DocumentReader.Core.OcrAndMrzRfid.iOS",
+      "nuget:version": "9.10.3860-rc"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/joinery.dovetail.configuration.toml.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Joinery.Dovetail.Configuration.Toml",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/clarity.runtime.mysql.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Clarity.Runtime.MySql",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/joinery.dovetail.autofac.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Joinery.Dovetail.Autofac",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/messaia.net.base.mail.workers.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Workers",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/joinery.dovetail.serilog.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Joinery.Dovetail.Serilog",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/joinery.dovetail.configuration.json.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Joinery.Dovetail.Configuration.Json",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/clarity.runtime.engines.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Clarity.Runtime.Engines",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.56.29/joinery.dovetail.stashbox.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "93e42b88-37e0-4486-b166-6dcf976e3862",
+      "commitTimeStamp": "2026-10-31T03:56:29.9936166Z",
+      "nuget:id": "Joinery.Dovetail.Stashbox",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/clarity.runtime.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Clarity.Runtime",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/efcore.includebyexpression.10.0.15.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "EFCore.IncludeByExpression",
+      "nuget:version": "10.0.15"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.base.menu.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/joinery.dovetail.mermaid.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Joinery.Dovetail.Mermaid",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/joinery.dovetail.testing.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Joinery.Dovetail.Testing",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.base.template.mapping.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Base.Template.Mapping",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/joinery.dovetail.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Joinery.Dovetail",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/pulumi.harness.0.17.6.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Pulumi.Harness",
+      "nuget:version": "0.17.6"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.base.template.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Base.Template.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/joinery.dovetail.hosting.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Joinery.Dovetail.Hosting",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.base.menu.razor.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Razor",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.base.menu.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Base.Menu.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/clarity.avalonia.desktop.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Clarity.Avalonia.Desktop",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/joinery.dovetail.dryioc.0.3.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Joinery.Dovetail.DryIoc",
+      "nuget:version": "0.3.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.52/messaia.net.template.test.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "a46a31ff-f471-49ca-85ad-a275de588cc7",
+      "commitTimeStamp": "2026-10-31T03:55:52.7603185Z",
+      "nuget:id": "Messaia.Net.Template.Test",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/clarity.avalonia.0.66.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Clarity.Avalonia",
+      "nuget:version": "0.66.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.template.compiler.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Template.Compiler",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.template.compiler.helpers.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Template.Compiler.Helpers",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/pulumi.okta.7.1.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Pulumi.Okta",
+      "nuget:version": "7.1.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.template.compiler.fluid.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Template.Compiler.Fluid",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.template.enums.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Template.Enums",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.menu.mapping.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Mapping",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.template.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Template.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.identity.razor.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Razor",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/messaia.net.base.identity.common.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Common",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.55.14/pulumi.elasticcloud.0.13.0.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "12fcc618-421a-4be6-a525-6e46e5c96ce0",
+      "commitTimeStamp": "2026-10-31T03:55:14.2442766Z",
+      "nuget:id": "Pulumi.ElasticCloud",
+      "nuget:version": "0.13.0"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.security.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Security.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.enums.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Enums",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.dataaccess.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.DataAccess",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.compiler.scriban.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Compiler.Scriban",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.identity.observers.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Observers.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.dataaccess.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.DataAccess",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.hostedservice.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.repositories.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Repositories",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.contracts.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Contracts",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.identity.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.compiler.razorengine.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Compiler.RazorEngine",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.mail.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.enums.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Enums",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.hostedservice.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.repositories.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Repositories",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.abstractions.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Abstractions",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.template.api.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Template.Api",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/messaia.net.base.menu.dataaccess.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Messaia.Net.Base.Menu.DataAccess",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.37/acta.sqlite.1.0.0-rc.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "42379751-a334-40c1-a55b-1cd9c0e356ef",
+      "commitTimeStamp": "2026-10-31T03:54:37.5094746Z",
+      "nuget:id": "Acta.Sqlite",
+      "nuget:version": "1.0.0-rc.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.hostedservice.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.menu.api.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Api",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.hostedservice.security.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Security",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.mail.api.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Api",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.mail.repositories.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Repositories",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.mail.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.content.enums.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Content.Enums",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.identity.repositories.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Repositories",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.identity.observers.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Observers",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/panoramicdata.blazor.10.0.469.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "PanoramicData.Blazor",
+      "nuget:version": "10.0.469"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.menu.security.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Menu.Security",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.54.02/messaia.net.base.content.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "0e8df005-f674-4c59-9ba3-0d99fcf6e1b6",
+      "commitTimeStamp": "2026-10-31T03:54:02.2747766Z",
+      "nuget:id": "Messaia.Net.Base.Content.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.hostedservice.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/acta.1.0.0-rc.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Acta",
+      "nuget:version": "1.0.0-rc.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.hostedservice.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.content.services.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Content.Services.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.audit.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Audit.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.content.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Content.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.mail.mapping.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Mapping",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/acta.testing.1.0.0-rc.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Acta.Testing",
+      "nuget:version": "1.0.0-rc.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/acta.redis.1.0.0-rc.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Acta.Redis",
+      "nuget:version": "1.0.0-rc.7"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.hostedservice.security.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.Security.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.content.repositories.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Content.Repositories",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.audit.enums.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Audit.Enums",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.hostedservice.dataaccess.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.HostedService.DataAccess",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.filters.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Filters",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/fshotwatch.build.0.7.0-alpha.51.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "FsHotWatch.Build",
+      "nuget:version": "0.7.0-alpha.51"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.viewmodels.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.ViewModels",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.content.repositories.impl.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Content.Repositories.Impl",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.audit.dataaccess.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Audit.DataAccess",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.mail.models.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Mail.Models",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.identity.mapping.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Identity.Mapping",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/messaia.net.base.content.services.10.2.0-beta06.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Messaia.Net.Base.Content.Services",
+      "nuget:version": "10.2.0-beta06"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.10.31.03.53.25/acta.postgres.1.0.0-rc.7.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "028ad550-b266-4447-b687-8bf9994c65ea",
+      "commitTimeStamp": "2026-10-31T03:53:25.5318446Z",
+      "nuget:id": "Acta.Postgres",
+      "nuget:version": "1.0.0-rc.7"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
