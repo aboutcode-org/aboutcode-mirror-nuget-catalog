@@ -1,0 +1,113 @@
+{
+  "@id": "https://api.nuget.org/v3/catalog0/page23667.json",
+  "@type": "CatalogPage",
+  "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+  "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+  "count": 10,
+  "parent": "https://api.nuget.org/v3/catalog0/index.json",
+  "items": [
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.53/saea.sockets.pipeline.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+      "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+      "nuget:id": "SAEA.Sockets.Pipeline",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.53/saea.p2p.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+      "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+      "nuget:id": "SAEA.P2P",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.53/saea.mvc.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+      "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+      "nuget:id": "SAEA.MVC",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.53/krosoft.extensions.testing.2026.11.28.14335.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+      "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+      "nuget:id": "Krosoft.Extensions.Testing",
+      "nuget:version": "2026.11.28.14335"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.53/saea.redissocket.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "7e31642c-689e-46b4-af93-e9a5071f2273",
+      "commitTimeStamp": "2026-11-28T10:09:53.1716402Z",
+      "nuget:id": "SAEA.RedisSocket",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.16/saea.ftp.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1848bd03-e61a-4540-a980-f87a0da1575f",
+      "commitTimeStamp": "2026-11-28T10:09:16.4205338Z",
+      "nuget:id": "SAEA.FTP",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.16/saea.sockets.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1848bd03-e61a-4540-a980-f87a0da1575f",
+      "commitTimeStamp": "2026-11-28T10:09:16.4205338Z",
+      "nuget:id": "SAEA.Sockets",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.16/krosoft.extensions.testing.webapi.2026.11.28.14335.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1848bd03-e61a-4540-a980-f87a0da1575f",
+      "commitTimeStamp": "2026-11-28T10:09:16.4205338Z",
+      "nuget:id": "Krosoft.Extensions.Testing.WebApi",
+      "nuget:version": "2026.11.28.14335"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.16/saea.messagesocket.26.11.28.1.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1848bd03-e61a-4540-a980-f87a0da1575f",
+      "commitTimeStamp": "2026-11-28T10:09:16.4205338Z",
+      "nuget:id": "SAEA.MessageSocket",
+      "nuget:version": "26.11.28.1"
+    },
+    {
+      "@id": "https://api.nuget.org/v3/catalog0/data/2026.11.28.10.09.16/eternet.agents.control.cli.linux-musl-arm64.5.2.49.json",
+      "@type": "nuget:PackageDetails",
+      "commitId": "1848bd03-e61a-4540-a980-f87a0da1575f",
+      "commitTimeStamp": "2026-11-28T10:09:16.4205338Z",
+      "nuget:id": "Eternet.Agents.Control.Cli.linux-musl-arm64",
+      "nuget:version": "5.2.49"
+    }
+  ],
+  "@context": {
+    "@vocab": "http://schema.nuget.org/catalog#",
+    "nuget": "http://schema.nuget.org/schema#",
+    "items": {
+      "@id": "item",
+      "@container": "@set"
+    },
+    "parent": {
+      "@type": "@id"
+    },
+    "commitTimeStamp": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastCreated": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastEdited": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "nuget:lastDeleted": {
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    }
+  }
+}
